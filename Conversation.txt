@@ -1,0 +1,932 @@
+Introductions:
+Hello! *ni3hao3﹗ *你好﹗ *
+Hello! *ni3hao3 ﹗ *你好﹗ *
+What's your last name? *ni3 xing4 shi2 me ? *你姓什麼﹖ *
+My last name is Xie. *wo3 xing4 xie4 *我姓谢*
+What's your(full) name? *ni3 jiao4 shi2 me ? *你叫什麼﹖ *
+My full name is Xie Tianwei. *wo3 jiao4 xie4 tian1 wei4 *我叫谢天蔚*
+What (job) do you do? *ni3 shi4 zuo4 shen2mede ? *你是做什麼的﹖ *
+I am a teacher. *wo3 shi4 lao3shi1. *我是老失 *
+Thank you! *xie4xie ? *谢谢﹗ *
+You are welcome. *bu2ke4qi4 . *不客气。 *
+Good-bye *zai4jian4 *再见*
+Good-bye *zai4jian4 *再见*
+
+Introductions1:
+Hello! *ni3hao3 ! *你好﹗  *
+Hello! *ni3hao3 ﹗ *你好﹗ *
+What's his last name? *ta1 xing4 shi2 me ? *他姓什麼﹖*
+His last name is Wang. *ta1 xing4 wang2 . *他姓王。 *
+What's his (full) name? *ta1 jiao4 shi2 me ? *他叫什麼﹖ *
+His (full) name is Wang Xiaohua. *ta1 jiao4 wang2 xiao3 hua1 . *他叫王小花。 *
+Where does he work? *ta1 zai4 na3li gong1zuo4 ? *他在哪力工作*
+He is a student. *ta1 shi4 xue2sheng . *他是学生。 *
+Good-bye! *zai4jian4 ? *再见﹗ *
+Good-bye *zai4jian4 *再见*
+
+Introductions2:
+What's your last name? *ni3 xing4 shi2 me ? *你姓什麼﹖ *
+My last name is Xie. *wo3 xing4 xie4 . *我姓谢。 *
+What's your(full) name? *ni3 jiao4 shi2 me ? *你叫什麼﹖ *
+My (full)name is Xie Tianwei. *wo3 jiao4 xie4 tian1 wei4 . *我叫谢天蔚。 *
+What (job) do you do? *ni3 shi4 zuo4 shen2mede ? *你是做什麼的﹖ *
+I am a teacher. *wo3 shi4 lao3shi1 . *我是老失。 *
+Thank you! *xie4xie ? *谢谢﹗ *
+You are welcome. *bu2ke4qi4 . *不客气。 *
+
+Introductions3:
+What's his last name? *ta1 xing4 shi2 me ? *他姓什麼﹖*
+His last name is Wang. *ta1 xing4 wang2 . *他姓王。 *
+What's his (full) name? *ta1 jiao4 shi2 me ? *他叫什麼﹖ *
+His (full) name is Wang Xiaohua. *ta1 jiao4 wang2 xiao3 hua1 . *他叫王小花。 *
+Where does he work? *ta1 zai4 na3li gong1zuo4 ? *他在哪力工作*
+He is a student. *ta1 shi4 xue2sheng . *他是学生。 *
+Thank you! *xie4xie ? *谢谢﹗ *
+You are welcome. *bu2ke4qi4 . *不客气。 *
+Good-bye! *zai4jian4 ? *再见﹗*
+Good-bye! *zai4jian4 ? *再见﹗*
+
+Family:
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my father. *zhe4 shi4 wo3 ba4ba . *这是我爸爸。 *
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my mother. *zhe4 shi4 wo3 ma1ma . *这是我妈妈。 *
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my (younger) brother. *zhe4 shi4 wo3 di4di . *这是我弟弟。 *
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my wife. *zhe4 shi4 wo3 tai4tai . *这是我太太。 *
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my son. *zhe4 shi4 wo3 er2zi . *这是我而字。*
+Do you have brothers? *ni3 you3 ge1ge ma3 ? *你有哥哥蚂﹖ *
+I have a (younger) brother. *wo3 you3 yi1ge4 di4di . *我有一各弟弟。 *
+Do you have (elder) brothers? *ni3 you3 ge1ge ma3 ? *你有哥哥蚂﹖ *
+I don't have (elder) brothers. *wo3 mei2you3 ge1ge . *我枚有哥哥。 *
+Do you have sisters? *ni3 you3 mei4mei4 ma3 ? *你有妹妹蚂﹖ *
+I don't have (elder) sisters and (younger) sisters. *wo3 mei2you3 jie3jie ye3 mei2you3 mei4mei4 . *我枚有姐姐﹐也枚有妹妹。 *
+Do you have (younger) sisters? *ni3 you3 mei4mei4 ma3 ? *你有妹妹蚂﹖ *
+I don't have (younger) sisters, either. *wo3 ye3 mei2you3 mei4mei4 . *我也枚有妹妹。 *
+Thank you. *xie4xie . *谢谢。 *
+You are welcome. *bu2ke4qi4 . *不客气。 *
+Good-bye. *zai4jian4 . *再见。 *
+Good-bye. *zai4jian4 . *再见。*
+
+Family1:
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is Wang Xiaohua. *zhe4 shi4 wang2 xiao3 hua1 . *这是王小花。 *
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+He is my friend. *ta1 shi4 wo3 peng2you . *他是我朋友。 *
+Are these his father and mother? *zhe4 shi4 ta1 ba4ba ma1ma ma3 ? *这是他爸爸妈妈蚂﹖ *
+Yes, these are his father and mother. *shi4 zhe4 shi4 ta1 ba4ba ma1ma . *是﹐这是他爸爸妈妈。 *
+Does he have (elder) brothers, (elder) sisters, (younger) brothers and (younger) sisters? *ta1 you3 mei2you3 ge1ge jie3jie di4di mei4mei4 ? *他有枚有哥哥﹑姐姐﹑弟弟﹑妹妹﹖ *
+He has a (younger) brother, two (younger) sisters. He doesn't have (elder) brothers. *ta1 you3 yi1ge4 di4di liang3 ge4 mei4mei4 . ta1 mei2you3 ge1ge .  *它有一各弟弟﹑两各妹妹。他枚有哥哥。*
+Is he married? * ta1 jie2hun1 ma3 ? *他结婚吗?*
+He is married. He has a wife and a son. He doesn't have a daughter. *ta1 jie2hun1 le .you3 tai4tai you3 er2zi mei2you3 nü3er2 . *他节婚了。有太太﹐有而字﹐枚有女而。 *
+Are you married? *ni3 jie2hun1 le mei2you3 ? *你节婚了枚有﹖ *
+No. *mei2you3 . *枚有。 *
+Thank you. *xie4xie . *谢谢。 *
+You're welcome. *bu2ke4qi4 . *不客气。 *
+Good-bye. *zai4jian4 . *再见。 *
+Good-bye. *zai4jian4 . *再见。*
+
+Work:
+Hello! *ni3hao3 ? *你好﹗*
+Hello! *ni3hao3 ? *你好﹗*
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my father. He is in China.  *zhe4 shi4 wo3 ba4ba . ta1 zai4 zhong1guo2 . *这是我爸爸. 他在中国*
+Does he work? *ta1 fu2wu4 ma3 ? *他服务吗?*
+He does not work. He has retired. *ta1 bu4 gong1zuo4 tui4xiu1 le . *他不工作﹐退休了*
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my (younger) brother. He is also in China. *zhe4 shi4 wo3 di4di . ta1 ye3 zai4 zhong1guo2 . *这是我弟弟. 他也在中国*
+What does he do? * ta1 zuo4 shi2 ma ? *他做什么?*
+He is an engineer. *ta1 shi4 gong1cheng2shi1 . *他是工程失*
+Where does he work? * ta1 zai4 na3li fu2wu4 ? *他在哪里服务?*
+He works in Shanghai. *ta1 zai4 shang4hai3 gong1zuo4 . *他在上海工作*
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖ *
+This is my wife. *zhe4 shi4 wo3 tai4tai . *这是我太太*
+What does she do? * ta1 zuo4 shi2 ma ? *她做什么?*
+She is also a teacher. *ta1 ye3 shi4 lao3shi1 . *她也是老失*
+Where does she work? * ta1 zai4 na3li fu2wu4 ? *她在哪里服务?*
+She works in Davis (California). *ta1 zai4  Davis gong1zuo4 . *她在 Davis 工作*
+Thank you. *xie4xie . *谢谢。 *
+You're welcome. *bu2ke4qi4 . *不客气。 *
+
+Work1:
+Who is this? *zhe4 shi4 shei2 ? *这是谁﹖*
+This is Wang Xiaohua. *zhe4 shi4 wang2 xiao3 hua1 . *这是王小花*
+Does he work? *ta1 fu2wu4 ma3 ? *他服务吗?*
+He is a student. *ta1 shi4 xue2sheng . *他是学生*
+Does he have a sister? *ta1 you3 jie3jie ma3 ? *他有姐姐蚂*
+Yes, he has an (elder) sister. He doesn't have (younger) sisters, (elder) brothers and (younger) brothers. you3 ? *ta1 you3 yi1ge4 jie3jie mei2you3 mei4mei4 ge1ge di4di . *有﹐他有一各姐姐﹐枚有妹妹﹑哥哥﹑弟弟*
+Where does his sister work? *ta1 jie3jie zai4 na3li gong1zuo4 ? *他姐姐在哪力工作*
+She works in Beijing. She is an engineer. *ta1 zai4 bei3jing1 gong1zuo4 .ta1 shi4 gong1cheng2shi1 . *她在北京工作。她是工程失*
+
+Work2:
+Who is this? *zhe4 shi4 shei2 ? *这是谁*
+This is Prof. Xie's son. *zhe4 shi4 xie4 lao3shi1 de er2zi . *这是谢老失的而字*
+Where does he work? *ta1 zai4 na3li gong1zuo4 ? *他在哪力工作*
+He works in Ohio. *ta1 zai4  Ohio gong1zuo4 . *他在 Ohio 工作*
+
+Address:
+Hello! *ni3hao3 ? *你好*
+Hello! *ni3hao3 ? *你好*
+What's your last name? *ni3 xing4 shi2 me ? *你姓什麼﹖ *
+My last name is Xie. *wo3 xing4 xie4 . *我姓谢*
+What's your(full) name? *ni3 jiao4 shi2 me ? *你叫什麼﹖ *
+My (full) name is Xie Tianwei. *wo3 jiao4 xie4 tian1 wei4 . *我叫谢天蔚*
+What do you do? * nin2 zuo4 shi2 ma *您做什么?*
+I am a teacher. I work in Davis. *wo3 shi4 lao3shi1 zai4  Davis gong1zuo4 . *我是老失﹐在 Davis 工作*
+Where do you live? * nin2 zai4 na3li zhu4 ? *您在哪里住? *
+I live in 606 Alvarado Ave. Apt. 24. *wo3 zhu4 zai4  Alvarado jie1  606 hao2  24 shi4 . *我住在 Alvarado 街 606 號 24 室*
+What is your phone number? *shi2 ma shi4 nin2 de dian4hua4 hao4ma3 ?  *什么是您的电话号码? *
+This is my phone number: 758-7636. *zhe4 shi4 wo3de dian4hua4 758-7636. *这是我的電話﹕758-7636*
+Thank you. *xie4xie . *谢谢*
+You're welcome. *bu2ke4qi4 . *不客气*
+
+Address1:
+Who is this? *zhe4 shi4 shei2 ? *这是谁*
+This is my friend *zhe4 shi4 wo3 peng2you *这是我朋友*
+What's his (full) name? *ta1 jiao4 shi2 me ? *他叫什麼﹖ *
+His (full) name is Wang Xiaohua *ta1 jiao4 wang2 xiao3 hua1 *他叫王小花*
+What does he do? * ta1 zuo4 shi2 ma *他做什么?*
+He is also a teacher. He works in San Francisco *ta1 ye3 shi4 lao3shi1 zai4 San Francisco gong1zuo4 *他也是老失﹐在 San Francisco 工作。*
+Where does he live? * ta1 zai4 na3li zhu4 ? *他在哪里住? *
+He lives at 5690 Geary St. *ta1 zhu4 zai4 Geary jie15690 hao2 *他住在 Geary 街 5690 號。*
+
+Address2:
+Hello *ni3hao3 *你好﹗*
+Hello *ni3hao3 *你好﹗*
+May I ask, Mr. Wang, where do you work *qing3wen4 wang2 xian1sheng ni3 zai4 na3li gong1zuo4 *請問王先生﹐你在哪力工作﹖*
+I work in San Francisco *wo3 zai4San Francisco gong1zuo4 *我在 San Francisco 工作*
+Where do you live *nin2 zhu4 zai4 na3li *您住在哪力﹖*
+I also live in San Francisco *wo3 ye3 zhu4 zai4San Francisco*我也住在 San Francisco。*
+What is your phone number? * *shi2 ma shi4 nin2 de dian4hua4 hao4ma3 ?  *什么是您的电话号码? This is my phone number: 758-7636 *zhe4 shi4 wo3de dian4hua4 758-7636*. 这是我的電話﹕758-7636。*
+Thank you *xie4xie *谢谢*
+You're welcome *bu2ke4qi4 *不客氣*
+
+Address3:
+John, where do you live John *ni3 zhu4 zai4 na3li *, 你住在哪力﹖*
+I live in New York *wo3 zhu4 zai4New York *我住在 New York。*
+Do your parents also live in New York *ni3 ba4ba ma1ma ye3 zhu4 zai4New York ma3 *你爸爸妈妈也住在 New York 蚂﹖*
+No, they live in New Jersey *bu4 ta1men zhu4 zai4 New Jersey *不﹐他們住在 New Jersey 。*
+Do you have brothers *ni3 you3 mei2you3 ge1ge di4di *你有枚有哥哥弟弟﹖*
+No, I don't have brothers *mei2you3 ,wo3 mei2you3 ge1ge di4di *枚有，我枚有哥哥弟弟。*
+Do you have sisters? * nin2 you3 jie3mei4 ma3 ? *您有姐妹吗? *
+I only have a (younger) sister *wo3 zhi3you3 yi1ge4 mei4mei4 *我只有一各妹妹。*
+Does she also live in New Jersey? *ta1 ye3 zhu4 zai4 New Jersey ma3 *她也住在 New Jersey 蚂﹖*
+Yes, she also lives in New Jersey *shi4de ta1 ye3 zhu4 zai4 New Jersey *是的﹐她也住在 New Jersey*
+
+Address4:
+Prof. Xie, are you married? *xie4 lao3shi1 ?ni3 jie2hun1 le ma3 ? *谢老失﹐你节婚了蚂*
+I am married. *wo3 jie2hun1 le . *我节婚了*
+Do you have children? * nin2 you3 hai2zi ma3 ? *您有孩字吗?*
+I have a son. *wo3 you3 yi1ge4 er2zi . *我有一各而字*
+Is your son a student? *ni3 er2zi shi4 xue2sheng ma3 ? *你而字是学生蚂*
+No, he works in Ohio. *ta1 zai4  Ohio gong1zuo4 . *他在 Ohio 工作 *
+And your wife? *ni3 tai4tai ne ? *你太太呢*
+She is also a teacher and works in Davis. *ta1 ye3 shi4 lao3shi1 ?zai4  Davis gong1zuo4 . *她也是老失﹐在 Davis 工作*
+Where do you live? * nin2 zai4 na3li zhu4 ? *您在哪里住? *
+We live in Davis. *wo3men zhu4 zai4  Davis. *我們住在 Davis*
+Where does your son live? * nin2 de er2zi zai4 na3li zhu4 ? *您的儿字在哪里住?*
+Our son lives in Ohio. *wo3men er2zi zhu4 zai4  Ohio. *我們而字住在 Ohio*
+Where does your son work? * nin2 de er2zi zai4 na3li fu2wu4 ? *您的儿字在哪里服务?*
+He works there. *ta1 zai4 na4li gong1zuo4 . *他在那力工作*
+
+Where From:
+Where are you from? *ni3 cong1 na3 lai2 ? *你从哪来？*
+I am a Chinese. *wo3 shi4 zhong1guo2ren2 . *我是中国人*
+What city? *shi2 ma cheng2shi4 ? *什么城市?*
+I am from Beijing. *wo3 shi4 bei3jing1ren2 . *我是北京人*
+Where are you from originally? *nin2 zai4 na3li shi4 cong1 zui4chu1 ? *您在哪里是从最初?*
+I came from Shanghai. *wo3 shi4 cong1 shang4hai3 lai2 de . *我是從上海來的*
+What is he? *ta1 shi4 shi2 ma ? *他是什么?*
+He is an American. *ta1 shi4 mei3guo2ren2 . *他是美国人*
+Where is he from? *ta1 he2chu3 shi4 cong1 ? *他何处是从?*
+He is from Georgia. *ta1 shi4  Georgia ren2 . *他是 Georgia 人。*
+Where did he come from? *ta1 he2chu3 lai2zi4 ? *他何处来自?*
+He came from New York. *ta1 shi4 cong1  New York lai2 de . *他是從 New York 來的。*
+May I ask, are you American? qing3wen4 ?ni3 shi4 mei3guo2ren2 ma3 ? *請問﹐你是美国人蚂﹖*
+Yes, I am American. I came from San Francisco. *shi4de ?wo3 shi4 mei3guo2ren2 .wo3 shi4 cong1  *
+Where are you from? *ni3 cong1 na3 lai2 ? *你从哪来？*
+San Francisco lai2 de . *是的﹐我是美国人。我是從 San Francisco 來的。*
+Are you a Californian? ni3 shi4 jia1zhou1 ren2 ma3 ? *你是加州人蚂﹖*
+Yes. *shi4 . *是。*
+Is your wife also American? *ni3 tai4tai ye3 shi4 mei3guo2ren2 ma3 ? *你太太也是美国人蚂﹖*
+No, she is French. *bu2shi4 ta1 shi4 fa3guo2ren2 . *不是﹐她是法国人。*
+
+Where From1:
+Hello, Prof. Xie. *xie4 lao3shi1 ni3hao3 . *谢老失﹐你好。*
+Hello, John. *John, ni3hao3 . *你好。*
+Prof. Xie , where are you from? *xie4 lao3shi1 ni3 shi4 na4li ren2 ? *谢老失﹐你是那力人﹖*
+I am from Shanghai. I came from Shanghai. *wo3 shi4 shang4hai3 ren2 . wo3 shi4 cong1 shang4hai3 lai2 de . *我是上海人。我是從上海來的。*
+Is your wife also from Shanghai, (I guess)? *ni3 tai4tai ye3 shi4 shang4hai3 ren2 ba1 ? *你太太也是上海人吧﹖*
+Yes, she is also from Shanghai. *shi4  de ta1 ye3 shi4 shang4hai3 ren2 . *是 的﹐她也是上海人。*
+John, where are you from? John, *ni3 shi4 na3li ren2 ? *, 你是哪力人﹖*
+I am a Californian. *wo3 shi4 jia1zhou1 ren2 . *我是加州人。*
+Where were you born? *nin2 zai4 na3li shi4 chu1sheng1 ? *您在哪里是出生?*
+I was born in Los Angeles. *wo3 shi4 zai4  Los Angeles chu1sheng1 de . *我是在 Los Angeles 出生的。*
+Prof. Xie, thank you. *xie4 lao3shi1 ?xie4xie ni3 . *谢老失﹐谢谢你。谢老失﹐你好。*
+You're welcome. *bu2ke4qi4 . *不客氣。*
+
+Learning:
+Who are you? *nin2 shi4 shei2 ? *您是谁?*
+I am Prof. Xie. *wo3 shi4 xie4 lao3shi1 .* 我是谢老失*
+What is your nationality? *shi2 ma shi4 nin2 de guo2ji2 ? *什么是您的国籍?*
+I am a Chinese. *wo3 shi4 zhong1guo2ren2 .* 我是中国人*
+Can you speak English? *nin2 ke3yi3 jiang3 ying1yu3 ma3 ? *您可以讲英语吗?*
+I can speak English. *wo3 hui4 shui4 ying1yu3 .* 我會說英語*
+Do you speak any other languages? *nin2 jiang3 ren4he2 qi2ta1 yu3yan2 ma3 ? *您讲任何其它语言吗?*
+I also can speak Russian. *wo3 ye3 hui4 shui4 e2yu3 .* 我也會說俄語*
+Can your parents speak foreign language? *nin2 de fu4mu3 ke3yi3 jiang3 wai4yu3 ma3 ? *您的父母可以讲外语吗?*
+Both my parents cannot speak (any) foreign languages. *wo3 ba4ba ma1ma dou1 bu4hui4 shui4 wai4yu3 .* 我爸爸妈妈都不會說外語*
+What language do they speak? *ta1men jiang3 shi2 ma yu3yan2 ? *他们讲什么语言?*
+They can only speak Chinese. *ta1men qi2 hui4 shui4 zhong1guo2 hua4 .* 他們只會說中国話*
+Who is this? *shei2 shi4 zhe4 ? *谁是这?*
+This is my brother. *zhe4 shi4 wo3 di4di . *这是我弟弟  *
+What does he do and where does he work? *ta1 zuo4 shi2 ma he2 ta1 fu2wu4 ? *他做什么和他服务?*
+He is an engineer and works in Shanghai. *ta1 shi4 gong1cheng2shi1 ?zai4 shang4hai3 gong1zuo4 . *他是工程失﹐在上海工作。 *
+Can he speak English? *ta1 ke3yi3 jiang3 ying1yu3 ma3 ? *他可以讲英语吗?*
+He cannot speak English. *ta1 bu4hui4 shui4 ying1yu3 . *他不會說英語    *
+Can he speak any other languages? *ta1 ke3yi3 jiang3 ren4he2 qi2ta1 yu3yan2 ma3 ? *他可以讲任何其它语言吗?*
+He can speak Japanese. *ta1 hui4 shui4 ri4yu3 . *他會說日語 *
+Will he learn English? *ta1 jiang1 xue2hui4 ying1yu3 ma3 ? *他将学会英语吗?*
+He is learning English. *ta1 zai4 xue2 ying1yu3 .* 他在学英語*
+Who is this? *shei2 shi4 zhe4 ? *谁是这?*
+This is Wang Xiaohua. *zhe4 shi4 wang2 xiao3 hua1 . *这是王小花   *
+Where is he from? *ta1 he2chu3 shi4 cong1 ? *他何处是从?*
+He came from Beijing. *ta1 shi4 cong1 bei3jing1 lai2 de . *他是從北京來的   *
+Does he speak English? *ta1 jiang3 ying1yu3 ma3 ? *他讲英语吗?*
+He speaks English very well. *ta1 ying1yu3 shui4 dehen3 hao3 . *他英語說得很好  *
+Does he speak other languages? *ta1 jiang3 qi2ta1 yu3yan2 ma3 ? *他讲其它语言吗?*
+He can also speak French and German. *ta1 hai2 hui4 shuo1fa yu3 he2 de2yu3 . *他還會說法語和德語  *
+bie2de ?*
+He is learning Japanese now. *ta1 xian4zai4 zai4 xue2 ri4yu3 . *他現在在学日語*
+John, you speak Chinese very well. *John, ni3 zhong1guo2 hua4 shui4 dehen3 hao3 . * John, 你中国話說得很好。  *
+Oh, no. Not that well. *na3li shui4 de2 bu4hao3 .* 哪力﹐說得不好。 *
+Yes, you do.*
+I can speak a little Chinese. *wo3 qi2 hui4 shui4 yi1dianr3 ?zhong1guo2 hua4 . *我只會說一點而中国話。*
+John, you speak Chinese very well. *John, ni3 zhong1guo2 hua4 shui4 dehen3 hao3 . * John, 你中国話說得很好。  *
+I am learning Chinese now. *wo3 xian4zai4 zai4 xue2 zhong1wen2 . *我現在在学中文  *
+Is your teacher Chinese? *ni3 de lao3shi1 shi4 zhong1guo2ren2 ma3 ? *你的老失是中国人蚂    *
+Yes, he is Chinese and he came from Shanghai. *shi4de ?ta1 shi4 zhong1guo2ren2 ?cong1 shang4hai3 lai2 de . *是的﹐他是中国人﹐從上海來的。 *
+Can he speak English? *ta1 hui4bu4hui4 shui4 ying1yu3 ? *他會不會說英語    *
+Yes, he speaks English very well. *hui4 ta1 ying1yu3 shui4 dehen3 hao3 .* 會﹐他英語說得很好。*
+What other foreign language can you speak? *ni3 hai2 hui4 shui4 shi2 me wai4yu3 ? *你還會說什麼外語﹖  *
+I can only speak English. *wo3 qi2 hui4 shui4 ying1yu3 .* 我只會說英語*
+I see. *ming2bai le. *明白了*
+I am learning Chinese now. *wo3 xian4zai4 zai4 xue2 zhong1wen2 . *我現在在学中文  *
+You speak Chinese very well. *ni3 zhong1wen2 shui4 de2 bu4cuo4 . *你中文說得不錯    *
+No, not that well. *na3li ?shui4 de2 bu4hao3 . *哪力﹐說得不好。   *
+Can you write Chinese characters? *ni3 hui4bu4hui4 xie3 zhong1guo2 zi4 ? *你會不會寫中国字﹖  *
+No, I cannot write characters. *bu4hui4 ?wo3 bu4hui4 xie3 zhong1guo2 zi4 .* 不會﹐我不會寫中国字*
+
+Chinese Difficult:
+Where are you from? *ni3 cong1 na3 lai2 ? *你从哪来？*
+I am Chinese and I came from Shanghai. *wo3 shi4 zhong1guo2ren2 ?shi4 cong1 shang4hai3 lai2 de . *我是中国人﹐是從上海來的  *
+What other foreign language can you speak? *ni3 hai2 hui4 shui4 shi2 me wai4yu3 ? *你還會說什麼外語?*
+I can speak Chinese. I also speak English and Russian. *wo3 hui4 shui4 zhong1wen2 ?ye3 hui4 shui4 ying1yu3 he2 e2yu3 . *我會說中文﹐也會說英語和俄語。 *
+Is English difficult? *ying1yu3 shi4 kun4nan ma3 ? *英语是困难吗?*
+English is not too difficult. Russian is very difficult. *ying1yu3 bu4 tai4 nan2 ?e2yu3 bi3jiao4 nan2 .* 英語不太難﹐俄語比較難。*
+Who are they? *ta1men shi4 shei2 ? *他们是谁?*
+This is Mr. and Mrs. Wang. *zhe4 shi4 wang2 xian1sheng he2 wang2 tai4tai . *这是王先生和王太太。 *
+Where are they from? *他们何处是从? *他们何处是从?*
+They all came from Beijing. *ta1mendou1 shi4 cong1 bei3jing1 lai2 de . *他們都是從北京來的。 *
+Why do they live in America? *wei4shen3me ta1men zhu4 zai4 mei3guo2 ? *为什么他们住在美国?*
+They study in the U.S. now. *xian4zai4 zai4 mei3guo2 nian4 shu1 . *現在在美国唸書。 *
+Where do they live? *ta1men zai4 na3li zhu4 ? *他们在哪里住?*
+They live in Washington. *ta1men zhu4 zai4  Washington. *他們住在 Washington。 *
+Can they speak English? *ta1men ke3yi3 jiang3 ying1yu3 ma3 ? *他们可以讲英语吗?*
+They cannot speak English well and they are learning English now. *ta1men bu4 tai4 hui4 shui4 ying1yu3 ?xian4zai4 zai4 xue2 ying1wen2 . *他們不太會說英語﹐現在在学英文。 *
+I see. *ming2bai le. *明白了*
+They feel that English is very difficult. *ta1men jue2de ying1wen2 hen3 nan2 .* 他們覺得英文很難。*
+John, you speak Chinese very well. *John, ni3 zhong1guo2 hua4 shui4 dehen3 hao3 . * John, 你中国話說得很好。 *
+Oh, no, not well yet. *na3li ?bu4xing2 bu4xing2 . *哪力﹐不行不行。 *
+Yes you do. *shi4 nin2 . *是您。*
+I am learning Chinese now. *wo3 xian4zai4 zai4 xue2 zhong1wen2 . *我現在在学中文。 *
+Do you think that Chinese is difficult or not? *ni3 jue2de zhong1wen2 nan2 bu4 nan2 ? *你覺得中文難不難﹖ *
+I feel that spoken Chinese is not that difficult. Writing characters is relatively difficult. *wo3 jue2de zhong1wen2 kou3yu3 bu4 tai4 nan2 xie3 zi4 *bi3jiao4 nan2 . 我覺得中文口語不太難﹐寫字比較難。 *
+What other foreign language can you speak? *ni3 hai2 hui4 shui4 shi2 me wai4yu3 ? *你還會說什麼外語﹖ *
+I can also speak French. *wo3 hai2 hui4 shuo1fa yu3 . *我還會說法語。 *
+Is French difficult? *fa3yu3 nan2 bu4 nan2 ? *法語難不難﹖ *
+Not really, not as difficult as Chinese. *bu4 tai4 nan2 ?mei2you3 zhong1wen2 nan2 .* 不太難﹐枚有中文難。*
+Prof. Xie, you speak English very well. *xie4 lao3shi1 ?ni3 ying1yu3 shui4 dehen3 hao3 . *谢老失﹐你英語說得很好。 *
+No, just so-so. *na3li ?ma3 ma3hu hu3 . *哪力﹐馬馬虎虎。 *
+Where did you learn English? *ni3 ying1yu3 shi4 zai4 na3li xue2 de ? *你英語是在哪力学的﹖ *
+I learned it in Shanghai. *wo3 shi4 zai4 shang4hai3 xue2 de . *我是在上海学的。 *
+(I guess) your instructors are Americans. *ni3 de lao3shi1 shi4 mei3guo2ren2 ba1 ? *你的老失是美国人吧﹖ *
+No, some are Americans, some are Chinese. *bu2shi4 ?you3deshi4 mei3guo2ren2 ?you3deshi4 zhong1guo2ren2 . *不是﹐有的是美国人﹐有的是中国人。 *
+Where are American instructors from? *mei3guo2 lao3shi1 shi4 cong1 na3li lai2 de ? *美国老失是從哪力來的﹖ *
+Some are from Pittsburgh, some are from Seattle. *you3deshi4  Pittsburgh cong2lai2 de ?you3deshi4 cong1  Seattle lai2 de . *有的是 Pittsburgh 從來的﹐有的是從 Seattle 來的。 
+I see. *ming2bai le. *明白了*
+We also have professors who came from England. *wo3men hai2 you3 cong1 ying1guo2 lai2 de lao3shi1 .* 我們還有從英国來的老失。*
+John, you speak Chinese very well now. *John, ni3 xian4zai4 zhong1wen2 shui4 dehen3 hao3 . * John, 你現在中文說得很好。 *
+No, not good yet. I can speak a little Chinese. *na3li ?hai2 bu4xing2 ?wo3 qi2 hui4 shui4 yi1dianr3 ?zhong1wen2 . *哪力﹐還不行﹐我只會說一點而中文。 *
+Do you recognize Chinese characters? *ren4shi bu4 ren4shi zhong1guo2 zi4 ? *認識不認識中国字﹖ *
+No, I don't. I can speak only. I can write Pinyin. *bu4 ren4shi ?wo3 qi2 hui4 shui4 .wo3 hui4 xie3 pin1yin1 . *不認識﹐我只會說。我會寫拼音。 *
+Is your teacher Chinese? *ni3 de lao3shi1 shi4bu4shi4 zhong1guo2ren2 ? *你的老失是不是中国人﹖ *
+Yes, he is a Chinese and he came from Shanghai. *shi4de ta1 shi4 zhong1guo2ren2 ?shi4 cong1 shang4hai3 lai2 de . *是的他是中国人﹐是從上海來的。 *
+Does he teach well? *ta1 jiao1 de2 hao3 bu4hao3 ? *他教得好不好﹖ *
+He teaches very well. *ta1 jiao1 dehen3 hao3 .* 他教得很好。*
+
+Understand Chinese:
+Where are you from? *ni3 cong1 na3 lai2 ? *你从哪来？*
+I am a Chinese and (I) can speak Chinese. *wo3 shi4 zhong1guo2ren2 hui4 shui4 han4yu3 . *我是中国人﹐會說漢語。 *
+Can you speak English? *nin2 ke3yi3 jiang3 ying1yu3 ma3 ? *您可以讲英语吗?*
+I can also speak English. *wo3 ye3 hui4 shui4 ying1yu3 . *我也會說英語。 *
+How well do you understand English? *duo1me qia4dang4 nin2 liao3jie3 ying1yu3 ? *多么恰当您了解英语?*
+I (can listen and) understand English. *wo3 ting1 de2 dong3 ying1yu3 . *我聽得懂英語。 *
+Do you speak Japanese? *nin2 jiang3 ri4yu3 ma3 ? *您讲日语吗?*
+I can also speak a little Japanese. *wo3 hai2 hui4 shui4 yi1dianr3 ri4yu3 . *我還會說一點而日語。 *
+I see. *ming2bai le. *明白了*
+But I don't speak Japanese well. *ke3shi4 wo3 ri4yu3 shui4 de2 bu4 tai4 hao3 . *可是我日語說得不太好。 *
+I see. *ming2bai le. *明白了*
+If (someone) speaks fast, then I don't understand. *yao4shi4 shui4 de2 kuai4 wo3 jiu4 ting1 bu4 dong3 .* 要是說得快﹐我就聽不懂。*
+Where is John from?*
+John is an American. *John shi4 mei3guo2ren2 . * John 是美国人。 *
+Can he speak Chinese? *ta1 ke3yi3 jiang3 zhong1wen2 ma3 ? *他可以讲中文吗?*
+He can speak Chinese. *ta1 hui4 shui4 zhong1wen2 . *他會說中文。*
+I see. *ming2bai le. *明白了*
+He speaks Chinese fast. *ta1 zhong1wen2 shui4 dehen3 kuai4 . *他中文說得很快。 *
+How well does he speak? *duo1me qia4dang4 ta1 jiang3hua4 ? *多么恰当他讲话?*
+But (he) speaks very well, very fluently. *ke3shi4 shui4 de2 bu4cuo4 hen3 liu2li4 . *可是說得不錯﹐很流利。 *
+How is his pronunciation? *ta1 de fa1yin1 zen3meyang4 ? *他的发音怎么样? *
+(His) pronunciation is very good (standard). *fa1yin1 hen3 biao1zhun3 . *發音很標準。 *
+I see. *ming2bai le. *明白了*
+Now he is still learning Chinese, because he wants to go to China. *xian4zai4 ta1 hai2 zai4 xue2 zhong1wen2 yin1wei2 ta1 xiang3 dao4 zhong1guo2 qu4 . *現在他還在学中文﹐因為他想到中国去。 *
+Has he been to China? *ta1 shi4 dui4 zhong1guo2 ma3 ? *他是对中国吗?*
+He wants to go to China to do business. *ta1 xiang3 dao4 zhong1guo2 qu4 zuo4 sheng1yi .* 他想到中国去作生意。*
+What foreign language can you speak? *ni3 hui4 shui4 shi2 me wai4yu3 ? *你會說什麼外語﹖ *
+I can speak a little French, but I don't speak it well. *wo3 hui4 shui4 yi1dianr3 fa3yu3 ke3shi4 shui4 de2 bu4hao3 . *我會說一點而法語﹐可是說得不好。 *
+(When) French people speak, do you understand? *fa3guo2ren2 shui4 hua4 ni3 ting1 de2 dong3 ma3 ? *法国人說話你聽得懂蚂﹖ *
+If (they) speak slowly, I can understand. *yao4shi4 shui4 de2 man4 ?wo3 ting1 de2 dong3 . *要是說得慢﹐我聽得懂。 *
+I see. *ming2bai le. *明白了*
+(They) speak fast, (I) don’t' understand. *shui4 de2 kuai4 jiu4 ting1 bu4 dong3 . *說得快﹐就聽不懂。 *
+(In) French, how to say 'How do you do?' *fa3yu3  How do you do? zen3me shui4 ? *法語 How do you do? 怎麼說﹖ *
+'How do you do' (in) French is 'Bon jour. *fa3yu3  'How do you do' shi4  'Bon jour.' *法語 'How do you do' 是 'Bon jour.' *
+Your pronunciation is very good. *ni3 de fa1yin1 hen3 biao1zhun3 . *你的發音很標準。 *
+No, I don't speak it well yet. *na3li ?shui4 de2 hai2 bu4hao3 .* 哪力﹐說得還不好。*
+Can you speak Chinese? *ni3 hui4 shui4 zhong1wen2 ma3 ? *你會說中文蚂﹖ *
+(I) can speak a little, not very well. *hui4 shui4 yi1dianr3 ??bu4 tai4 hao3 . *會說一點而﹐不太好。 *
+You speak very well, (the pronunciation is) very good. *na3li ?ni3 shui4 dehen3 hao3 ?hen3 biao1zhun3 . *哪力﹐你說得很好﹐很標準。 *
+Not really. (I) still can't understand many words. *bu4xing2 ?bu4xing2 ?hen3duo1 hua4 hai2 ting1 bu4 dong3 . *不行﹐不行﹐很多話還聽不懂。 *
+Do you understand what I am saying? *wo3 shui4 hua4 ni3 ting1 de2 dong3 ma3 ? *我說話你聽得懂蚂﹖ *
+If you speak slowly. I understand. *ni3 shui4 de2 man4 ?wo3 dong3 . *你說得慢﹐我懂。 *
+Okay. *hao3 de . *好的。*
+If (you) speak fast, then I don't quite understand. *yao4shi4 shui4 de2 kuai4 ?jiu4 bu4 tai4 dong3 . *要是說得快﹐就不太懂。 *
+Do you feel that Chinese is difficult or not? *ni3 jue2de zhong1wen2 nan2 bu4 nan2 ? *你覺得中文難不難﹖ *
+I am sorry, I didn't understand. *dui4bu4qi4 wo3 mei2 ting1 dong3 . *對不起﹐我枚聽懂。 *
+Please say it again, OK? *qing3 ni3 zai4shuo1 yi1 bian4 ?hao3 bu4hao3 ? *請你再說一遍﹐好不好﹖ *
+I said: Is Chinese difficult? *wo3 shui4 ?zhong1wen2 nan2 bu4 nan2 ? *我說﹕中文難不難﹖ *
+Spoken Chinese is not too difficult. Writing is very difficult. *kou3yu3 bu4 tai4 nan2 .xie3 zi4 hen3 nan2 .* 口語不太難。寫字很難。*
+Do you read (recognize) Chinese characters? *ni3 ren4shi bu4 ren4shi zhong1guo2 zi4 ? *你認識不認識中国字﹖ *
+I only recognize some characters. *wo3 qi2 ren4shi ji3ge zhong1guo2 zi4 . *我只認識幾各中国字。 *
+Why is that? *wei4shen3me na3 shi4 ? *为什么那是?*
+Chinese characters are too difficult to write. *zhong1guo2 zi4 tai4 nan2 xie3 . *中国字太難寫。 *
+Yes, they are difficult to write. There are many (characters). *shi4de ?hen3 nan2 xie3 ?hen3duo1 . *是的﹐很難寫﹐很多。 *
+They are very difficult for me. *ta1men shi4fei1 chang2 kun4nan de wei2 wo3 . *他们是非常困难的为我。*
+Do you recognize this character? *zhe4ge4 zi4 ni3 ren4shi ma3 ? *这各字你認識蚂﹖ *
+This is 'ho'. *zhe4ge4 shi4 'hao3  '. *这各是'好 '。 *
+How about that one? *nei4ge4 ne ? *那各呢﹖ *
+I don't know. What is it? *bu4 ren4shi ?shi4 shi2 me zi4 ? *不認識﹐是什麼字﹖ *
+This is 'gu', 'gu' as in 'guji'. *zhe4ge4 shi4 'guo2  '?'guo2jia1  'de  'guo2 '. *这各是'国 '﹐'国家 '的 '国'。 *
+Excuse me, what does 'guji' mean? *dui4bu4qi4 ?'guo2jia1  'shi4  shi2 me yi4si1 ? *對不起﹐'国家 '是 什麼意思﹖   *
+'Guji' means 'country'. *'guo2jia1  'shi4  'country' de yi4si1 . *'国家 '是 'country' 的意思。 *
+I am sorry, you speak too fast. I didn't understand. *dui4bu4qi4 ?ni3 shui4 de2 tai4 kuai4 ?wo3 mei2 ting1 dong3 . *對不起﹐你說得太快﹐我枚聽懂。*
+I am sorry. *wo3 bao4qian4 . *我抱歉。*
+Please say it again. *qing3 ni3 zai4shuo1 yi1 bian4 . *請你再說一遍。 *
+I said that this character is 'gu', 'gu' as in 'guji'. *wo3 shui4 zhe4ge4 zi4 shi4 'guo2  'guo2jia1  'de  'guo2  '. *我說这各字是'国 '﹐'国家 '的 '国 '。 *
+What does it mean in English? *ta1 yi4wei4 shi2 ma yong4 ying1yu3 ? *它意味什么用英语? *
+(In) English it means 'country'. *ying1wen2 shi4  'country' de yi4si1 . *英文是 'country' 的意思。 *
+Thanks. *xie4xie . *谢谢。 *
+Not at all. *bu2ke4qi4 .* 不客氣。*
+
+Job:
+What is your last name and what is your full name? *nin2 de xing4 shi4 shi2 ma bing4qie3 shi2 ma shi4 nin2 de quan2 ming2 ? *您的姓是什么并且什么是您的全名?*
+My last name is Li. My full name is Li Guohua. *wo3 xing4 li3 ?jiao4 li3 guo2 hua1 ? *我姓李﹐叫李国花﹐ *
+What do you do? *nin2 zuo4 shi2 ma ? *您做什么?*
+(I) am a student (and) study at the Univ. of California. *shi4 xue2sheng ?zai4 jia1zhou1 da4xue2 nian4 shu1 . *是学生﹐在加州大学唸書。 *
+What do you study? *nin2 xue2xi2 shi2 ma ? *您学习什么?*
+I study computer engineering at the UC for master's degree. *wo3 zai4 jia1da4 nian4 dian4nao3 gong1cheng2 shuo4shi4 . *我在加大念電腦工程碩士。 *
+Where are you from? *ni3 cong1 na3 lai2 ? *你从哪来？*
+I am from Beijing (and) came to the U.S. in 1995. *wo3 shi4 bei3jing1ren2 ?1995nian2lai2 mei3guo2 de . *我是北京人﹐1995年來美国的。 *
+Do you speak English? *nin2 jiang3 ying1yu3 ma3 ? *您讲英语吗?*
+Now, my English is not very good yet. *xian4zai4 wo3de ying1yu3 hai2 bu4 tai4 hao3 . *現在我的英語還不太好。 *
+Can you read? *nin2 ke3yi3 dou4 ma3 ? *您可以读吗?*
+Reading is not a problem, the listening and speaking is not good yet. *kan1 mei2wen4ti2 ?ke3shi4 ting1 he2 shui4 hai2 bu4 tai4 hang2 .* 看枚問題﹐可是聽和說還不太行。*
+What is your name and where are you from? *nin2 de ming2zi ni3 cong1 na3 lai2 ?shi4 shi2 ma he2  *您的名字你从哪来？是什么和*
+My name is John. I am an American. *wo3 jiao4  John, shi4 mei3guo2ren2 . *我叫 John, 是美国人。 *
+What is your job? *shi2 ma shi4 nin2 de gong1zuo4 ? *什么是您的工作?*
+I am general manager of an electronics company in Pennsylvania. *wo3 shi4 bin1 zhou1 yi1 jia1 dian4zi3 gong1si1 de zong3jing1li3 . *我是賓州一家電字公司的總經理。 *
+Why are you in China? *wei4shen3me nin2 shi4 zai4 zhong1guo2 ? *为什么您是在中国?*
+My company is doing business with China. *wo3men gong1si1 gen1 zhong1guo2 zuo4 sheng1yi . *我們公司跟中国做生意。 *
+Do you visit often? *nin2 jing1chang2 can1guan1 ma3 ? *您经常参观吗?*
+I often go to China. *wo3 chang2 dao4 zhong1guo2 qu4 . *我常到中国去。 *
+I see. *ming2bai le. *明白了*
+Some people often come from China to my company. *zhong1guo2 ye3 chang2 you3 ren2 dao4 wo3men gong1si1 lai2 . *中国也常有人到我們公司來。 *
+Do you know Chinese? *nin2 zhi1dao han4yu3 ma3 ? *您知道汉语吗?*
+I am learning Chinese now. *wo3 xian4zai4 zai4 xue2 zhong1wen2 . *我現在在学中文。 *
+I see. *ming2bai le. *明白了*
+(I) don't speak fluently yet. *shui4 de2 hai2 bu4 liu2li4 . *說得還不流利。 *
+Okay. *hao3 de . *好的。*
+(I) still don't understand some words. *you3de hua4 hai2 ting1 bu4 dong3 .* 有的話還聽不懂。*
+May I ask, are you from China? *qing3wen4 ?ni3 shi4bu4shi4 cong2zhong1 guo2 lai2 de ? *請問﹐你是不是從中国來的﹖ *
+Yes, I came from Beijing. *shi4de ?wo3 shi4 cong1 bei3jing1 lai2 de . *是的﹐我是從北京來的。 *
+Do you study here? *ni3 zai4 zhe4li3 nian4 shu1 ma3 ? *你在这力唸書蚂﹖ *
+Right, I study at UC. *dui4 ?wo3 zai4 jia1zhou1 da4xue2 nian4 shu1 . *對﹐我在加州大学唸書。 *
+In which year did you come? *ni3 shi4 na3 yi1 nian2lai2 de ? *你是哪一年來的﹖ *
+I came here in 1995. *wo3 shi4 1995nian2lai2 de . *我是1995年來的。 *
+What do (you) study here then? *zai4 zhe4li3 nian4 shi2 me ne ? *在这力念什麼呢﹖ *
+I study bio-chemistry for Ph.D. *wo3 nian4 sheng1wu4 hua4xue2 bo2shi4 . *我念生物化学博士。 *
+Very good. Bio-chemistry is very useful. *hen3hao3 .sheng1wu4 hua4xue2 hen3 you3yong4 .* 很好。生物化学很有用。*
+I know. *wo3 zhi1dao . *我知道。*
+What (job) do you do? *ni3 shi4 zuo4 shen2mede ? *你是做什麼的﹖ *
+I am doing business. (I) am a salesperson in a company. *wo3 shi4 zuo4 sheng1yi de zai4 yi1 jia1 gong1si1 zuo4 tui1xiao1 . *我是做生意的﹐在一家公司做推銷。 *
+What company? *shi2 me gong1si1 ? *什麼公司﹖ *
+A company of auto parts. *qi4che1 ling2jian4 gong1si1 . *汽車零件公司。 *
+I see. *ming2bai le. *明白了*
+We sell auto parts. *wo3men mai4 qi4che1 ling2jian4 . *我們賣汽車零件。 *
+Is your company big? How many people are there? *ni3men gong1si1 da4 bu2da4 ? you3 duo1shao3 ren2 ? *你們公司大不 大有多少人？ *
+Not very big, only more than ten people. *bu4 tai4 da4 ?zhi3you3 shi2ji3 ge4ren2 . *不太大﹐只有十幾各人。 *
+I see. *ming2bai le. *明白了*
+But we often have business with China. *ke3shi4 wo3men chang2 gen1 zhong1guo2 zuo4 sheng1yi . *可是我們常跟中国做生意。 *
+That is not bad. *na3 hen3bu4 cuo4 .* 那很不錯。*
+Mr. Li, I am learning Chinese now. *li3 xian1sheng ?wo3 xian4zai4 zai4 xue2 zhong1wen2 . *李先生﹐我現在在学中文。 *
+Can you help me study Chinese? *ni3 neng2 bu4neng2 bang1 wo3 xue2 zhong1wen2 ? *你能不能幫我学中文﹖ *
+Great! No problem. *hao3 a1 ?mei2you3 wen4ti2 . *好啊﹐枚有問題。 *
+My English is not good either. *wo3de ying1yu3 ye3bu4 hao3 . *我的英語也不好。 *
+You teach me English, how's that? *ni3 jiao1 wo3 ying1yu3 ?zen3meyang4 ? *你教我英語﹐怎麼樣﹖ *
+Okay. *hao3 de . *好的。*
+You teach me Chinese. I help you learn English. *hang2 ?ni3 jiao1 wo3 zhong1wen2 ?wo3 bang1 ni3 xue2 ying1yu3 . *行﹗你教我中文﹐我幫你学英語。 *
+Then you are my teacher. *na3 ni3 jiu4shi4 wo3de lao3shi1 le . *那你就是我的老失了。 *
+No, don't say that. You are also my teacher. *bu4gan3dang1 ?bu4gan3dang1 ?ni3 ye3 shi4 wo3de lao3shi1 . *不敢當﹐不敢當﹐你也是我的老失。 *
+Oh, don't say that. When are we going to start? *na3li na3li ?wo3men shi2 me shi2hou4 kai1shi3 ? *哪力哪力﹐我們什麼時候開始﹖ *
+Is tomorrow OK? *ming2tian1 hang2 bu4xing2 ? *明天行不行﹖ *
+Fine. This is my phone: 389-5620. *hang2 ?zhe4 shi4 wo3de dian4hua4 ?389-5620. *行﹐这是我的電話﹕389-5620。 *
+Where do you live? *nin2 zai4 na3li zhu4 ? *您在哪里住?*
+I live at 39, Powell St. *wo3 zhu4 zai4  Powell jie1  39 hao2 . *我住在 Powell 街 39 號。 *
+What is your phone number? *shi2 ma shi4 nin2 de dian4hua4 hao4ma3 ? *什么是您的电话号码?*
+This is my phone number: 674-1193. *zhe4 shi4 wo3de dian4hua4 ?674-1193. *这是我的電話﹕674-1193。 *
+Good, see you tomorrow! *hao3 ?ming2tian1 jian4 ?* 好﹐明天見﹗*
+
+Time:
+Where is Mr. Li studying? *li3 xian1sheng zai4 na3li xue2xi2 ? *李先生在哪里学习?*
+Mr. Li is studying at the University of California. *li3 xian1sheng zai4 jia1zhou1 da4xue2 nian4 shu1 . *李先生在加州大学唸書。*
+When does he have classes? *he2shi2 ta1 you3 lei4 ? *何时他有类?*
+He has class in the morning every day. *ta1 mei3tian1 shang4wu3 you3 ke4 . *他每天上午有課。 *
+What time? *shi2 ma shi2hou4 ? *什么时候?*
+He goes to school at 9 o'clock. *ta1 jiu3dian3 hxue2xiao4 . *他九點h学校。 *
+What time is lunch? *shi2 ma shi2hou4 wu3can1 shi4 ? *什么时候午餐是?*
+At noon, he eats lunch at school. *zhong1wu3 ta1 zai4 xue2xiao4 chi1 zhong1 fan4 . *中午他在学校吃中飯。 *
+In the afternoon, he reads books in the library. *xia4wu3 ta1 zai4 tu2shu1guan3 kan1 shu1 . *下午他在圖書館看書。 *
+When does he go home? *he2shi2 ta1 hui2jia1 ? *何时他回家?*
+At 4 o'clock, he goes home. *si4dian3 ta1 hui2jia1 . *四點他回家。 *
+When does he study? *he2shi2 ta1 xue2xi2 ? *何时他学习?*
+In the evening, he studies at home. *wan3shang ta1 zai4 jia1 li3 xue2xi2 . *晚上他在家力学習。 *
+What time does he go to bed? *shi2 ma shi2hou4 ta1 shang4 chuang2 ? *什么时候他上床?*
+He usually goes to bed at 11 o'clock. *ta1 yi4ban1 shi2yi1dian3 shui4jiao4 .* 他一般十一點睡覺。*
+What time is it now? *ji3dian3 ta1 xian4zai4 shi4 ? *几点它现在是?*
+It is eight o'clock now. *xian4zai4 ba1dian3 zhong1 . *現在八點鐘。*
+Where is John going? *yao1 han4 he2chu3 qu4 ? *约翰何处去?*
+John is going to (his) company to work. *John dao4 gong1si1 qu4 shang4ban1 . * John 到公司去上班。 *
+What time does he leave? *shi2 ma shi2hou4 ta1 li2kai1 ? *什么时候他离开?*
+He leaves home at eight every day. *ta1 mei3tian1 ba1dian3 chu1men2 . *他每天八點出門。*
+What time does he get to work? *shi2 ma shi2hou4 ta1 de2dao4 gong1zuo4 ? *什么时候他得到工作? *
+(He) arrives in the company at half past eight. *ba1dian3ban4 dao4 gong1si1 . *八點半到公司。 *
+What does he do in the morning? *ta1 zao3chen2 zuo4 shi2 ma ? *他早晨做什么?*
+He works in (his) office in the morning. *shang4wu3 ta1 zai4 ban4gong1shi4 gong1zuo4 . *上午他在辦公室工作。 *
+What does he do in the afternoon? *ta1 xia4wu3 zuo4 shi2 ma ? *他下午做什么?*
+In the afternoon, he calls other companies and discusses business. *xia4wu3 ta1 gen1 bie2de gong1si1 da3dian4hua4 ?tan2 sheng1yi . *下午他跟別的公司打電話﹐談生意。 *
+What time does he finish work? *shi2 ma shi2hou4 ta1 wan2cheng2 gong1zuo4 ? *什么时候他完成工作?*
+He finishes work at five o'clock. *ta1 wu3dian3 xia4ban1 . *他五點下班。 *
+When does he leave work? *he2shi2 ta1 liu2xia4 gong1zuo4 ? *何时他留下工作?*
+At half past five, he leaves the office. *wu3dian3ban4 ta1 li2kai1 ban4gong1shi4 . *五點半他離開辦公室。 *
+What time does he arrive home? *shi2 ma shi2hou4 ta1 dao4 jia1 ? *什么时候他到家?*
+At six o'clock, he arrives home. *liu4dian3 hui2dao4 jia1 . *六點回到家。 *
+I see. *ming2bai le. *明白了*
+He is very busy every day. *ta1 mei3tian1 dou1 hen3 mang2 .* 他每天都很忙。*
+Hello, John! *John, ni3hao3 ? * John, 你好﹗ *
+Hello, Mr. Li! *li3 xian1sheng ?ni3hao3 ? *李先生﹐你好﹗ *
+What time is it now? *xian4zai4 ji3dian3 zhong1 ? *現在幾點鐘﹖ *
+It is eight o'clock now. *xian4zai4 ba1dian3 zhong1 . *現在八點鐘。 *
+Where are you going? *ni3 dao4 na3li qu4 ? *你到哪力去﹖ *
+I am going to (my) company to work. *wo3 dao4 gong1si1 qu4 shang4ban1 . *我到公司去上班。 *
+When do you go home? *ni3 shi2 me shi2hou4 hui2jia1 ? *你什麼時候回家﹖ *
+I go home at half past five. *wo3 wu3dian3ban4 hui2jia1 . *我五點半回家。 *
+We are going to learn English tonight, is it right? *wo3men jin1tian1 wan3shang xue2 ying1wen2 ?dui4 bu4dui4 ? *我們今天晚上学英文﹐對不對﹖ *
+Right. We'll meet at seven in the evening, is it OK? *dui4 ?wo3men wan3shang qi1dian3 jian4 ?hao3 bu4hao3 ? *對﹐我們晚上七點見﹐好不好﹖ *
+Good, see you in the evening. *hao3 ?wan3shang jian4 .* 好﹐晚上見。*
+Mr. Li, what time is it now? *li3 xian1sheng ?xian4zai4 ji3dian3 le ? *李先生﹐現在幾點了﹖ *
+8:10. *ba1dian3shi2 fen1 . *八點十分。 *
+We have studied for one hour (already). *wo3men xue2 le yi1ge4 xiao3shi2 le . *我們学了一各小時了。 *
+(Do you) need a rest? *yao4bu yao1 xiu1xi yi2xiar4 ?? *要不要休息一下而﹖ *
+Fine, let's take a ten minute break. Let's resume at eight twenty. *hao3 ,wo3men xiu1xi shi2fen1 zhong1 ,ba1dian3er4shi2 fen1 zai4 kai1shi3 . *好，我們休息十分鐘，八點二十分再開始。 *
+Okay. *hao3 de . *好的。*
+John, it is already 8:25. *John, xian4zai4 ba1dian3er4shi2wu3 fen1 le . * John, 現在八點二十五分了。 *
+Let's continue to study. *wo3men ji4xu4 xue2 ba1 . *我們繼續学吧。 *
+Good. Mr. Li, how to say 'five to nine' in Chinese? *hao3 .li3 xian1sheng 'five to nine'zhong1wen2 zen3me shui4 ? *好。李先生﹐'five to nine'中文怎麼說﹖ *
+Five to nine. *cha1 wu3 fen1 jiu3dian3 . *差五分九點。*
+It is five to nine now. Is it correct? *xian4zai4 cha1 wu3 fen1 jiu3dian3 .dui4 bu4dui4 ? *現在差五分九點。對不對﹖  *
+Right, we should finish class now. *dui4 wo3men gai1 xia4ke4 le .* 對﹐我們該下課了。*
+
+Date:
+What is the date today? *shi2 ma jin1tian1 shi4 ri4qi1 ? *什么今天是日期?*
+Today is July 23, 1996, Tuesday. *jin1tian1 shi4 yi1jiu3jiu3liu4 nian2 qi1yue4 er4shi2san1 hao2 xing1qi1er4 . *今天是一九九六年七月二十三號﹐星期二。*
+What is the date tomorrow? *shi2 ma ming2tian1 shi4 ri4qi1 *什么明天是日期?*
+Tomorrow will be Wednesday, 24th. *ming2tian1 shi4 xing1qi1san1 er4shi2si4hao4 . *明天是星期三﹐二十四號。 *
+What was the date yesterday? *shi2 ma zuo2tian1 shi4 ri4qi1 *什么昨天是日期?*
+Yesterday was 22nd, Monday. *zuo2tian1 shi4 er4shi2er4hao4 xing1qi1yi1 . *昨天是二十二號﹐星期一。 *
+What month is this? *xian4zai4 shi4 ji1 yue4 ? *现在是几月？*
+This month is July. *zhei4ge4yue4 shi4 qi1yue4 . *这各月是七月。 *
+What month is next month? *shi2 ma yue4 shi4 xia4ge4yue4 ? *什么月是下个月?*
+Next month will be August. *xia4ge4yue4 shi4 ba1yue4 . *下各月是八月。 *
+What month was last month? *shi2 ma yue4 shi4 shang4ge4yue4 ? *什么月是上个月?*
+Last month was June. *shang4ge4yue4 shi4 liu4yue4 . *上各月是六月。 *
+What is this year? *shi2 ma shi4 jin1nian2 ? *什么是今年?*
+This year is 1996. *jin1nian2 shi4 yi1jiu3jiu3liu4 nian2 . *今年是一九九六年。*
+What is next year? *shi2 ma shi4 ming2nian2 ? *什么是明年?*
+Next year will be 1997. *ming2nian2 shi4 yi1jiu3jiu3qi1nian2 . *明年是一九九七年。 *
+What was last year? *shi2 ma shi4 qu4nian2 ? *什么是去年?*
+Last year was 1995. *qu4nian2 shi4 yi1jiu3jiu3wu3 nian2 .* 去年是一九九五年。*
+How many days are in a year? *duo1shao3 tian1 zai4 zai4 yi1 nian2 ? *多少天在在一年?*
+There are 365 days in a year. *yi1 nian2 you3 san1bai3liu4shi2wu3 tian1 . *一年有三百六十五天。 *
+How many days are in a month? *duo1shao3 tian1 zai4 zai4 yi1ge4 yue4 ? *多少天在在一个月?*
+There are 30 or 31 days in a month. *yi1ge4 yue4 you3 san1shi2tian1 huo4zhe3 san1shi2yi1 tian1 . *一各月有三十天或者三十一天。 *
+What about February? *zen3meyang4 2yue4 ? *怎么样2月?*
+But there are only 28 or 29 days in February. *ke3shi4 er4yue4 zhi3you3 er4shi2ba1 tian1 huo4zhe3 er4shi2jiu3 tian1 . *可是二月只有二十八天或者二十九天。 *
+How many weeks are there in a month? *duo1shao3 ge4 xing1qi1 you3 shi4 zai4 yi1ge4 yue4 ? *多少个星期有是在一个月?*
+There are four or five weeks in a month. *yi1ge4 yue4 you3 si4 ge4 xing1qi1 huo4zhe3 wu3 ge4 xing1qi1 . *一各月有四各星期或者五各星期。 *
+How many days are there in a week? *duo1shao3 tian1 you3 shi4 zai4 yi1ge4 xing1qi1 ? *多少天有是在一个星期?*
+There are seven days in a week. *yi1ge4 xing1qi1 you3 qi1 tian1 . *一各星期有七天。 *
+Which days are weekdays? *na3 tian1 shi4 zhou1ri4 ? *哪天是周日?*
+Monday through Friday are week days (working days). *xing1qi1yi1 dao4 xing1qi1wu3 shi4 gong1zuo4 ri4 . *星期一到星期五是工作日。 *
+What is Saturday? *shi2 ma shi4 xing1qi1liu4 ? *什么是星期六?*
+Saturday is weekend. *xing1qi1liu4 shi4 zhou1mo4 . *星期六是週末。*
+What is Sunday? *shi2 ma shi4 xing1qi1tian1 ? *什么是星期天?*
+Sunday is also called worship day, because many people go to church to have (Sunday) service. *xing1qi1tian1 ye3 jiao4 li3bai4tian1 yin1wei2 hen3duo1 ren2 dao4 jiao4tang2 qu4 zuo4 li3bai4 . *星期天也叫禮拜天﹐因為很多人到教堂去做禮拜。*
+In which year were you born? *ni3 shi4 na3 yi1 nian2 chu1sheng1 de ? *你是哪一年出生的﹖ *
+I was born in 1946, and you? *wo3 shi4 yi1jiu3si4liu4 nian2 chu1sheng1 de ?ni3 ne ? *我是一九四六年出生的﹐你呢﹖ *
+I was born in 1949. *wo3 shi4 si4jiu3 nian2 chu1sheng1 de . *我是四九年出生的。 *
+Then you must be 50 this year. *na3 ni3 jin1nian2 ying1gai1 wu3shi2 sui4 le . *那你今年應該五十歲了。 *
+Isn't it so! Your astrological sign must be ox, right? *ke3bushi4 ma3 ?ni3 shi4 shu3 niu2 de ba1 ? *可不是蚂﹗你是屬牛的吧﹖ *
+Right. I was born in 1949. My sign is ox. *dui4 ?wo3 yi1jiu3si4jiu3nian2 sheng1 ?shu3 niu2 . *對﹐我一九四九年生﹐屬牛。 *
+I see. *ming2bai le. *明白了*
+Your sign is dog, right? *ni3 shu3 gou3 ?dui4 bu4dui4 ? *你屬狗﹐對不對﹖ *
+Correct. My birthday is September 1. *dui4 ?wo3de sheng1ri4 shi4 jiu3yue4 yi1hao4 . *對﹐我的生日是九月一號。 *
+My birthday is April 6. *wo3de sheng1ri4 shi4 si4yue4 liu4hao4 . *我的生日是四月六號。 *
+Your birthday is approaching. *ni3 de sheng1ri4 kuai4 dao4le . *你的生日快到了。 *
+Wish you a happy birthday. *zhu4 ni3 sheng1ri4 kuai4le4 . *祝你生日快樂。 *
+Thanks. *xie4xie .* 谢谢。*
+John, do you go to school every day? *John, ni3 mei3tian1 dou1 dao4 xue2xiao4 qu4 ma3 ? * John, 你每天都到学校去蚂﹖ *
+Not really. I have class on Mondays, Wednesdays (and) Fridays. *bu4yi1ding4 .wo3 xing1qi1yi1 san1wu3 you3 ke4 . *不一定。我星期一三五有課。*
+What about Tuesday? *zen3meyang4 xing1qi1er4 ? *怎么样星期二? *
+(I) don't have class on Tuesdays. *xing1qi1er4 si4 mei2you3 ke4 . *星期二四枚有課。 *
+What class do you have on Mondays? *ni3 xing1qi1yi1 you3 shi2 me ke4 ne ? *你星期一有什麼課呢﹖ *
+(I) have history and sociology class on Mondays. *xing1qi1yi1 you3 li4shi3 ke4 ?she4hui4xue2 ke4 . *星期一有歷史課﹐社會学課。 *
+What about Wednesday? *xing1qi1san1 ne ? *星期三呢﹖ *
+(I) have literature and economics class on Wednesdays. *xing1qi1san1 you3 wen2xue2 ke4 he2 jing1ji4 ke4 . *星期三有文学課和經濟課。*
+What about Fridays? *zen3meyang4 xing1qi1wu3 ? *怎么样星期五? *
+(It) is political science on Fridays. *xing1qi1wu3 shi4 zheng4zhi4xue2 ke4 . *星期五是政治学課。 *
+What time do you go to school usually? *ni3 yi4ban1 ji3dian3 dao4 xue2xiao4 qu4 ? *你一般幾點到学校去﹖ *
+(I) usually go to school at half past nine. (And) come back home at three (or) four in the afternoon. *yi4ban1 jiu3dian3ban4 qu4 xia4wu3 san1si4dian3 zhong1 hui2jia1 . *一般九點半去﹐下午三四點鐘回家。 *
+What do you do on Tuesdays and Thursdays? *xing1qi1er4 he2 xing1qi1si4 zuo4 shi2 me ne ? *星期二和星期四作什麼呢﹖ *
+(I) study at home or go to the library to read books. *zai4 jia1 xue2xi2 ?huo4zhe3 dao4 tu2shu1guan3 qu4 kan1 shu1 .* 在家学習﹐或者到圖書館去看書。*
+What do you do on Saturdays and Sundays? *ni3 xing1qi1liu4 xing1qi1tian1 zuo4 shi2 me ? *你星期六星期天作什麼﹖ *
+I usually stay at home (and) take a rest. *wo3 yi4ban1 zai4 jia1 xiu1xi xiu1xi . *我一般在家休息休息。 *
+I see. *ming2bai le. *明白了*
+(There are many household chores, (you) never finish them. *jia1 li3 de shi4 hen3duo1 ?zuo4 bu4 wan2 . *家力的事很多﹐作不完。 *
+(You) don't go out (an) watch movies? *bu4 chu1qu4 kan1 dian4ying3 ma3 ? *不出去看電影蚂﹖ *
+Sometimes (I) go to see movies. *you3de shi2hou4 qu4 kan1 dian4ying3 . *有的時候去看電影。 *
+Excuse me, what time is it now? *dui4bu4qi4 ?xian4zai4 ji3dian3 le ? *對不起﹐現在幾點了﹖ *
+(It) is two to nine, what's up? *xian4zai4 cha1 liang3 fen1 jiu3dian3 ?zen3me le ? *現在差两分九點﹐怎麼了﹖ *
+I got to go. I have an appointment with a friend. *wo3 gai1 zou3 le .wo3 gen1 yi1ge4 peng2you you3 yao1 . *我該走了。我跟一各朋友有約。 *
+Good-bye. *zai4jian4 . *再见。 *
+Good-bye. *zai4jian4 . *再见。 *
+
+Weather:
+Where do you live? *nin2 zai4 na3li zhu4 ? *您在哪里住?*
+I live in Pittsburgh, Pennsylvania *wo3 zhu4 zai4 bin1 zhou1  Pittsburgh. *我住在賓州 *
+How is the weather in Pittsburgh? *zen3meyang4 zai4 pi3zi1 bao3 ? *怎么样在匹兹堡?*
+Pittsburgh。 *
+The weather here is very nice. *zhe4li3 tian1qi4 hen3hao3 . *这力天氣很好。 *
+I see. *ming2bai le. *明白了*
+There are four seasons in a year: Spring, Summer, Fall and Winter. *yi1 nian2 you3 si4 ge4 ji4jie2 :chun1tian1 ,xia4tian1 ,qiu1tian1 he2 dong1tian1 . *一年有四各季節：春天、夏天、秋天和冬天。* 
+How is the weather in the Spring? *zen3meyang4 zai4 chun1tian1 ? *怎么样在春天?*
+The weather in Spring is very comfortable. *chun1tian1 tian1qi4 hen3 shu1fu . *春天天氣很舒服。 *
+Is it hot or cold? *tian1qi4 re4 huo4 leng3 de ma3 ? *天气热或冷的吗?*
+It is neither cold nor hot. *bu4 leng3 ye3bu4 re4 . *不冷也不熱。 *
+What about in the summer? *zen3meyang4 zai4 xia4tian1 ? *怎么样在夏天?*
+It is fairly hot in Summer. *xia4tian1 bi3jiao4 re4 . *夏天比較熱。 *
+I see. *ming2bai le. *明白了*
+It is usually 80 to 90 degrees. *yi4ban1 shi4 ba1shi2 du4 dao4 jiu3shi2 du4 . *一般是八十度到九十度。 *
+That is hot. *na3 shi4 re4 de . *那是热的。*
+Sometimes, it is more than 90 degrees. *you3de shi2hou4 jiu3shi2duo1 du4 . *有的時候九十多度。 *
+What is the best season? *shi2 ma shi4 zui4jia1 de ji4jie2 ? *什么是最佳的季节?*
+Fall is the best season. *qiu1tian1 shi4 zui4hao3 de ji4jie2 . *秋天是最好的季節。 *
+Does it rain? *xia4yu3 ma3 ? *下雨吗?*
+It does not rain often. *bu4 chang2 xia4yu3 . *不常下雨。 *
+Is it cold in the winter? *tian1qi4 leng3 de zai4 dong1tian1 ma3 ? *天气冷的在冬天吗?*
+It is fairly cold in Winter. *dong1tian1 bi3jiao4 leng3 . *冬天比較冷。 *
+Does it snow? *ta1 xia4 xue3 ma3 ? *它下雪吗?*
+It snows sometimes. *you3shi2hou xia4 xue3 . *有時候下雪。 *
+I see. *ming2bai le. *明白了*
+But snow is not too heavy. *ke3shi4 xue3 bu4 tai4 da4 . *可是雪不太大。 *
+Do you like living there? *nin2 xi3huan ju1zhu4 na4li ma3 ? *您喜欢居住那里吗?*
+It is not bad to live in Pittsburgh. *zhu4 zai4  Pittsburgh bu4cuo4 . *住在 Pittsburgh 不錯。 *
+Where is Prof. Xie from? *Xie jiao4shou4 he2chu3 shi4 cong1 ? *Xie 教授何处是从?*
+Prof. Xie is from Shanghai. *xie4 lao3shi1 shi4 shang4hai3 ren2 . *谢老失是上海人。*
+I see. *ming2bai le. *明白了*
+He used to live in Shanghai. *ta1 yi3qian2 zhu4 zai4 shang4hai3 . *他以前住在上海。 *
+The weather in Spring is fairly good. *chun1tian1 de tian1qi4 bi3jiao4 hao3 . *春天的天氣比較好。 *
+But when April (and) May come, it rains often. *ke3shi4 dao4le si4wu3 yue4 jiu4 chang2chang2 xia4yu3 . *可是到了四五月就常常下雨。 *
+Sometimes (it is) very stuffy. *you3de shi2hou4 hen3 men1 . *有的時候很悶。 *
+(It) is very hot in summer. *xia4tian1 hen3 re4 . *夏天很熱。 *
+It is generally around 30 degrees. *yi4ban1 shi4 san1shi2 du4 zuo3you4 . *一般是三十度字右。 *
+There are often thunderstorms in the afternoon. *xia4wu3 chang2chang2 xia4 lei2 zhen4 yu3 . *下午常常下雷陣雨。 *
+The rain is very heavy sometimes. *you3de shi2hou4 yu3 hen3da4 . *有的時候雨很大。 *
+It is very comfortable in fall. It is neither cold nor hot. *qiu1tian1 hen3 shu1fu ,bu4 leng3 ye3bu4 re4 . *秋天很舒服，不冷也不熱。 *
+Although it does not snow often in winter, it is very cold. *dong1tian1 sui1ran2 bu4 chang2 xia4 xue3 ,ke3shi4 hen3 leng3 . *冬天雖然不常下雪，可是很冷。 *
+Ordinary people don't have heating at home. *yi4ban1 ren2jia1 li3dou1 mei2you3 nuan3qi4 .* 一般人家力都枚有暖氣。*
+John, how's weather like in your area? *John, ni3men nar3 ?tian1qi4 zen3meyang4 ? * John, 你們那而天氣怎麼樣？ *
+Not too bad. *hai2 bu4cuo4 . *還不錯。 *
+Is it hot in summer? *xia4tian1 re4 bu4 re4 ? *夏天熱不熱？ *
+It is OK, not too hot. It is generally around 80 degrees. *hai2 hao3 ,bu4 tai4 re4 ,yi4ban1 ba1shi2 du4 zuo3you4 . *還好，不太熱，一般八十度字右。 *
+Is it cold in winter? *dong1tian1 leng3 bu4 leng3 ? *冬天冷不冷？ *
+It is fairly cold in winter. It snows often, but (snow) is not heavy. *dong1tian1 bi3jiao4 leng3 ,chang2 xia4 xue3 ,ke3shi4 bu4 tai4 da4 . *冬天比較冷，常下雪，可是不太大。* 
+When is the most comfortable time in your area? *ni3men nar3 ?shi2 me shi2hou4 zui4 shu1fu ? *你們那而什麼時候最舒服？ *
+Fall is the best. It is neither cold nor hot. *qiu1tian1 zui4hao3 ,bu4 leng3 ye3bu4 re4 . *秋天最好，不冷也不熱。 *
+I see. *ming2bai le. *明白了*
+But it rains sometimes. *ke3shi4 you3de shi2hou4 xia4yu3 . *可是有的時候下雨。 *
+Does it rain often? *chang2chang2 xia4yu3 ma3 ? *常常下雨蚂？ *
+It does not rain often. *bu4 chang2 xia4yu3 . *不常下雨。 *
+Well, your weather is not bad. *na3 ni3men nar3 ?tian1qi4 hai2 bu4cuo4 .* 那你們那而天氣還不錯。*
+Okay. *hao3 de . *好的。*
+Do you know if summer in Beijing is hot or not? *ni3 zhi1dao bu4zhi1 dao4 bei3jing1 xia4tian1 re4 bu4 re4 ? *你知道不知道北京夏天熱不熱？ *
+I am not clear. *wo3 bu4 tai4 qing1chu . *我不太清楚。 *
+Why? *wei4shen3me ? *为什么?*
+I did not live in Beijing. *wo3 mei2you3 zai4 bei3jing1 zhu4 guo4 . *我枚有在北京住過。 *
+I see. *ming2bai le. *明白了*
+I heard that summer is not too hot. *wo3 ting1shuo1 xia4tian1 bu4 tai4 re4 . *我聽說夏天不太熱。 *
+What's the temperature generally? *yi4ban1 shi4 duo1shao3 du4 ? *一般是多少度？ *
+It is generally around 30 degrees. *yi4ban1 shi4 san1shi2 du4 zuo3you4 . *一般是三十度字右。 *
+It is 30 degrees by Centigrade, is it correct? *shi4 she4shi4 san1shi2 du4 ,dui4 bu4dui4 ? *是攝氏三十度，對不對？ *
+Right, it is around 90 degrees by Fahrenheit. *dui4 ,hua1 shi4 jiu3shi2 du4 zuo3you4 . *對，花氏九十度字右。 *
+It must be very cold in winter. *dong1tian1 yi1ding4 hen3 leng3 ba1 ? *冬天一定很冷吧？ *
+Yes. It often snows in winter. *shi4de ,dong1tian1 jing1chang2 xia4 xue3 . *是的，冬天經常下雪。 *
+I see. *ming2bai le. *明白了*
+Sometimes snow is very heavy. *you3de shi2hou4 xue3 hen3da4 . *有的時候雪很大。 *
+Do people in Beijing have heating at home? *bei3jing1ren2 jia1 li3 you3 mei2you3 nuan3qi4 ? *北京人家力有枚有暖氣？ *
+(Yes, they) have. *you3 . *有。 *
+Where did you live before? *ni3 yi3qian2 zhu4 zai4 na3li ? *你以前住在哪力？ *
+I used to live in Taipei. *wo3 yi3qian2 zhu4 zai4 tai2bei3 . *我以前住在台北。 *
+I heard that it is very hot over there in summer, is it so? *wo3 ting1shuo1 na4li xia4tian1 hen3 re4 ,shi4bu4shi4 ? *我聽說那力夏天很熱，是不是？ *
+Yes, it is not only hot, but also very stuffy. It rains often. *shi4 ,bu4dan4 hen3 re4 ,er2qie3 hen3 men1 ,chang2chang2 xia4yu3 . *是，不但很熱，而且很悶，常常下雨。 *
+Do you often have typhoons in summer? *xia4tian1 shi4bu4shi4 hai2 you3 tai2feng1 ? *夏天是不是還有颱風？ *
+Yes, we often have typhoons in summer. *dui4le ,xia4tian1 jing1chang2 gua1 tai2feng1 . *對了，夏天經常颳颱風。 *
+Do ordinary people in Taiwan have air-conditioner at home? *tai2wan1 yi4ban1 ren2jia1 li3dou1 you3 leng3 qi4 ba1 ? *台灣一般人家力都有冷氣吧？ *
+Yes, majority people have air-conditioner at home. *shi4de ,da4duo1shu4 ren2jia1 li3 you3 leng3 qi4 . *是的，大多數人家力有冷氣。 *
+That is good. *na3 shi4 hao3 de . *那是好的。*
+But there are also people who only have electric fans. *ye3 you3de ren2 zhi3you3 dian4feng1shan4 . *也有的人只有電風扇。 *
+Then, isn't it very unbearable in summer? *na3 ,xia4tian1 bu2shi4 hen3 nan2shou4 ma3 ? *那，夏天不是很難受蚂？ *
+It is OK, we are used to it. *hai2 hao3 ,wo3men dou1 xi2guan4 le .* 還好，我們都習慣了。 *
+
+Learning Chinese:
+What are you? *nin2 shi4 shi2 ma ? *您是什么?*
+I am an American. *wo3 shi4 mei3guo2ren2 . *我是美国人。*
+Do you speak Chinese? *nin2 jiang3 zhong1wen2 ma3 ? *您讲中文吗? *
+(I) am learning Chinese now, because Chinese is very useful. *xian4zai4 zai4 xue2 zhong1wen2 ,yin1wei2 zhong1wen2 hen3 you3yong4 . *現在在学中文，因為中文很有用。 *
+Have you been to China? *nin2 shi4 dui4 zhong1guo2 ma3 ? *您是对中国吗?*
+I want to go to China. *wo3 xiang3 dao4 zhong1guo2 qu4 . *我想到中国去。 *
+For how long? *wei2 duo1 jiu3 ? *为多久?*
+I plan to stay in China one year. *wo3 da3suan4 zai4 zhong1guo2 dai1 yi1 nian2 . *我打算在中国呆一年。 *
+What will you do in China? *nin2 jiang1 zuo4 shi2 ma zai4 zhong1guo2 ? *您将做什么在中国? *
+(I will) learn Chinese there. *zai4 na3 li3 xue2 zhong1wen2 . *在那裏学中文。 *
+Will you do anything else? *nin2 jiang1 zuo4 bie2de ma3 ? *您将做别的吗?*
+Go to various places to travel, and see the Great Wall. *dao4 ge4di4 qu4 le you2 ,kan1 kan1 chang2cheng2 . *到各地去旅遊，看看長城。 *
+How much Chinese do you know? *nin2 zhi1dao duo1shao3 han4yu3 ? *您知道多少汉语?*
+I can speak a little Chinese now. *wo3 xian4zai4 hui4 shui4 yi1dianr3 zhong1wen2 . *我現在會說一點而中文。 *
+How much do you understand? *nin2 liao3jie3 duo1shao3 ? *您了解多少?*
+But (I) still don't understand many words. I don't speak very fluently. *ke3shi4 hen3duo1 hua4 hai2 ting1 bu4 dong3 ,shui4 de2 hai2 bu4 liu2li4 . *可是很多話還聽不懂，說得還不流利。*
+I see. *ming2bai le. *明白了*
+I want to continue to learn Chinese. *wo3 yao1 ji4xu4 xue2 zhong1wen2 . *我要繼續学中文。*
+What is John’s job? *shi2 ma shi4 yao1 han4 de gong1zuo4 ? *什么是约翰的工作?*
+John is manager of a company in Pennsylvania, U.S. *John shi4 mei3guo2 bin1 zhou1 yi1 jia1 gong1si1 de jing1li3 .* John 是美国賓州一家公司的經理。*
+What kind of work does John do? *yao1 han4 wan2cheng2 shi2 ma yang4 de gong1zuo4 ? *约翰完成什么样的工作?*
+He does business with China. *ta1 gen1 zhong1guo2 zuo4 sheng1yi .* 他跟中国作生意。*
+I see. *ming2bai le. *明白了*
+There are visitors often coming from China to do business. *zhong1guo2 chang2chang2 you3 ren2 lai2 mei3guo2 tan2 sheng1yi .* 中国常常有人來美国談生意。*
+Can he speak Chinese? *ta1 ke3yi3 jiang3 zhong1wen2 ma3 ? *他可以讲中文吗?*
+John can speak a little Chinese now. *John xian4zai4 hui4 shui4 yi1dianr3 ?zhong1wen2 .* John 現在會說一點而中文。*
+That is interesting. *na3 shi4 you3qu4 . *那是有趣。*
+He can speak Chinese to the friends who come from China. *ta1 ke3yi3 gen1 zhong1guo2 lai2 de peng2you shui4 zhong1wen2 .* 他可以跟中国來的朋友說中文。*
+I see. *ming2bai le. *明白了*
+He can understand all simple stuff. *jian3dan1 dehua4 ,ta1 dou1 ting1 de2 dong3 .* 簡單的話，他都聽得懂。*
+That is good. *na3 shi4 hao3 de . *那是好的。*
+He can't understand talk which is a little difficult. *nan2 yi1dianr3 dehua4 ,ta1 jiu4 ting1 bu4 dong3 .* 難一點而的話，他就聽不懂。*
+What will he do? *ta1 jiang1 zuo4 shi2 ma ? *他将做什么?*
+Therefore, he plans to go to China and continue to learn Chinese next year. *suo3yi3 ta1 da3suan4 ming2nian2 dao4 zhong1guo2 qu4 ji4xu4 xue2 zhong1wen2 *.所以他打算明年到中国去繼續学中文。*
+John, your Chinese is becoming better and better. *John, ni3 de zhong1guo2 hua4 shui4 de2 yue4lai2yue4 hao3 le .* John, 你的中国話說得越來越好了。*
+No, I still can't speak it well. There are many words that I can't say. *na3 li3 ,hai2 bu4xing2 ,hen3duo1 hua4 hai2 bu4hui4 shui4 .* 哪裏，還不行，很多話還不會說。*
+How long have you been learning it? *ni3 xue2 le duo1 chang2 shi2jian1 le ?* 你学了多長時間了？*
+I have been learning for more than one year. *wo3 xue2 le yi1nian2duo1 le .* 我学了一年多了。*
+Do you plan to continue to learn in the future? *ni3 da3suan4 yi3hou4 ji4xu4 xue2 ma3 ?* 你打算以後繼續学蚂？*
+Yes. I plan to go to China and study next year. *shi4de .wo3 xiang3 ming2nian2 dao4 zhong1guo2 qu4 xue2 .* 是的。我想明年到中国去学。*
+That's terrific! Where are you planning to go? *tai4hao3le !ni3 da3suan4 dao4 na3 li3 qu4 ?* 太好了！你打算到哪裏去？*
+I want to go to Beijing. *wo3 xiang3 dao4 bei3jing1 qu4 .* 我想到北京去。*
+Do you have friends in Beijing? *ni3 zai4 bei3jing1 you3 peng2you ma3 ?* 你在北京有朋友蚂？*
+Yes, I have. *you3 .* 有。*
+Then, it is very good. *na3 ,bu4cuo4 . *那，不錯。*
+I see. *ming2bai le. *明白了*
+What does your friend in Beijing do? *ni3 de peng2you zai4 bei3jing1 shi4 zuo4 shen2mede ?* 你的朋友在北京是作什麼的？*
+He is manager of an import and export company. *ta1 shi4 yi1 jia1 jin4chu1kou3 gong1si1 de jing1li3 .* 他是一家進出口公司的經理。*
+Do you often go to China? *ni3 jing1chang2 dao4 zhong1guo2 qu4 ma3 ?* 你經常到中国去蚂？*
+Not very often. But I plan to go there next year. *bu4 chang2 qu4 .bu4guo4 wo3 da3suan4 ming2nian2 qu4 yi1ci4 .* 不常去。不過我打算明年去一次。*
+To go to see your friends or to do business? *qu4 kan1 peng2you hai2shi4 tan2 sheng1yi ?* 去看朋友還是談生意？*
+For business, and take this chance to see friends  *tan2 sheng1yi ,shun4bian4 ye3 kan1 kan1 peng2you .* 談生意，順便也看看朋友。*
+How long are you going to stay in Beijing? *ni3 da3suan4 zai4 bei3jing1 dai1 duo1 jiu3 ?* 你打算在北京呆多久？*
+Probably one month. *da4gai4 yi1ge4 yue4 .* 大概一各月。*
+I heard that you will go to China, is that right? *ting1shuo1 ni3 yao1 dao4 zhong1guo2 qu4 ,shi4 ma3 ?* 聽說你要到中国去，是蚂？*
+Yes. I will go to Beijing. *shi4de .wo3 yao1 qu4 bei3jing1 .* 是的。我要去北京。*
+When are you leaving? *shi2 me shi2hou4 zou3 ?* 什麼時候走？*
+Next Saturday. *xia4ge4xing1qi1 liu4 .* 下各星期六。*
+How long will you stay in Beijing? *zai4 bei3jing1 yao1 dai1 duo1 jiu3 ?* 在北京要呆多久？*
+About three weeks. *san1 ge4 xing1qi1 zuo3you4 .* 三各星期字右。*
+Do you need a ride? *yao4bu yao1 wo3 song4 ni3 ?* 要不要我送你？*
+No, thank you. My wife will give me a ride to the airport. *bu4yong4 ,xie4xie .wo3 tai4tai hui4 song4 wo3 dao4 fei1ji1chang3 .* 不用，谢谢。我太太會送我到飛機場。*
+Then, have a good trip. *na3 zhu4 ni3 yi2lu4ping2an1 .* 那祝你一路平安。*
+Thank you.  *xie4xie .* 谢谢。*
+
+Exchange Money:
+Excuse me, I'd like to exchange some US dollars for Renminbi. *lao2jia4 ,wo3 xiang3 ba3 mei3yuan2 huan4 cheng2ren2 min2 bi4 *劳驾，我想把美元换成人民币。  *
+How much do you want to change? *nin2 yao1 huan4 duo1shao3?  *您要换多少？ *
+Five hundred US dollars. *wu3bai3 mei3yuan2. *五百美元。*
+Fill in the exchange form first, please. *qing3 nin2 xian1 tian2 yi1zhang1 dui4huan4 chan2. *请您先填一张兑换单。 *
+What’s the rate for US dollars to Renminbi today? *jin1tian1 mei3yuan2 he2 ren2min2bi4 de bi3jia4 shi4 duo1shao3 ?  *今天美元和人民币的比价是多少？*
+The rate is 1:8.63. *bi3jia4 shi4 yi1 bi3 ba1dian3liu4san1 . *比价是一比八点六三。 *
+I have finished the form. *wo3 tian2 hao3 dui4huan4 chan2 le . *我填好兑换单了。 *
+Wait a moment, please. Here is your money. *请稍等。这是您的钱。 *
+Thank you. *xie4xie5 . *谢谢。 *
+
+Eating Duck:
+Have a taste. This is traditional Roast Beijing Duck. *chang2 yi1 chang2 ,zhe4 shi4 zheng1 zong1 de bei3jing1 kao3ya1 . *尝一尝，这是正宗的北京烤鸭*
+How to eat it? *zen3me5 ge4 chi1 fa3 ? *怎么个吃法？*
+Put slices of roast duck inside the thin pancakes which are smeared with sweet bean sauce and scallion. *xian1 na2 yi1zhang1 bo2 bing3 ,ba3 ya1 pian1 fang4 zai4 li3mian4 ,ran2hou4 ba3 mo3 hao3 jiang4 de5 cong1 jia1 zai4 bing3 li3 jiu4 ke3yi3 chi1 le5 . *先拿一张薄饼，把鸭片放在里面，然后把抹好酱的葱夹在饼里就可以吃了。*
+I see. *ming2bai le. *明白了*
+How does the roast duck taste? *kao3ya1 de5 wei4dao5 zen3meyang4 ? *烤鸭的味道怎么样？*
+It's very delicious and it really has a well-deserved reputation. *wei4dao5 hao3 ji2le5 ,zhen1shi4 ming2 bu4 xu1 chuan2 . *味道好极了，真是名不虚传。*
+
+Asking the Way:
+Excuse me, is Xidan far from here? *lao2jia4 ,xi1 chan2 li2 zher4 ?yuan3 bu4 yuan3 ? *劳驾，西单离这儿远不远？ *
+Yes, quite far. It will take you twenty-five minutes by bicycle. *bi3jiao4 yuan3 ,qi2che1 de2 25 fen1zhong1 zuo3you4 . *比较远，骑车得25 分钟字右。*
+Is it easy to take a bus? *zuo4 che1 fang1bian4 ma3 ? *坐车方便吗？*
+Yes, very easy. You just take seven stations to go to Xidan. You can't miss it. *hen3 fang1bian4 ,yao1 zuo4 qi1 zhan4 che1 ,xia4 che1 jiu4shi4 . *很方便，要坐七站车，下车就是。 *
+And could you tell me how far is it to Fuyoujie from here? *qing3wen4 dao4 fu3 you4 jie1 you3 duo1 yuan3 ? *请问到府右街有多远？ *
+On your way to Xidan, you'll pass by Fuyoujie. *nin2 qu4 xi1 chan2 deshi2hou4 ,lu4guo4 fu3 you4 jie1 . *您去西单的时候，路过府右街。 *
+Is it far from Fuyoujie to Xidan? *fu3 you4 jie1 dao4 xi1 chan2 yuan3 bu4 yuan3 ? *府右街到西单远不远？ *
+Not too far, you just need to walk for ten minutes.? *bu4 yuan3 le ,zou3 shi2fen1 zhong1 jiu4 dao4le . *不远了，走十分钟就到了。 *
+
+At the Free Market:
+What can I do for you, sir? *xian1sheng ,nin2 yao4dian3 er2 shi2 ma ?  *先生，您要点儿什么？ *
+What’s the price of grapes per jin? *pu2tao duo1shao3 qian2 yi1 jin1 ?  *葡萄多少钱一斤？  *
+One yuan and eight mao per jin. *yi1kuai4 ba1 mao2 qian2 yi1 jin1 . *一块八毛钱一斤。 *
+That’s too expensive. Can you make it a bit cheaper? *tai4 gui4 le ,pian2yi dian3 er2 hang2 ma3 ? *太贵了，便宜点儿行吗？ *
+The most I could come down is five fen. *最多一斤便宜五分。 *
+How about one yuan and six mao per jin? *zui4duo1 yi1 jin1 pian2yi wu3 fen1 . *一块六毛钱一斤可以吗？ *
+If you buy a lot, that’ll be okay. *duo1 mai3 ke3yi3 . *多买可以。*
+Then I’ll buy five jin.　*na4me wo3 mai3 wu3 jin1 ba1 . *那么我买五斤吧。*
+
+A Guest at A Friend’s Home:
+Now everything is already prepared. Come on, let's eat. *fan4 zuo4 hao3 le ,kuai4 lai2 chi1 ba1 . *饭做好了，快来吃吧。  *
+So many delicious dishes! It makes my mouth water just to look at them. *zhe4me duo1 cai4 ,kan1 zhuo2yan3 dou1 chan2 le . *这么多菜，看着眼都馋了。 *
+Here, take some more. *lai2 ,jia1 cai4 ,duo1 chi1 dian3 er2 . *来，夹菜，多吃点儿。*
+Did you cook all these dishes? *zhe4xie cai4 dou1 you3 shi4 nin2 zi4ji3 zuo4 de ma3 ? *这些菜都有是您自己做的吗？*
+Yes. How do you like it? *shi4 a1 ,zen3meyang4 ? *是啊，怎么样？ *
+The Chinese are very good at cooks. *zhong1guo2ren2 zuo4 cai4 de shou3yi4 zhen1 bu4cuo4 . *中国人做菜的手艺真不错。 *
+Now, let me help you with the dish. *lai2 gei3 ni3 dian3 er2 zhe4ge4 cai4 . *来给你点儿这个菜。 *
+Don't stand on ceremony. I'll help myself. *bie2 ke4qi4 ,wo3zi4ji3 lai2 . *别客气，我自己来。 *
+Are you full? *chi1 bao3 le ma3 ? *吃饱了吗？ *
+Thanks, I'm quite full.? *xie4xie ,chi1 bao3 le . *谢谢，吃饱了。*
+
+Going to See a Doctor:
+I feel very bad, doctor. *wo3 shen1ti3 bu4 shu1fu . *我身体不舒服。*
+What's wrong with you? *ni3 na3er bu4 shu1fu ?  *你哪儿不舒服？*
+I've got a headache and a cough, and my whole body feels weak. *tou2 teng2 ,hun2shen1 mei2 jin4 er2 ,hai2 ke2sou . *头疼，浑身没劲儿，还咳嗽。*
+Do you have a fever? *fa1shao1 bu4 fa1shao1 ? *发烧不发烧？*
+I don't know. Maybe not. *bu4zhi1 dao4 ,hao3xiang4 bu4 fa1shao1 . *不知道，好像不发烧。*
+Le me take your temperature first. 38?. Open your mouth and say "ah". *xian1 liang2 liang2 ti3wen1 ba1 .san1shi2ba1 du4 .ba3 zui3 zhang1kai1 ,"a1 ". *先量量体温吧。三十八度。把嘴张开，“啊”。*
+What's wrong with me, doctor? *dai4fu ,wo3 de2 de shi4 shi2 ma bing4 ? *大夫，我得的是什么病？*
+You've got a cold. Take some medicine and you'll be all right. *chong2 gan3mao4 .chi1 dian3 er2 yao4 jiu4 hui4 hao3 de . *重感冒。吃点儿药就会好的。*
+
+Talking About Weather:
+What do you think of the weather in Beijing?  *ni3 jue2de bei3jing1 de tian1qi4 zen3meyang4 ? *你觉得北京的天气怎么样？*
+Autumn is the best season in Beijing, since there is a lot of wind in spring.  *bei3jing1 de qiu1tian1 zui4hao3 ,chun1tian1 jing1chang2 gua1 feng1 . *北京的秋天最好，春天经常刮风。*
+How about in summer?  *xia4tian1 de tian1qi4 ne ? *夏天的天气呢？*
+It's not too hot in summer. Because there is a lot of rain, it's nice and cool. *bei3jing1 de xia4tian1 bu4 tai4 re4 .yin1wei2 jing1chang2 xia4yu3 ,hen3 liang2shuang3 . *北京的夏天不太热。因为经常下雨，很凉爽。*
+Is it very cold in winter? *dong1tian1 leng3 ma3 ? *冬天冷吗？*
+Yes, it's rather cold in winter. *bei3jing1 de dong1tian1 bi3jiao4 leng3 .  *北京的冬天比较冷。*
+That is to say, autumn is the best season for tourists. And spring and summer are also okay. *zhe4me shui4 ,yao4shi4 lü3you2 dehua4 ,qiu1tian1 zui4hao3 ,chun1tian1 he2 xia4tian1 ye3bu4 cuo4 . *这么说，要是旅游的话，秋天最好，春天和夏天也不错。*
+That's right. *ni3 shui4 de2 dui4 . *你说得对*
+
+Taking a Taxi:
+Driver! To Beijing Hotel?  *si1ji1 ,qu4 bei3jing1 fan4dian4 ma3 ? *司机，去北京饭店吗？*
+Yes. Get in, please.  *qu4 ,qing3 shang4che1 . *去，请上车。*
+I have something urgent. Could you drive a little faster?  *wo3 you3 ji2 shi4 ,nin2 ke3yi3 kuai4 yi1dianr3 ?ma3 ? *我有急事，您可以快一点儿吗？*
+Don't worry. We'll get there on time. *bie2 zhao2ji2 ,yi1ding4 zhun3shi2 gan3 dao4 . *别着急，一定准时赶到。*
+How do I pay for fare? *che1 fei4 zen3me suan4 ? *车费怎么算？ *
+One yuan and twenty fen per km. *yi1 gong1li3 yi1kuai4 er4 .  *一公里一块二。*
+I'll be back. Can you wait a moment? *wo3 hai2 yao1 gan3 hui2lai ,nin2 neng2 bu4neng2 deng3 yi4huir3 ? *我还要赶回来，您能不能等一会儿？*
+Of course. *ke3yi3 . *可以。*
+How is the waiting fee determined? *deng3hou4 fei4 zen3me suan4 ? *等候费怎么算？*
+One yuan and twenty fen five minutes. *wu3 fen1zhong1 yi1kuai4 er4 . *五分钟一块二。*
+
+Going to a barber:
+Do you want your hair cut, sir?  *xian1sheng ,nin2 yao1 li3 fa1 ma3 ? *先生，您要理发吗？*
+Yes.  *shi4de .  *是的。*
+How do you want?  *nin2 li3 shi2 ma yang4 de ? *您理什么样的？*
+Just the same as usual. *zhao4 yuan2 yang4 li3 jiu4 hang2 . *照原样理就行。*
+Do you want your face shaved? *nin2 gua1 lian3 ma3 ? *您刮脸吗？*
+Yes, and I'd like my moustache trimmed. *yao1 gua1 lian3 ,zai4 xiu1 yi1xia4 hu2zi . *要刮脸，再修一下胡字。*
+Please come here to have your hair washed. Do you like some pomade while drying? *qing3 nin2 dao4 zhe4bian1 xi3 tou2 .chui1 feng1 shi2 shi3 you2 ma3 ? *请您到这边洗头。吹风时使油吗？*
+Just a little. *shao3 lai2 yi1dianr3 ?. *少来一点儿。*
+How do you like it now? *hao3 le ,nin2 kan1 ke3yi3 ma3 ? *好了，您看可以吗？*
+Very well. *hen3hao3 . 很好。*
+
+Talking About Family:
+Who are there in your family?  *ni3 jia1 you3 shi2 ma ren2 ? *你家有什么人？*
+My father, mother, an elder brother, a younger sister and me.  *wo3 ,fu4qin1 ,mu3qin1 ,ge1ge he2 mei4mei4 . *我，父亲，母亲，哥哥和妹妹。*
+How old is your father?  *ni3 fu4qin1 duo1da4 sui4shu ? *你父亲多大岁数？*
+He's sixty years old. *ta1 jin1nian2 liu4shi2 le . *他今年六十了。*
+Is he still working? *ta1 hai2 gong1zuo4 ma3 ? *他还工作吗？*
+No, he's already retired. *ta1 yi3jing1 tui4xiu1 le . *他已经退休了。*
+And your mother? *ni3 mu3qin1 gong1zuo4 ma3 ? *你母亲工作吗？*
+She is a housewife. *ta1 shi4 ge4 jia1ting2 zhu3fu4 . *她是个家庭主妇。*
+How are your brother and sister? *ni3 ge1ge he2 mei4mei4 ne ? *你哥哥和妹妹呢？*
+My brother is doctor. My sister is studying in a middle school.  *wo3 ge1ge shi4 dai4fu ,wo3 mei4mei4 hai2 zai4 shang4 zhong1xue2 . *我哥哥是大夫，我妹妹还在上中学。*
+
+Making Telephone Calls:
+Hello, is that Beijing Hotel?  *nin2 hao3 ,zhe4li3 shi4 bei3jing1 fan4dian4 ma3 ?  *您好，这里是北京饭店吗？*
+yes, whom are you going to speak to?  *shi4de ,nin2 zhao3 na3 wei4 ?  *是的，您找哪位？*
+Extension 3218, please. I want to speak to Mr. Smith.  *qing3 zhuan3 3218fang2jian1 ,wo3 zhao3 shi3 mi4 si1 xian1sheng . *请转3218房间，我找史密斯先生。*
+Hold on please. *hao3 de ,qing3 shao1 deng3 . *好的，请稍等。*
+He is out. Would you have a message conveyed to him? *ta1 bu4zai4 ,nin2 neng2 bang1 wo3 gei3 ta1 shao1 ge4 hua4 ma3 ? *他不在，您能帮我给他捎个话吗？*
+Of course. *dang1ran2 ke3yi3 . *当然可以。*
+Please let him ring back to Mike whose phone number is 68998088. *qing3 ta1 gei3 mai4ke4 hui2 dian4hua4 ,dian4hua4 hao4ma3 shi4 68998088. *请他给麦克回电话，电话号码是68998088。*
+Okay. *hao3 de . *好的。*
+
+Riding a Bicycle:
+I've rented a bicycle.  *wo3 zu1 le liang4 zi4xing2che1 . *我租了辆自行车。*
+Really? So now you can go wherever you want to.  *shi4 ma3 ?zhe4 xia4 er2 ni3 fang1bian4 duo1 le . *是吗？这下儿你方便多了。*
+What should I be careful of riding in Beijing?  *zai4 bei3jing1 qi2che1 ying1gai1 zhu4yi4 shi2 ma ? *在北京骑车应该注意什么？*
+Keep on going in the special lane for bicycle, and take care of the traffic lights and pedestrians. *zou3 zi4xing2che1 zhuan1yong4 dao4 ,zhu4yi4 hong2lü4deng1 he2 xing2ren2. *走自行车专用道，注意红绿灯和行人。*
+I'd like to go to the Summer Palace by bicycle. *wo3 xiang3 qi2che1 qu4 yi2he2yuan2 . *我想骑车去颐和园。*
+Good. But it will take you a bit long time. *hao3 a1 ,bu4guo4 shi2jian1 chang2 dian3 er2 . *好啊，不过时间长点儿。*
+How long does it take from the urban area to the Summer Palace? *cong1 cheng2 li3 qi2 dao4 yi2he2yuan2 de2 yong4 duo1 chang2 shi2jian1 ? *从城里骑到颐和园得用多长时间？*
+About one and half hours. *da4yue1 yi1ge4 ban4 xiao3shi2 . *大约一个半小时。*
+
+Sports Activities:
+It is half past four. Let's go to do some exercises in the playground.  *si4dian3ban4 le ,dao4 yun4dong4chang2 qu4 duan4lian4 ba1 . *四点半了，到运动场去锻炼吧。*
+All right. Play ball or go running?  *hao3 de .da2 qiu2 hai2shi4 pao3bu4 ? *好的。打球还是跑步？*
+Let's play football. *ti1 zu2qiu2 ba1 . *踢足球吧。*
+Let's go skating. *hai2shi4 qu4 liu1 bing1 ba1 . *还是去溜冰吧。*
+All right. Look, there are people doing exercises everywhere. *ye3 hao3 .ni3 kan1 ,dao4chu4 dou1 you3 ren2 zai4 duan4lian4 . *也好。你看，到处都有人在锻炼。*
+Those two classmates are playing badminton very well. *na3 liang3 wei4 tong2xue2 de yu3mao2qiu2 da2 de2 zhen1 hao3 . *那两位同学的羽毛球打得真好。*
+A volleyball match is going on there, and a tennis match is going on here. *na4bian zheng4zai4 jin4xing2 pai2qiu2 bi3sai4 ,zhe4bian1 zai4 jin4xing2 wang3qiu2 bi3sai4 . *那边正在进行排球比赛，这边在进行网球比赛。*
+A basketball is match is going on here, and the score is 18:20. *zhe4bian1 hai2 you3 lan2qiu2 bi3sai4 ,bi3fen1 shi4 18bi3 20. *这边还有篮球比赛，比分是18比20。*
+Let's go and have a look. *wo3men guo4qu kan1 kan1 hao3 ma3 ? *我们过去看看好吗？*
+Okay. *hao3 ba1 . *好吧。*
+
+Talking About Study and Work:
+What's your major?  *ni3 shi4 xue2 shi2 ma zhuan1ye4 de ? *你是学什么专业的？*
+I come to China just to study Chinese.  *wo3 shi4 zhuan1men2 lai2 zhong1guo2 xue2xi2 han4yu3 de . *我是专门来中国学习汉语的。*
+Where are you studying now? *ni3 zai4 na3er xue2xi2 ? *你在哪儿学习？*
+At the Beijing Language and Culture University. *wo3 zai4 bei3jing1yu3 yan2 wen2hua4 da4xue2 xue2xi2 . *我在北京语言文化大学学习。*
+How many years have you studied? *ni3 xue2xi2 ji3nian2 le ? *你学习几年了？*
+I've already studied for three years. I'll graduate in a year. *yi3jing1 san1nian2 le ,hai2 cha1 yi1 nian2 jiu4 bi4ye4 le . *已经三年了，还差一年就毕业了。*
+Are you going back to your country after graduation? *bi4ye4 yi3hou4 hui2 guo2 ma3 ? *毕业以后回国吗？*
+Yes, I'll return to my country and find a job. *shi4de ,wo3 yao1 hui2qu gong1zuo4 . *是的，我要回去工作。*
+Is it difficult to find a job? *hui2 guo2 zhao3 gong1zuo4 kun4nan ma3 ? *回国找工作困难吗？*
+Not very difficult, because there are not so many people in my country who know Chinese. *bu4 tai4 kun4nan ,yin1wei2 wo3de guo2jia1 dong3 han4yu3 de ren2 bu4 tai4 duo1 . *不太困难，因为我的国家懂汉语的人不太多。*
+Whish you good luck. *zhu4 ni3hao3 yun4 . *祝你好运。*
+Thanks *xie4xie . *谢谢。*
+
+Drinking Tea:
+Do you like drinking tea?  *ni3 xi3huan he1 cha2 ma3 ? *你喜欢喝茶吗？*
+I like it very much.  *wo3 fei1chang2 xi3huan . *我非常喜欢。*
+Chinese tea may be classified into five categories. *zhong1guo2 de cha2 tong1chang2 fen1 wei2 wu3 zhong3 . *我非常喜欢。*
+which five? *na3 wu3 zhong3 ? *中国的茶通常分为五种。*
+Green tea, black tea, Wulong tea, scented tea, and compressed tea. *lü4cha2 ,hong2cha2 ,wu1 long2 cha2 ,hua1cha2 ,jin3 ya1 cha2 . *绿茶、红茶、乌龙茶、花茶、紧压茶。*
+I like drinking tea at teahouses. *wo3 xi3huan dao4 cha2guan3 li3 he1 cha2 . *我喜欢到茶馆里喝茶。*
+So do I. We can chat while enjoying Chinese tea culture here. *wo3 ye3 shi4 .zai4 zhe4li3 ke3yi3 bian1 liao2 tian1 bian1 xin1shang3 cha2 wen2hua4 . *我也是。在这里可以边聊天边欣赏茶文化。*
+Tea originated from China. It is the center of attention in Chinese daily life *cha2 qi3yuan2 yu2 zhong1guo2 .ren2men ri4chang2 sheng1huo2 zhong1 li2 bu4 kai1 cha2 . *茶起源于中国。人们日常生活中离不开茶。*
+
+Visiting a Patient:
+Are you getting better now, Lili?  *li2 li2 ,ni3 de bing4 hao3 dian3 er2 le ma3 ? *丽丽，你的病好点儿了吗？*
+Much better. Thanks for your concern.  *hao3duo1 le ,xie4xie ni3 de guan1xin1 . *好多了，谢谢你的关心。*
+How do you feel now? *ni3 xian4zai4 gan3jue2 zen3meyang4 ? *你现在感觉怎么样？*
+I even want to leave hospital. *wo3 dou1 xiang3 chu1yuan4 le . *我都想出院了。*
+Don't be so impatient. You should take a good rest and nourishment. *bie2 zhao2ji2 ,hao3hao3 er2 yang3 bing4 ,zhu4yi4 ying2yang3 . *别着急，好好儿养病，注意营养。*
+Sorry for making you have a long walk. *da4 lao3 yuan3 de ,hai2 rang4 ni3 pao3 yi1 tang4 . *大老远的，还让你跑一趟。*
+It's all right. I bought some fruit for you. *ying1gai1 de ,wo3 gei3 ni3 mai3 le dian3 er2 shui3guo3 . *应该的，我给你买了点儿水果。*
+Thank you for spending money on me. *xie4xie ,rang4 nin2 po4 fei4 le . *谢谢，让您破费了。*
+I hope you'll get well soon. *zhu4 ni3 zao3ri4 kang1 fu4 . *祝你早日康复。*
+Thank you. *xie4xie . *谢谢。*
+:
+

@@ -1,0 +1,16 @@
+[DEFAULT]
+BASEURL=http://web.mit.edu/~jinzhang/www/pinyin/
+[DOC#5#6]
+BASEURL=http://web.mit.edu/~jinzhang/www/pinyin/home/PinyinLinks.html
+ORIGURL=home/PinyinLinks.html
+[DOC#5#7#8]
+BASEURL=http://web.mit.edu/~jinzhang/www/pinyin/home/PinyinTitle.html
+ORIGURL=home/PinyinTitle.html
+[DOC#5#7#9]
+BASEURL=http://web.mit.edu/~jinzhang/www/pinyin/home/PinyinMain.html
+ORIGURL=home/PinyinMain.html
+[InternetShortcut]
+URL=http://web.mit.edu/~jinzhang/www/pinyin/
+Modified=F0D8C4954B51C50183
+IconFile=http://web.mit.edu/favicon.ico
+IconIndex=1

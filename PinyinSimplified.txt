@@ -1,0 +1,15215 @@
+a1      B0A1 °¡*
+
+a1      B0A2 °¢*
+
+a1      DFB9 ß¹
+
+a1      EBE7 ëç*
+
+a1      EFB9 ï¹
+
+a2      B0A1 °¡*
+
+a2      E0C4 àÄ*
+
+a3      B0A1 °¡*
+
+a4      B0A1 °¡*
+
+a5      B0A1 °¡*
+
+a5      BAC7 ºÇ*
+
+ai1     B0A3 °£
+
+ai1     B0A4 °¤*
+
+ai1     B0A5 °¥*
+
+ai1     B0A6 °¦*
+
+ai1     B0A7 °§
+
+ai1     E0C8 àÈ*
+
+ai1     EFCD ïÍ
+
+ai2     B0A4 °¤*
+
+ai2     B0A8 °¨
+
+ai2     B0A9 °©
+
+ai2     DEDF Þß
+
+ai3     B0AA °ª
+
+ai3     B0AB °«
+
+ai3     DAC0 ÚÀ*
+
+ai3     E0C8 àÈ*
+
+ai3     F6B0 ö°
+
+ai4     B0A6 °¦*
+
+ai4     B0AC °¬*
+
+ai4     B0AD °­
+
+ai4     B0AE °®
+
+ai4     B0AF °¯
+
+ai4     E0C8 àÈ*
+
+ai4     E0C9 àÉ*
+
+ai4     E6C8 æÈ
+
+ai4     E8A8 è¨
+
+ai4     EAD3 êÓ
+
+ai4     EDC1 íÁ
+
+an1     B0B0 °°
+
+an1     B0B1 °±
+
+an1     B0B2 °²
+
+an1     B3A7 ³§*
+
+an1     B9E3 ¹ã*
+
+an1     DACF ÚÏ
+
+an1     E2D6 âÖ
+
+an1     E8F1 èñ
+
+an1     F0C6 ðÆ
+
+an3     B0B3 °³
+
+an3     DBFB Ûû
+
+an3     DEEE Þî
+
+an3     EFA7 ï§
+
+an4     B0B4 °´
+
+an4     B0B5 °µ
+
+an4     B0B6 °¶
+
+an4     B0B7 °·
+
+an4     B0B8 °¸
+
+an4     E1ED áí*
+
+an4     F7F6 ÷ö
+
+ang1    B0B9 °¹
+
+ang2    B0BA °º
+
+ang4    B0BB °»
+
+ao1     B0BC °¼
+
+ao1     B0BE °¾*
+
+ao2     B0BD °½
+
+ao2     B0BE °¾*
+
+ao2     B0BF °¿
+
+ao2     E0BB à»
+
+ao2     E2DA âÚ
+
+ao2     E5DB åÛ
+
+ao2     E9E1 éá
+
+ao2     F1FA ñú
+
+ao2     F2FC òü
+
+ao2     F7A1 ÷¡
+
+ao2     F7E9 ÷é
+
+ao3     B0C0 °À
+
+ao3     DED6 ÞÖ*
+
+ao3     E6C1 æÁ
+
+ao4     B0C1 °Á
+
+ao4     B0C2 °Â
+
+ao4     B0C3 °Ã
+
+ao4     B0C4 °Ä
+
+ao4     DBEA Ûê
+
+ao4     DED6 ÞÖ*
+
+ao4     E1AE á®
+
+ao4     E6F1 æñ
+
+ao4     F6CB öË
+
+ba1     B0C5 °Å
+
+ba1     B0C6 °Æ
+
+ba1     B0C7 °Ç*
+
+ba1     B0C8 °È
+
+ba1     B0C9 °É*
+
+ba1     B0CA °Ê
+
+ba1     B0CB °Ë
+
+ba1     B0CC °Ì
+
+ba1     B0CD °Í
+
+ba1     E1B1 á±
+
+ba1     F4CE ôÎ
+
+ba2     B0CE °Î
+
+ba2     B0CF °Ï
+
+ba2     DCD8 ÜØ
+
+ba2     DDC3 ÝÃ
+
+ba2     F7C9 ÷É
+
+ba3     B0D0 °Ð
+
+ba3     B0D1 °Ñ*
+
+ba3     EED9 îÙ*
+
+ba4     B0D1 °Ñ*
+
+ba4     B0D2 °Ò*
+
+ba4     B0D3 °Ó
+
+ba4     B0D4 °Ô
+
+ba4     B0D5 °Õ*
+
+ba4     B0D6 °Ö
+
+ba4     E5B1 å±
+
+ba4     F6D1 öÑ
+
+ba5     B0C9 °É*
+
+ba5     B0D5 °Õ*
+
+bai1    EAFE êþ
+
+bai1    EBA2 ë¢*
+
+bai2    B0D7 °×
+
+bai3    B0D8 °Ø*
+
+bai3    B0D9 °Ù
+
+bai3    B0DA °Ú
+
+bai3    B0DB °Û
+
+bai3    B2AE ²®*
+
+bai3    DEE3 Þã
+
+bai4    B0DC °Ü
+
+bai4    B0DD °Ý
+
+bai4    B0DE °Þ
+
+bai4    DFC2 ßÂ*
+
+ban1    B0DF °ß
+
+ban1    B0E0 °à
+
+ban1    B0E1 °á
+
+ban1    B0E2 °â
+
+ban1    B0E3 °ã
+
+ban1    B0E4 °ä
+
+ban1    F1A3 ñ£
+
+ban1    F1AD ñ­
+
+ban3    B0E5 °å
+
+ban3    B0E6 °æ
+
+ban3    DAE6 Úæ
+
+ban3    DBE0 Ûà
+
+ban3    EED3 îÓ
+
+ban3    F4B2 ô²
+
+ban4    B0E7 °ç
+
+ban4    B0E8 °è
+
+ban4    B0E9 °é
+
+ban4    B0EA °ê
+
+ban4    B0EB °ë
+
+ban4    B0EC °ì
+
+ban4    B0ED °í
+
+bang1   B0EE °î
+
+bang1   B0EF °ï
+
+bang1   B0F0 °ð
+
+bang1   E4BA äº
+
+bang3   B0F1 °ñ
+
+bang3   B0F2 °ò*
+
+bang3   B0F3 °ó
+
+bang4   B0F4 °ô
+
+bang4   B0F5 °õ*
+
+bang4   B0F6 °ö*
+
+bang4   B0F7 °÷
+
+bang4   B0F8 °ø
+
+bang4   B0F9 °ù
+
+bang4   DDF2 Ýò
+
+bao1    B0FA °ú
+
+bao1    B0FB °û
+
+bao1    B0FC °ü
+
+bao1    B0FD °ý
+
+bao1    B0FE °þ*
+
+bao1    C5DA ÅÚ*
+
+bao1    E6DF æß
+
+bao1    ECD2 ìÒ
+
+bao1    F6B5 öµ
+
+bao2    B1A1 ±¡*
+
+bao2    B1A2 ±¢
+
+bao3    B1A3 ±£
+
+bao3    B1A4 ±¤*
+
+bao3    B1A5 ±¥
+
+bao3    B1A6 ±¦
+
+bao3    DDE1 Ýá
+
+bao3    F0B1 ð±
+
+bao3    F1D9 ñÙ
+
+bao4    B1A7 ±§
+
+bao4    B1A8 ±¨
+
+bao4    B1A9 ±©*
+
+bao4    B1AA ±ª
+
+bao4    B1AB ±«
+
+bao4    B1AC ±¬
+
+bao4    C5D9 ÅÙ*
+
+bao4    C6D8 ÆØ*
+
+bao4    C6D9 ÆÙ*
+
+bao4    F5C0 õÀ
+
+bei1    B1AD ±­
+
+bei1    B1AE ±®
+
+bei1    B1AF ±¯
+
+bei1    B1B0 ±°
+
+bei1    B1B3 ±³*
+
+bei1    DAE9 Úé*
+
+bei1    E2D8 âØ*
+
+bei1    F0C7 ðÇ
+
+bei3    B1B1 ±±
+
+bei4    B1B2 ±²
+
+bei4    B1B3 ±³*
+
+bei4    B1B4 ±´
+
+bei4    B1B5 ±µ
+
+bei4    B1B6 ±¶
+
+bei4    B1B7 ±·
+
+bei4    B1B8 ±¸
+
+bei4    B1B9 ±¹
+
+bei4    B1BA ±º
+
+bei4    B1BB ±»
+
+bei4    D8C3 ØÃ
+
+bei4    DAFD Úý
+
+bei4    DDED Ýí
+
+bei4    E3A3 ã£
+
+bei4    EDD5 íÕ
+
+bei4    F1D8 ñØ
+
+bei4    F6CD öÍ
+
+bei4    F7B9 ÷¹
+
+bei5    B1DB ±Û*
+
+bei5    DFC2 ßÂ*
+
+ben1    B1BC ±¼*
+
+ben1    EADA êÚ*
+
+ben1    EFBC ï¼
+
+ben3    B1BD ±½
+
+ben3    B1BE ±¾
+
+ben3    DBCE ÛÎ
+
+ben4    B1BC ±¼*
+
+ben4    B1BF ±¿
+
+ben4    BABB º»*
+
+ben4    DBD0 ÛÐ
+
+beng1   B1C0 ±À
+
+beng1   B1C1 ±Á*
+
+beng1   E0D4 àÔ
+
+beng2   B1C2 ±Â
+
+beng3   B1C1 ±Á*
+
+beng4   B0F6 °ö*
+
+beng4   B1C3 ±Ã
+
+beng4   B1C4 ±Ä
+
+beng4   B1C5 ±Å
+
+beng4   EAB4 ê´
+
+bi1     B1C6 ±Æ
+
+bi2     B1C7 ±Ç
+
+bi2     DDA9 Ý©
+
+bi3     B1C8 ±È
+
+bi3     B1C9 ±É
+
+bi3     B1CA ±Ê
+
+bi3     B1CB ±Ë
+
+bi3     D8B0 Ø°
+
+bi3     D9C2 ÙÂ
+
+bi3     DFC1 ßÁ*
+
+bi3     E5FE åþ
+
+bi3     EFF5 ïõ
+
+bi3     F4B0 ô°
+
+bi4     B1CC ±Ì
+
+bi4     B1CD ±Í
+
+bi4     B1CE ±Î
+
+bi4     B1CF ±Ï
+
+bi4     B1D0 ±Ð
+
+bi4     B1D1 ±Ñ
+
+bi4     B1D2 ±Ò
+
+bi4     B1D3 ±Ó
+
+bi4     B1D4 ±Ô
+
+bi4     B1D5 ±Õ
+
+bi4     B1D6 ±Ö
+
+bi4     B1D7 ±×
+
+bi4     B1D8 ±Ø
+
+bi4     B1D9 ±Ù*
+
+bi4     B1DA ±Ú
+
+bi4     B1DB ±Û*
+
+bi4     B1DC ±Ü
+
+bi4     B1DD ±Ý
+
+bi4     C3D8 ÃØ*
+
+bi4     C3DA ÃÚ*
+
+bi4     DCEA Üê
+
+bi4     DDC9 ÝÉ
+
+bi4     DEB5 Þµ
+
+bi4     DFD9 ßÙ
+
+bi4     E1F9 áù
+
+bi4     E2D8 âØ*
+
+bi4     E3B9 ã¹
+
+bi4     E4E4 ää
+
+bi4     E5A8 å¨
+
+bi4     E5F6 åö
+
+bi4     E6BE æ¾
+
+bi4     E6D4 æÔ
+
+bi4     E8B5 èµ
+
+bi4     EADA êÚ*
+
+bi4     EEA2 î¢*
+
+bi4     EEAF î¯
+
+bi4     EEE9 îé
+
+bi4     F1D4 ñÔ*
+
+bi4     F3D9 óÙ
+
+bi4     F3EB óë
+
+bi4     F3F7 ó÷
+
+bi4     F4C5 ôÅ
+
+bi4     F5CF õÏ
+
+bi4     F7C2 ÷Â
+
+bian1   B1DE ±Þ
+
+bian1   B1DF ±ß
+
+bian1   B1E0 ±à
+
+bian1   ECD4 ìÔ
+
+bian1   EDBE í¾
+
+bian1   F2F9 òù
+
+bian1   F3D6 óÖ
+
+bian1   F6FD öý
+
+bian3   B1E1 ±á
+
+bian3   B1E2 ±â*
+
+bian3   D8D2 ØÒ
+
+bian3   EDDC íÜ
+
+bian3   F1B9 ñ¹
+
+bian3   F1DB ñÛ
+
+bian4   B1E3 ±ã*
+
+bian4   B1E4 ±ä
+
+bian4   B1E5 ±å
+
+bian4   B1E6 ±æ
+
+bian4   B1E7 ±ç
+
+bian4   B1E8 ±è
+
+bian4   B1E9 ±é
+
+bian4   DBCD ÛÍ
+
+bian4   DCD0 ÜÐ
+
+bian4   E2ED âí
+
+bian4   E3EA ãê
+
+bian4   E7C2 çÂ*
+
+biao1   B1EA ±ê
+
+biao1   B1EB ±ë
+
+biao1   B1EC ±ì
+
+biao1   E6F4 æô*
+
+biao1   E8BC è¼*
+
+biao1   ECA9 ì©
+
+biao1   ECAD ì­
+
+biao1   ECAE ì®
+
+biao1   EFDA ïÚ
+
+biao1   EFF0 ïð
+
+biao1   F1A6 ñ¦
+
+biao1   F7D4 ÷Ô
+
+biao3   B1ED ±í
+
+biao3   E6BB æ»
+
+biao3   F1D1 ñÑ
+
+biao4   F7A7 ÷§
+
+bie1    B1EE ±î
+
+bie1    B1EF ±ï
+
+bie1    B1F1 ±ñ*
+
+bie2    B1F0 ±ð*
+
+bie2    F5BF õ¿
+
+bie3    B1F1 ±ñ*
+
+bie4    B1F0 ±ð*
+
+bin1    B1F2 ±ò
+
+bin1    B1F3 ±ó
+
+bin1    B1F4 ±ô
+
+bin1    B1F5 ±õ
+
+bin1    B1F6 ±ö
+
+bin1    D9CF ÙÏ
+
+bin1    E1D9 áÙ
+
+bin1    E7CD çÍ
+
+bin1    E7E3 çã*
+
+bin1    E9C4 éÄ*
+
+bin1    EFD9 ïÙ
+
+bin4    B1F7 ±÷
+
+bin4    E9EB éë
+
+bin4    EBF7 ë÷
+
+bin4    F7C6 ÷Æ
+
+bin4    F7DE ÷Þ
+
+bing1   B1F8 ±ø
+
+bing1   B1F9 ±ù
+
+bing1   B2A2 ²¢*
+
+bing1   E9C4 éÄ*
+
+bing3   B1FA ±ú*
+
+bing3   B1FB ±û
+
+bing3   B1FC ±ü
+
+bing3   B1FD ±ý
+
+bing3   B1FE ±þ
+
+bing3   C6C1 ÆÁ*
+
+bing3   D9F7 Ù÷
+
+bing3   DAFB Úû
+
+bing4   B1FA ±ú*
+
+bing4   B2A1 ²¡
+
+bing4   B2A2 ²¢*
+
+bing4   DEF0 Þð
+
+bo1     B0FE °þ*
+
+bo1     B2A3 ²£
+
+bo1     B2A4 ²¤
+
+bo1     B2A5 ²¥
+
+bo1     B2A6 ²¦
+
+bo1     B2A7 ²§
+
+bo1     B2A8 ²¨
+
+bo1     E2C4 âÄ
+
+bo2     B0D8 °Ø*
+
+bo2     B1A1 ±¡*
+
+bo2     B2A9 ²©
+
+bo2     B2AA ²ª
+
+bo2     B2AB ²«
+
+bo2     B2AC ²¬
+
+bo2     B2AD ²­
+
+bo2     B2AE ²®*
+
+bo2     B2AF ²¯
+
+bo2     B2B0 ²°
+
+bo2     B2B1 ²±
+
+bo2     B2B2 ²²
+
+bo2     B2B3 ²³
+
+bo2     B2B4 ²´*
+
+bo2     B2B5 ²µ
+
+bo2     C6C7 ÆÇ*
+
+bo2     D9F1 Ùñ
+
+bo2     EDE7 íç
+
+bo2     EEE0 îà
+
+bo2     F0BE ð¾
+
+bo2     F5DB õÛ
+
+bo3     F4A4 ô¤*
+
+bo3     F5CB õË
+
+bo4     B0D8 °Ø*
+
+bo4     B1A1 ±¡*
+
+bo4     E9DE éÞ
+
+bo4     EBA2 ë¢*
+
+bo4     F4A4 ô¤*
+
+bo5     B2B7 ²·*
+
+bo5     E0A3 à£
+
+bu1     E5CD åÍ
+
+bu1     EACE êÎ
+
+bu1     EEDF îß
+
+bu2     B2BB ²»*
+
+bu2     F5B3 õ³
+
+bu3     B1A4 ±¤*
+
+bu3     B2B6 ²¶
+
+bu3     B2B7 ²·*
+
+bu3     B2B8 ²¸
+
+bu3     B2B9 ²¹
+
+bu3     DFB2 ß²
+
+bu4     B2BA ²º
+
+bu4     B2BB ²»*
+
+bu4     B2BC ²¼
+
+bu4     B2BD ²½
+
+bu4     B2BE ²¾
+
+bu4     B2BF ²¿
+
+bu4     B2C0 ²À
+
+bu4     C6D2 ÆÒ*
+
+bu4     EAB3 ê³
+
+bu4     EED0 îÐ
+
+ca1     B2C1 ²Á
+
+ca1     B2F0 ²ð*
+
+ca1     E0EA àê*
+
+ca3     EDE5 íå
+
+cai1    B2C2 ²Â
+
+cai2    B2C3 ²Ã
+
+cai2    B2C4 ²Ä
+
+cai2    B2C5 ²Å
+
+cai2    B2C6 ²Æ
+
+cai3    B2C7 ²Ç
+
+cai3    B2C8 ²È
+
+cai3    B2C9 ²É*
+
+cai3    B2CA ²Ê
+
+cai4    B2C9 ²É*
+
+cai4    B2CB ²Ë
+
+cai4    B2CC ²Ì
+
+can1    B2CD ²Í
+
+can1    B2CE ²Î*
+
+can1    E6EE æî
+
+can2    B2CF ²Ï
+
+can2    B2D0 ²Ð
+
+can2    B2D1 ²Ñ
+
+can3    B2D2 ²Ò
+
+can3    F7F5 ÷õ
+
+can4    B2D3 ²Ó
+
+can4    B2F4 ²ô*
+
+can4    E5EE åî*
+
+can4    E8B2 è²
+
+can4    F4D3 ôÓ
+
+cang1   B2D4 ²Ô
+
+cang1   B2D5 ²Õ
+
+cang1   B2D6 ²Ö
+
+cang1   B2D7 ²×
+
+cang1   D8F7 Ø÷
+
+cang2   B2D8 ²Ø*
+
+cao1    B2D9 ²Ù
+
+cao1    B2DA ²Ú
+
+cao2    B2DB ²Û
+
+cao2    B2DC ²Ü
+
+cao2    E0D0 àÐ
+
+cao2    E4EE äî
+
+cao2    F3A9 ó©
+
+cao2    F4BD ô½
+
+cao3    B2DD ²Ý
+
+ce4     B2DE ²Þ
+
+ce4     B2DF ²ß
+
+ce4     B2E0 ²à*
+
+ce4     B2E1 ²á
+
+ce4     B2E2 ²â
+
+ce4     E2FC âü
+
+cen1    B2CE ²Î*
+
+cen2    E1AF á¯
+
+cen2    E4B9 ä¹
+
+ceng1   E0E1 àá
+
+ceng2   B2E3 ²ã
+
+ceng2   D4F8 Ôø*
+
+ceng4   B2E4 ²ä
+
+cha1    B2E5 ²å
+
+cha1    B2E6 ²æ*
+
+cha1    B2EA ²ê*
+
+cha1    B2EE ²î*
+
+cha1    D4FB Ôû*
+
+cha1    E0EA àê*
+
+cha1    E2C7 âÇ
+
+cha1    E8BE è¾*
+
+cha1    EFCA ïÊ
+
+cha2    B2E6 ²æ*
+
+cha2    B2E7 ²ç*
+
+cha2    B2E8 ²è
+
+cha2    B2E9 ²é*
+
+cha2    B2EA ²ê*
+
+cha2    B2EB ²ë
+
+cha2    B2EC ²ì
+
+cha2    E2AA âª
+
+cha2    E9AB é«
+
+cha2    E9B6 é¶
+
+cha2    E9DF éß
+
+cha3    B2E6 ²æ*
+
+cha3    EFEF ïï
+
+cha3    F1C3 ñÃ*
+
+cha4    B2ED ²í
+
+cha4    B2EE ²î*
+
+cha4    B2EF ²ï
+
+cha4    C9B2 É²*
+
+cha4    E3E2 ãâ
+
+cha4    E6B1 æ±
+
+cha4    E8BE è¾*
+
+cha4    F1C3 ñÃ*
+
+chai1   B2EE ²î*
+
+chai1   B2F0 ²ð*
+
+chai1   EECE îÎ
+
+chai2   B2F1 ²ñ
+
+chai2   B2F2 ²ò
+
+chai2   D9AD Ù­
+
+chai4   F0FB ðû*
+
+chai4   F2B2 ò²
+
+chan1   B2F3 ²ó
+
+chan1   B2F4 ²ô*
+
+chan1   EAE8 êè
+
+chan2   B2F5 ²õ
+
+chan2   B2F6 ²ö
+
+chan2   B2F7 ²÷
+
+chan2   B2F8 ²ø
+
+chan2   B5A5 µ¥*
+
+chan2   E2DC âÜ
+
+chan2   E4FD äý
+
+chan2   E5A4 å¤
+
+chan2   E5EE åî*
+
+chan2   E6BF æ¿
+
+chan2   ECF8 ìø*
+
+chan2   EFE2 ïâ*
+
+chan2   F3B8 ó¸
+
+chan2   F5F0 õð
+
+chan3   B2F9 ²ù
+
+chan3   B2FA ²ú
+
+chan3   B2FB ²û
+
+chan3   D9E6 Ùæ
+
+chan3   DAC6 ÚÆ
+
+chan3   DDDB ÝÛ
+
+chan3   E6F6 æö
+
+chan4   B2FC ²ü*
+
+chan4   E2E3 âã
+
+chan4   E5F1 åñ
+
+chang1  B2FD ²ý
+
+chang1  B2FE ²þ
+
+chang1  D8F6 Øö*
+
+chang1  DDC5 ÝÅ
+
+chang1  E3D1 ãÑ
+
+chang1  E6BD æ½
+
+chang1  F6F0 öð
+
+chang2  B3A1 ³¡*
+
+chang2  B3A2 ³¢
+
+chang2  B3A3 ³£
+
+chang2  B3A4 ³¤*
+
+chang2  B3A5 ³¥
+
+chang2  B3A6 ³¦
+
+chang2  C9D1 ÉÑ*
+
+chang2  CCC8 ÌÈ
+
+chang2  DCC9 ÜÉ
+
+chang2  E1E4 áä
+
+chang2  E6CF æÏ
+
+chang3  B3A1 ³¡*
+
+chang3  B3A7 ³§*
+
+chang3  B3A8 ³¨*
+
+chang3  E3AE ã®
+
+chang3  EAC6 êÆ
+
+chang3  EBA9 ë©
+
+chang4  B3A9 ³©
+
+chang4  B3AA ³ª
+
+chang4  B3AB ³«
+
+chang4  DBCB ÛË
+
+chang4  E2EA âê
+
+chao1   B3AC ³¬
+
+chao1   B3AD ³­
+
+chao1   B3AE ³®
+
+chao1   B3B3 ³³*
+
+chao1   B4C2 ´Â*
+
+chao1   BDCB ½Ë*
+
+chao1   E2F7 â÷
+
+chao1   ECCC ìÌ*
+
+chao2   B3AF ³¯*
+
+chao2   B3B0 ³°*
+
+chao2   B3B1 ³±
+
+chao2   B3B2 ³²
+
+chao2   EACB êË
+
+chao3   B3B3 ³³*
+
+chao3   B3B4 ³´
+
+chao4   F1E9 ñé
+
+che1    B3B5 ³µ*
+
+che1    EDBA íº
+
+che3    B3B6 ³¶
+
+che3    B3DF ³ß*
+
+che4    B3B7 ³·
+
+che4    B3B8 ³¸
+
+che4    B3B9 ³¹
+
+che4    B3BA ³º
+
+che4    DBE5 Ûå
+
+chen1   B3BB ³»
+
+chen1   DED3 ÞÓ
+
+chen1   E0C1 àÁ
+
+chen1   E8A1 è¡
+
+chen2   B3BC ³¼
+
+chen2   B3BD ³½
+
+chen2   B3BE ³¾
+
+chen2   B3BF ³¿
+
+chen2   B3C0 ³À
+
+chen2   B3C1 ³Á
+
+chen2   B3C2 ³Â
+
+chen2   C9F2 Éò*
+
+chen2   DAC8 ÚÈ
+
+chen2   E5B7 å·
+
+chen3   EDD7 í×
+
+chen4   B3C3 ³Ã
+
+chen4   B3C4 ³Ä
+
+chen4   B3C6 ³Æ*
+
+chen4   DADF Úß
+
+chen4   E9B4 é´
+
+chen4   F6B3 ö³
+
+cheng1  B3C5 ³Å
+
+cheng1  B3C6 ³Æ*
+
+cheng1  E8DF èß
+
+cheng1  EEAA îª
+
+cheng1  EEF5 îõ*
+
+cheng1  F2C9 òÉ
+
+cheng2  B3C7 ³Ç
+
+cheng2  B3C8 ³È
+
+cheng2  B3C9 ³É
+
+cheng2  B3CA ³Ê
+
+cheng2  B3CB ³Ë*
+
+cheng2  B3CC ³Ì
+
+cheng2  B3CD ³Í
+
+cheng2  B3CE ³Î*
+
+cheng2  B3CF ³Ï
+
+cheng2  B3D0 ³Ð
+
+cheng2  CAA2 Ê¢*
+
+cheng2  D8A9 Ø©
+
+cheng2  DBF4 Ûô
+
+cheng2  E8C7 èÇ
+
+cheng2  EBF3 ëó
+
+cheng2  EEF1 îñ
+
+cheng2  F1CE ñÎ
+
+cheng2  F5A8 õ¨
+
+cheng3  B3D1 ³Ñ
+
+cheng3  B3D2 ³Ò
+
+cheng4  B3C6 ³Æ*
+
+cheng4  B3D3 ³Ó
+
+chi1    B3D4 ³Ô
+
+chi1    B3D5 ³Õ
+
+chi1    DFEA ßê
+
+chi1    E0CD àÍ
+
+chi1    E6CA æÊ
+
+chi1    EDF7 í÷
+
+chi1    F0B7 ð·
+
+chi1    F2BF ò¿
+
+chi1    F3A4 ó¤
+
+chi1    F3D7 ó×
+
+chi1    F7CE ÷Î
+
+chi2    B3D6 ³Ö
+
+chi2    B3D7 ³×*
+
+chi2    B3D8 ³Ø
+
+chi2    B3D9 ³Ù
+
+chi2    B3DA ³Ú
+
+chi2    B3DB ³Û
+
+chi2    DBE6 Ûæ*
+
+chi2    DCAF Ü¯
+
+chi2    DCDD ÜÝ
+
+chi2    F3F8 óø
+
+chi2    F5D8 õØ
+
+chi3    B3DC ³Ü
+
+chi3    B3DD ³Ý
+
+chi3    B3DE ³Þ
+
+chi3    B3DF ³ß*
+
+chi3    F1DD ñÝ
+
+chi3    F4F9 ôù
+
+chi4    B3E0 ³à
+
+chi4    B3E1 ³á
+
+chi4    B3E2 ³â
+
+chi4    B3E3 ³ã
+
+chi4    D9D1 ÙÑ
+
+chi4    DFB3 ß³
+
+chi4    E0B4 à´
+
+chi4    E1DC áÜ
+
+chi4    E2C1 âÁ
+
+chi4    EBB7 ë·
+
+chi4    F1A1 ñ¡
+
+chong1  B3E4 ³ä
+
+chong1  B3E5 ³å*
+
+chong1  D3BF Ó¿*
+
+chong1  DCFB Üû
+
+chong1  E2E7 âç
+
+chong1  E3BF ã¿
+
+chong1  F4A9 ô©
+
+chong1  F4BE ô¾
+
+chong2  B3E6 ³æ
+
+chong2  B3E7 ³ç
+
+chong2  D6D6 ÖÖ*
+
+chong2  D6D8 ÖØ*
+
+chong3  B3E8 ³è
+
+chong4  B3E5 ³å*
+
+chong4  EFA5 ï¥
+
+chou1   B3E9 ³é
+
+chou1   F1AC ñ¬
+
+chou2   B3EA ³ê
+
+chou2   B3EB ³ë
+
+chou2   B3EC ³ì
+
+chou2   B3ED ³í
+
+chou2   B3EE ³î
+
+chou2   B3EF ³ï
+
+chou2   B3F0 ³ð*
+
+chou2   B3F1 ³ñ
+
+chou2   D9B1 Ù±
+
+chou2   E0FC àü*
+
+chou2   E3B0 ã°
+
+chou2   F6C5 öÅ
+
+chou3   B3F2 ³ò
+
+chou3   B3F3 ³ó
+
+chu1    B3F5 ³õ
+
+chu1    B3F6 ³ö
+
+chu1    E9CB éË
+
+chu2    B3F7 ³÷
+
+chu2    B3F8 ³ø
+
+chu2    B3F9 ³ù
+
+chu2    B3FA ³ú
+
+chu2    B3FB ³û
+
+chu2    B3FC ³ü
+
+chu2    B3FD ³ý
+
+chu2    DBBB Û»
+
+chu2    F2DC òÜ
+
+chu2    F5E9 õé
+
+chu3    B3FE ³þ
+
+chu3    B4A1 ´¡
+
+chu3    B4A2 ´¢
+
+chu3    B4A6 ´¦*
+
+chu3    E8C6 èÆ
+
+chu3    E8FA èú
+
+chu3    F1D2 ñÒ
+
+chu4    B4A3 ´£
+
+chu4    B4A4 ´¤
+
+chu4    B4A5 ´¥
+
+chu4    B4A6 ´¦*
+
+chu4    D0F3 Ðó*
+
+chu4    D8A1 Ø¡
+
+chu4    E2F0 âð
+
+chu4    E3C0 ãÀ
+
+chu4    E7A9 ç©
+
+chu4    F7ED ÷í
+
+chuai1  B4A7 ´§*
+
+chuai1  DEF5 Þõ
+
+chuai3  B4A7 ´§*
+
+chuai4  B4A7 ´§*
+
+chuai4  E0A8 à¨*
+
+chuai4  E0DC àÜ*
+
+chuai4  EBFA ëú
+
+chuai4  F5DF õß
+
+chuan1  B4A8 ´¨
+
+chuan1  B4A9 ´©
+
+chuan1  E7DD çÝ
+
+chuan1  EBB0 ë°
+
+chuan2  B4AA ´ª
+
+chuan2  B4AB ´«*
+
+chuan2  B4AC ´¬
+
+chuan2  E5D7 å×
+
+chuan2  F4AD ô­
+
+chuan3  B4AD ´­
+
+chuan3  E2B6 â¶
+
+chuan4  B4AE ´®
+
+chuan4  EECB îË
+
+chuang1 B4AF ´¯
+
+chuang1 B4B0 ´°
+
+chuang1 B4B4 ´´*
+
+chuang2 B4B1 ´±*
+
+chuang2 B4B2 ´²
+
+chuang3 B4B3 ´³
+
+chuang4 B4B4 ´´*
+
+chuang4 E2EB âë
+
+chui1   B4B5 ´µ
+
+chui1   B4B6 ´¶
+
+chui2   B4B7 ´·
+
+chui2   B4B8 ´¸
+
+chui2   B4B9 ´¹
+
+chui2   D7B5 ×µ*
+
+chui2   DAEF Úï
+
+chui2   E9A2 é¢
+
+chui2   E9B3 é³
+
+chun1   B4BA ´º
+
+chun1   B4BB ´»
+
+chun1   F2ED òí
+
+chun2   B4BC ´¼
+
+chun2   B4BD ´½
+
+chun2   B4BE ´¾
+
+chun2   B4BF ´¿
+
+chun2   DDBB Ý»
+
+chun2   F0C8 ðÈ
+
+chun3   B4C0 ´À
+
+chuo1   B4C1 ´Á
+
+chuo1   F5D6 õÖ
+
+chuo4   B4C2 ´Â*
+
+chuo4   E0A8 à¨*
+
+chuo4   EAA1 ê¡
+
+chuo4   F6BA öº
+
+ci1     B2EE ²î*
+
+ci1     B4C3 ´Ã
+
+ci1     B4CC ´Ì*
+
+ci1     DFDA ßÚ
+
+ci2     B4C4 ´Ä
+
+ci2     B4C5 ´Å
+
+ci2     B4C6 ´Æ
+
+ci2     B4C7 ´Ç
+
+ci2     B4C8 ´È
+
+ci2     B4C9 ´É
+
+ci2     B4CA ´Ê
+
+ci2     D7C8 ×È*
+
+ci2     DCEB Üë*
+
+ci2     ECF4 ìô
+
+ci2     F0CB ðË
+
+ci2     F4D9 ôÙ
+
+ci3     B4CB ´Ë
+
+ci4     B4CC ´Ì*
+
+ci4     B4CD ´Í
+
+ci4     B4CE ´Î
+
+ci4     CBC5 ËÅ*
+
+cong1   B4CF ´Ï
+
+cong1   B4D0 ´Ð
+
+cong1   B4D1 ´Ñ
+
+cong1   B4D2 ´Ò
+
+cong1   DCCA ÜÊ
+
+cong1   E6F5 æõ
+
+cong1   E8AE è®
+
+cong1   E8C8 èÈ*
+
+cong2   B4D3 ´Ó
+
+cong2   B4D4 ´Ô
+
+cong2   E4C8 äÈ
+
+cong2   E7FD çý
+
+cou4    B4D5 ´Õ
+
+cou4    E9A8 é¨
+
+cou4    EAA3 ê£
+
+cou4    EBED ëí
+
+cu1     B4D6 ´Ö
+
+cu2     E1DE áÞ
+
+cu2     E9E3 éã
+
+cu4     B4D7 ´×
+
+cu4     B4D8 ´Ø
+
+cu4     B4D9 ´Ù
+
+cu4     D7E4 ×ä*
+
+cu4     DDFD Ýý
+
+cu4     E2A7 â§
+
+cu4     F5A1 õ¡*
+
+cu4     F5BE õ¾
+
+cu4     F5ED õí
+
+cuan1   B4DA ´Ú
+
+cuan1   D9E0 Ùà
+
+cuan1   DFA5 ß¥
+
+cuan1   EFE9 ïé
+
+cuan2   D4DC ÔÜ*
+
+cuan4   B4DB ´Û
+
+cuan4   B4DC ´Ü
+
+cuan4   ECE0 ìà
+
+cui1    B4DD ´Ý
+
+cui1    B4DE ´Þ
+
+cui1    B4DF ´ß
+
+cui1    CBA5 Ë¥
+
+cui1    E9C1 éÁ
+
+cui3    E8AD è­
+
+cui4    B4E0 ´à
+
+cui4    B4E1 ´á
+
+cui4    B4E2 ´â
+
+cui4    B4E3 ´ã
+
+cui4    B4E4 ´ä
+
+cui4    DDCD ÝÍ
+
+cui4    DFFD ßý
+
+cui4    E3B2 ã²
+
+cui4    EBA5 ë¥
+
+cun1    B4E5 ´å
+
+cun1    F1E5 ñå
+
+cun2    B4E6 ´æ
+
+cun2    B6D7 ¶×*
+
+cun3    E2E2 ââ
+
+cun4    B4E7 ´ç
+
+cuo1    B4E8 ´è
+
+cuo1    B4E9 ´é*
+
+cuo1    B4EA ´ê
+
+cuo1    F5E3 õã
+
+cuo2    E1CF áÏ
+
+cuo2    EFF3 ïó
+
+cuo2    F0EE ðî
+
+cuo2    F0FB ðû*
+
+cuo2    F5BA õº
+
+cuo3    EBE2 ëâ
+
+cuo4    B4EB ´ë
+
+cuo4    B4EC ´ì
+
+cuo4    B4ED ´í
+
+cuo4    D8C8 ØÈ
+
+cuo4    EFB1 ï±
+
+da1     B4EE ´î
+
+da1     B4F0 ´ð*
+
+da1     DEC7 ÞÇ
+
+da1     DFD5 ßÕ
+
+da1     E0AA àª*
+
+da1     F1D7 ñ×
+
+da2     B4EF ´ï
+
+da2     B4F0 ´ð*
+
+da2     B4F1 ´ñ*
+
+da2     B4F2 ´ò*
+
+da2     E2F2 âò
+
+da2     E6A7 æ§
+
+da2     EDB3 í³*
+
+da2     F3CE óÎ
+
+da2     F7B0 ÷°
+
+da2     F7B2 ÷²
+
+da3     B4F2 ´ò*
+
+da4     B4F3 ´ó*
+
+da5     B4F1 ´ñ*
+
+da5     F0E3 ðã*
+
+dai1    B4F4 ´ô
+
+dai1    B4FD ´ý*
+
+dai1    DFBE ß¾
+
+dai3    B4F5 ´õ
+
+dai3    B4F6 ´ö
+
+dai3    B4FE ´þ*
+
+dai4    B4F3 ´ó*
+
+dai4    B4F7 ´÷
+
+dai4    B4F8 ´ø
+
+dai4    B4F9 ´ù
+
+dai4    B4FA ´ú
+
+dai4    B4FB ´û
+
+dai4    B4FC ´ü
+
+dai4    B4FD ´ý*
+
+dai4    B4FE ´þ*
+
+dai4    B5A1 µ¡
+
+dai4    DCA4 Ü¤
+
+dai4    DFB0 ß°
+
+dai4    E1B7 á·
+
+dai4    E5CA åÊ
+
+dai4    E6E6 ææ*
+
+dai4    E7AA çª
+
+dai4    E7E9 çé
+
+dai4    F7EC ÷ì
+
+dan1    B5A2 µ¢
+
+dan1    B5A3 µ£*
+
+dan1    B5A4 µ¤
+
+dan1    B5A5 µ¥*
+
+dan1    B5A6 µ¦
+
+dan1    D9D9 ÙÙ
+
+dan1    E9E9 éé
+
+dan1    EDF1 íñ
+
+dan1    F0F7 ð÷*
+
+dan1    F1F5 ñõ
+
+dan1    F3EC óì
+
+dan3    B5A3 µ£*
+
+dan3    B5A7 µ§*
+
+dan3    B5A8 µ¨
+
+dan3    EAE6 êæ
+
+dan3    F0E3 ðã*
+
+dan4    B5A3 µ£*
+
+dan4    B5A9 µ©
+
+dan4    B5AA µª
+
+dan4    B5AB µ«
+
+dan4    B5AC µ¬
+
+dan4    B5AD µ­
+
+dan4    B5AE µ®
+
+dan4    B5AF µ¯*
+
+dan4    B5B0 µ°
+
+dan4    CAAF Ê¯*
+
+dan4    DDCC ÝÌ
+
+dan4    E0A2 à¢
+
+dan4    E5A3 å£*
+
+dan4    F0F7 ð÷*
+
+dang1   B5B1 µ±*
+
+dang1   EEF5 îõ*
+
+dang1   F1C9 ñÉ
+
+dang3   B5B2 µ²*
+
+dang3   B5B3 µ³
+
+dang3   DAD4 ÚÔ
+
+dang4   B5B1 µ±*
+
+dang4   B5B2 µ²*
+
+dang4   B5B4 µ´
+
+dang4   B5B5 µµ
+
+dang4   DBCA ÛÊ
+
+dang4   DDD0 ÝÐ
+
+dang4   E5B4 å´
+
+dang4   EDB8 í¸
+
+dao1    B5B6 µ¶
+
+dao1    DFB6 ß¶*
+
+dao1    E2E1 âá
+
+dao1    EBAE ë®
+
+dao3    B5B7 µ·
+
+dao3    B5B8 µ¸
+
+dao3    B5B9 µ¹*
+
+dao3    B5BA µº
+
+dao3    B5BB µ»
+
+dao3    B5BC µ¼
+
+dao4    B5B9 µ¹*
+
+dao4    B5BD µ½
+
+dao4    B5BE µ¾
+
+dao4    B5BF µ¿
+
+dao4    B5C0 µÀ
+
+dao4    B5C1 µÁ
+
+dao4    E0FC àü*
+
+dao4    ECE2 ìâ*
+
+dao4    F4EE ôî
+
+de2     B5C2 µÂ
+
+de2     B5C3 µÃ*
+
+de2     EFBD ï½
+
+de5     B5C3 µÃ*
+
+de5     B5C4 µÄ*
+
+de5     B5D7 µ×*
+
+de5     B5D8 µØ*
+
+dei3    B5C3 µÃ*
+
+deng1   B5C5 µÅ*
+
+deng1   B5C6 µÆ
+
+deng1   B5C7 µÇ
+
+deng1   E0E2 àâ
+
+deng1   F4A3 ô£
+
+deng3   B5C8 µÈ
+
+deng3   EAAD ê­
+
+deng4   B3CE ³Î*
+
+deng4   B5C5 µÅ*
+
+deng4   B5C9 µÉ
+
+deng4   B5CA µÊ
+
+deng4   B5CB µË
+
+deng4   E1D8 áØ
+
+deng4   EDE3 íã
+
+deng4   EFEB ïë
+
+di1     B5CC µÌ
+
+di1     B5CD µÍ
+
+di1     B5CE µÎ
+
+di1     CCE1 Ìá*
+
+di1     D8B5 Øµ*
+
+di1     E0D6 àÖ*
+
+di1     EFE1 ïá*
+
+di1     F4C6 ôÆ
+
+di2     B5C4 µÄ*
+
+di2     B5CF µÏ
+
+di2     B5D0 µÐ
+
+di2     B5D1 µÑ
+
+di2     B5D2 µÒ
+
+di2     B5D3 µÓ
+
+di2     B5D4 µÔ*
+
+di2     B5D5 µÕ
+
+di2     D9E1 Ùá
+
+di2     DDB6 Ý¶
+
+di2     E0D6 àÖ*
+
+di2     EAEB êë
+
+di2     EFE1 ïá*
+
+di3     B5D6 µÖ
+
+di3     B5D7 µ×*
+
+di3     D8B5 Øµ*
+
+di3     DAAE Ú®
+
+di3     DBA1 Û¡
+
+di3     DBE6 Ûæ*
+
+di3     E8DC èÜ
+
+di3     EDC6 íÆ
+
+di3     F7BE ÷¾
+
+di4     B5C4 µÄ*
+
+di4     B5D8 µØ*
+
+di4     B5D9 µÙ
+
+di4     B5DA µÚ
+
+di4     B5DB µÛ
+
+di4     B5DC µÜ
+
+di4     B5DD µÝ
+
+di4     B5DE µÞ
+
+di4     DAD0 ÚÐ
+
+di4     E6B7 æ·
+
+di4     E9A6 é¦
+
+di4     EDDA íÚ
+
+di4     EDFB íû
+
+dia3    E0C7 àÇ
+
+dian1   B5DF µß
+
+dian1   B5E0 µà
+
+dian1   B5E1 µá
+
+dian1   E1DB áÛ
+
+dian1   F1B2 ñ²
+
+dian3   B5E2 µâ
+
+dian3   B5E3 µã
+
+dian3   B5E4 µä
+
+dian3   F5DA õÚ
+
+dian4   B5E5 µå
+
+dian4   B5E6 µæ
+
+dian4   B5E7 µç
+
+dian4   B5E8 µè*
+
+dian4   B5E9 µé
+
+dian4   B5EA µê
+
+dian4   B5EB µë
+
+dian4   B5EC µì
+
+dian4   B5ED µí
+
+dian4   B5EE µî
+
+dian4   DAE7 Úç*
+
+dian4   DBE3 Ûã
+
+dian4   E7E8 çè
+
+dian4   EEE4 îä*
+
+dian4   F1B0 ñ°
+
+dian4   F4A1 ô¡
+
+diao1   B5EF µï
+
+diao1   B5F0 µð
+
+diao1   B5F1 µñ
+
+diao1   B5F2 µò
+
+diao1   B5F3 µó
+
+diao1   F5F5 õõ
+
+diao1   F6F4 öô
+
+diao3   C4F1 Äñ*
+
+diao4   B5F4 µô
+
+diao4   B5F5 µõ
+
+diao4   B5F6 µö
+
+diao4   B5F7 µ÷*
+
+diao4   EEF6 îö
+
+diao4   EFA2 ï¢*
+
+die1    B5F8 µø
+
+die1    B5F9 µù
+
+die2    B5FA µú
+
+die2    B5FB µû
+
+die2    B5FC µü
+
+die2    B5FD µý
+
+die2    B5FE µþ
+
+die2    DBEC Ûì
+
+die2    DCA6 Ü¦
+
+die2    DEE9 Þé*
+
+die2    E0A9 à©
+
+die2    EBBA ëº
+
+die2    F0AC ð¬
+
+die2    F1F3 ñó
+
+die2    F5DE õÞ
+
+die2    F6F8 öø
+
+ding1   B6A1 ¶¡*
+
+ding1   B6A2 ¶¢
+
+ding1   B6A3 ¶£
+
+ding1   B6A4 ¶¤*
+
+ding1   D8EA Øê
+
+ding1   E7E0 çà
+
+ding1   EEAE î®*
+
+ding1   F0DB ðÛ
+
+ding1   F1F4 ñô
+
+ding1   F4FA ôú*
+
+ding3   B6A5 ¶¥
+
+ding3   B6A6 ¶¦
+
+ding3   F4FA ôú*
+
+ding4   B6A4 ¶¤*
+
+ding4   B6A7 ¶§
+
+ding4   B6A8 ¶¨
+
+ding4   B6A9 ¶©
+
+ding4   E0A4 à¤
+
+ding4   EBEB ëë
+
+ding4   EDD6 íÖ
+
+ding4   EEFA îú*
+
+ding4   EEFA îú*
+
+diu1    B6AA ¶ª
+
+diu1    EEFB îû
+
+dong1   B6AB ¶«
+
+dong1   B6AC ¶¬
+
+dong1   DFCB ßË
+
+dong1   E1B4 á´
+
+dong1   EBB1 ë±
+
+dong1   F0B4 ð´
+
+dong3   B6AD ¶­
+
+dong3   B6AE ¶®
+
+dong4   B6AF ¶¯
+
+dong4   B6B0 ¶°
+
+dong4   B6B1 ¶±*
+
+dong4   B6B2 ¶²
+
+dong4   B6B3 ¶³
+
+dong4   B6B4 ¶´
+
+dong4   DBED Ûí*
+
+dong4   E1BC á¼*
+
+dong4   EBCB ëË
+
+dong4   EBD8 ëØ
+
+dong4   EDCF íÏ
+
+dou1    B6B5 ¶µ
+
+dou1    B6BC ¶¼*
+
+dou1    DDFA Ýú
+
+dou1    F3FB óû
+
+dou3    B6B6 ¶¶
+
+dou3    B6B7 ¶·*
+
+dou3    B6B8 ¶¸
+
+dou3    F2BD ò½
+
+dou4    B6B7 ¶·*
+
+dou4    B6B9 ¶¹
+
+dou4    B6BA ¶º
+
+dou4    B6BB ¶»
+
+dou4    B6C1 ¶Á*
+
+dou4    F1BC ñ¼
+
+du1     B6BC ¶¼*
+
+du1     B6BD ¶½
+
+du1     E0BD à½
+
+du2     B6BE ¶¾
+
+du2     B6BF ¶¿
+
+du2     B6C0 ¶À
+
+du2     B6C1 ¶Á*
+
+du2     B6D9 ¶Ù*
+
+du2     E4C2 äÂ
+
+du2     E8FC èü
+
+du2     EBB9 ë¹
+
+du2     F7C7 ÷Ç
+
+du2     F7F2 ÷ò
+
+du3     B6C2 ¶Â
+
+du3     B6C3 ¶Ã
+
+du3     B6C4 ¶Ä
+
+du3     B6C7 ¶Ç*
+
+du3     F3C6 óÆ
+
+du4     B6C5 ¶Å
+
+du4     B6C6 ¶Æ
+
+du4     B6C7 ¶Ç*
+
+du4     B6C8 ¶È
+
+du4     B6C9 ¶É
+
+du4     B6CA ¶Ê
+
+du4     DCB6 Ü¶
+
+du4     F3BC ó¼
+
+duan1   B6CB ¶Ë
+
+duan3   B6CC ¶Ì
+
+duan4   B6CD ¶Í
+
+duan4   B6CE ¶Î
+
+duan4   B6CF ¶Ï
+
+duan4   B6D0 ¶Ð
+
+duan4   E9B2 é²
+
+duan4   ECD1 ìÑ
+
+duan4   F3FD óý
+
+dui1    B6D1 ¶Ñ
+
+dui4    B6D2 ¶Ò
+
+dui4    B6D3 ¶Ó
+
+dui4    B6D4 ¶Ô
+
+dui4    B6D8 ¶Ø*
+
+dui4    EDA1 í¡
+
+dui4    EDAD í­
+
+dui4    EDD4 íÔ
+
+dui4    EFE6 ïæ
+
+dun1    B6D5 ¶Õ
+
+dun1    B6D6 ¶Ö
+
+dun1    B6D7 ¶×*
+
+dun1    B6D8 ¶Ø*
+
+dun1    EDE2 íâ
+
+dun3    EDEF íï
+
+dun3    F5BB õ»
+
+dun4    B6D9 ¶Ù*
+
+dun4    B6DA ¶Ú*
+
+dun4    B6DB ¶Û
+
+dun4    B6DC ¶Ü
+
+dun4    B6DD ¶Ý
+
+dun4    E3E7 ãç
+
+dun4    ECC0 ìÀ
+
+dun4    EDBB í»
+
+duo1    B6DE ¶Þ
+
+duo1    B6DF ¶ß
+
+duo1    B6E0 ¶à
+
+duo1    DFCD ßÍ
+
+duo1    F1D6 ñÖ
+
+duo2    B6E1 ¶á
+
+duo2    EEEC îì
+
+duo2    F5E2 õâ
+
+duo3    B6E2 ¶â*
+
+duo3    B6E3 ¶ã
+
+duo3    B6E4 ¶ä
+
+duo3    DFE1 ßá
+
+duo3    E7B6 ç¶
+
+duo4    B6E2 ¶â*
+
+duo4    B6E5 ¶å
+
+duo4    B6E6 ¶æ
+
+duo4    B6E7 ¶ç
+
+duo4    B6E8 ¶è
+
+duo4    B6E9 ¶é
+
+duo4    CDD4 ÍÔ*
+
+duo4    E3F5 ãõ
+
+duo4    E8DE èÞ*
+
+e1      B0A2 °¢*
+
+e1      E5ED åí
+
+e1      E6B9 æ¹
+
+e2      B6EA ¶ê
+
+e2      B6EB ¶ë
+
+e2      B6EC ¶ì
+
+e2      B6ED ¶í
+
+e2      B6EE ¶î
+
+e2      B6EF ¶ï
+
+e2      B6F0 ¶ð
+
+e2      C5B6 Å¶*
+
+e2      DDAD Ý­
+
+e2      EFB0 ï°
+
+e3      B6F1 ¶ñ*
+
+e4      B6F1 ¶ñ*
+
+e4      B6F2 ¶ò
+
+e4      B6F3 ¶ó
+
+e4      B6F4 ¶ô
+
+e4      B6F5 ¶õ
+
+e4      B6F6 ¶ö
+
+e4      D8AC Ø¬
+
+e4      DACC ÚÌ
+
+e4      DBD1 ÛÑ
+
+e4      DCC3 ÜÃ
+
+e4      DDE0 Ýà
+
+e4      DFC0 ßÀ
+
+e4      E3B5 ãµ
+
+e4      E3D5 ãÕ*
+
+e4      E9EE éî
+
+e4      EBF1 ëñ
+
+e4      EFC9 ïÉ
+
+e4      F0CA ðÊ
+
+e4      F2A6 ò¦
+
+e4      F6F9 öù
+
+?      DAC0 ÚÀ*
+
+?      DAC0 ÚÀ*
+
+?      DAC0 ÚÀ*
+
+?      DAC0 ÚÀ*
+
+ei2     DAC0 ÚÀ*
+
+ei3     DAC0 ÚÀ*
+
+ei4     DAC0 ÚÀ*
+
+en1     B6F7 ¶÷
+
+en1     DDEC Ýì
+
+en4     DEF4 Þô
+
+er2     B6F8 ¶ø
+
+er2     B6F9 ¶ù
+
+er2     F0B9 ð¹
+
+er2     F6DC öÜ
+
+er3     B6FA ¶ú
+
+er3     B6FB ¶û
+
+er3     B6FC ¶ü
+
+er3     B6FD ¶ý
+
+er3     E5C7 åÇ
+
+er3     E7ED çí
+
+er3     EEEF îï
+
+er4     B6FE ¶þ
+
+er4     B7A1 ·¡
+
+er4     D9A6 Ù¦*
+
+fa1     B7A2 ·¢*
+
+fa2     B7A3 ·£
+
+fa2     B7A4 ·¤
+
+fa2     B7A5 ·¥
+
+fa2     B7A6 ·¦
+
+fa2     B7A7 ·§
+
+fa2     DBD2 ÛÒ
+
+fa3     B7A8 ·¨
+
+fa3     EDC0 íÀ
+
+fa4     B7A2 ·¢*
+
+fa4     B7A9 ·©
+
+fan1    B7AA ·ª
+
+fan1    B7AB ·«
+
+fan1    B7AC ·¬*
+
+fan1    B7AD ·­
+
+fan1    DEAC Þ¬*
+
+fan1    E1A6 á¦
+
+fan2    B7AE ·®
+
+fan2    B7AF ·¯
+
+fan2    B7B0 ·°
+
+fan2    B7B1 ·±*
+
+fan2    B7B2 ·²
+
+fan2    B7B3 ·³
+
+fan2    DEAC Þ¬*
+
+fan2    DEC0 ÞÀ
+
+fan2    ECDC ìÜ
+
+fan2    F5EC õì
+
+fan3    B7B4 ·´
+
+fan3    B7B5 ·µ
+
+fan4    B7B6 ·¶
+
+fan4    B7B7 ··
+
+fan4    B7B8 ·¸
+
+fan4    B7B9 ·¹
+
+fan4    B7BA ·º
+
+fan4    E8F3 èó
+
+fan4    EEB2 î²
+
+fang1   B7BB ·»*
+
+fang1   B7BC ·¼
+
+fang1   B7BD ·½
+
+fang1   DAFA Úú
+
+fang1   E8CA èÊ
+
+fang1   EED5 îÕ
+
+fang2   B7BB ·»*
+
+fang2   B7BE ·¾
+
+fang2   B7BF ·¿
+
+fang2   B7C0 ·À
+
+fang2   B7C1 ·Á
+
+fang2   F6D0 öÐ
+
+fang3   B7C2 ·Â
+
+fang3   B7C3 ·Ã
+
+fang3   B7C4 ·Ä
+
+fang3   E1DD áÝ*
+
+fang3   F4B3 ô³
+
+fang4   B7C5 ·Å
+
+fei1    B7C6 ·Æ*
+
+fei1    B7C7 ·Ç
+
+fei1    B7C8 ·È
+
+fei1    B7C9 ·É
+
+fei1    E5FA åú
+
+fei1    E7B3 ç³
+
+fei1    ECE9 ìé
+
+fei1    F2E3 òã*
+
+fei1    F6AD ö­
+
+fei1    F6EE öî
+
+fei2    B7CA ·Ê
+
+fei2    E4C7 äÇ
+
+fei2    EBE8 ëè
+
+fei3    B7C6 ·Æ*
+
+fei3    B7CB ·Ë
+
+fei3    B7CC ·Ì
+
+fei3    E3AD ã­
+
+fei3    E9BC é¼
+
+fei3    ECB3 ì³
+
+fei3    F2E3 òã*
+
+fei3    F3F5 óõ
+
+fei3    F4E4 ôä
+
+fei4    B7CD ·Í
+
+fei4    B7CE ·Î
+
+fei4    B7CF ·Ï
+
+fei4    B7D0 ·Ð
+
+fei4    B7D1 ·Ñ
+
+fei4    DCC0 ÜÀ*
+
+fei4    E1F4 áô
+
+fei4    E2F6 âö*
+
+fei4    EFD0 ïÐ
+
+fei4    F0F2 ðò
+
+fen1    B7D2 ·Ò
+
+fen1    B7D3 ·Ó
+
+fen1    B7D4 ·Ô
+
+fen1    B7D5 ·Õ
+
+fen1    B7D6 ·Ö*
+
+fen1    B7D7 ·×
+
+fen1    E7E3 çã*
+
+fen2    B7D8 ·Ø
+
+fen2    B7D9 ·Ù
+
+fen2    B7DA ·Ú
+
+fen2    E8FB èû
+
+fen2    F7F7 ÷÷
+
+fen3    B7DB ·Û
+
+fen4    B7D6 ·Ö*
+
+fen4    B7DC ·Ü
+
+fen4    B7DD ·Ý
+
+fen4    B7DE ·Þ
+
+fen4    B7DF ·ß
+
+fen4    B7E0 ·à
+
+fen4    D9C7 ÙÇ
+
+fen4    E5AF å¯
+
+fen4    F6F7 ö÷
+
+feng1   B7E1 ·á
+
+feng1   B7E2 ·â
+
+feng1   B7E3 ·ã
+
+feng1   B7E4 ·ä
+
+feng1   B7E5 ·å
+
+feng1   B7E6 ·æ
+
+feng1   B7E7 ·ç
+
+feng1   B7E8 ·è
+
+feng1   B7E9 ·é
+
+feng1   DBBA Ûº
+
+feng1   DDD7 Ý×*
+
+feng1   E3E3 ãã
+
+feng1   EDBF í¿
+
+feng2   B7EA ·ê
+
+feng2   B7EB ·ë
+
+feng2   B7EC ·ì*
+
+feng3   B7ED ·í
+
+feng3   DFF4 ßô
+
+feng4   B7EC ·ì*
+
+feng4   B7EE ·î
+
+feng4   B7EF ·ï
+
+feng4   D9BA Ùº
+
+feng4   DDD7 Ý×*
+
+fo2     B7F0 ·ð*
+
+fou3    B7F1 ·ñ*
+
+fou3    F3BE ó¾
+
+fu1     B7F2 ·ò*
+
+fu1     B7F3 ·ó
+
+fu1     B7F4 ·ô
+
+fu1     B7F5 ·õ
+
+fu1     DFBB ß»
+
+fu1     EFFB ïû
+
+fu1     F4EF ôï
+
+fu1     F5C3 õÃ
+
+fu1     F5C6 õÆ
+
+fu2     B7F0 ·ð*
+
+fu2     B7F2 ·ò*
+
+fu2     B7F6 ·ö
+
+fu2     B7F7 ·÷
+
+fu2     B7F8 ·ø
+
+fu2     B7F9 ·ù
+
+fu2     B7FA ·ú
+
+fu2     B7FB ·û
+
+fu2     B7FC ·ü
+
+fu2     B7FD ·ý
+
+fu2     B7FE ·þ*
+
+fu2     B8A1 ¸¡
+
+fu2     B8A2 ¸¢
+
+fu2     B8A3 ¸£
+
+fu2     B8A4 ¸¤
+
+fu2     B8A5 ¸¥
+
+fu2     D9EB Ùë
+
+fu2     D9EC Ùì
+
+fu2     DBAE Û®
+
+fu2     DCBD Ü½
+
+fu2     DCC0 ÜÀ*
+
+fu2     DCDE ÜÞ
+
+fu2     DCF2 Üò
+
+fu2     DDB3 Ý³*
+
+fu2     DDCA ÝÊ
+
+fu2     E1A5 á¥
+
+fu2     E2F6 âö*
+
+fu2     E5F5 åõ
+
+fu2     E6DA æÚ
+
+fu2     E7A6 ç¦
+
+fu2     E7A8 ç¨
+
+fu2     E8F5 èõ
+
+fu2     ECF0 ìð
+
+fu2     EDC9 íÉ
+
+fu2     EDEA íê
+
+fu2     EEB7 î·
+
+fu2     F2B6 ò¶
+
+fu2     F2DD òÝ
+
+fu2     F2F0 òð
+
+fu3     B8A6 ¸¦
+
+fu3     B8A7 ¸§
+
+fu3     B8A8 ¸¨
+
+fu3     B8A9 ¸©
+
+fu3     B8AA ¸ª
+
+fu3     B8AB ¸«
+
+fu3     B8AC ¸¬*
+
+fu3     B8AD ¸­
+
+fu3     B8AE ¸®
+
+fu3     B8AF ¸¯
+
+fu3     B8B8 ¸¸*
+
+fu3     DED4 ÞÔ
+
+fu3     E4E6 äæ
+
+fu3     EDEB íë
+
+fu4     B7FE ·þ*
+
+fu4     B8B0 ¸°
+
+fu4     B8B1 ¸±
+
+fu4     B8B2 ¸²
+
+fu4     B8B3 ¸³
+
+fu4     B8B4 ¸´
+
+fu4     B8B5 ¸µ
+
+fu4     B8B6 ¸¶
+
+fu4     B8B7 ¸·
+
+fu4     B8B8 ¸¸*
+
+fu4     B8B9 ¸¹
+
+fu4     B8BA ¸º
+
+fu4     B8BB ¸»
+
+fu4     B8BC ¸¼
+
+fu4     B8BD ¸½
+
+fu4     B8BE ¸¾
+
+fu4     B8BF ¸¿
+
+fu4     B8C0 ¸À
+
+fu4     E6E2 æâ
+
+fu4     EAE7 êç
+
+fu4     F0A5 ð¥
+
+fu4     F2F3 òó
+
+fu4     F6D6 öÖ
+
+fu4     F6FB öû
+
+ga1     B8C2 ¸Â*
+
+ga1     B8EC ¸ì
+
+ga1     BCD0 ¼Ð*
+
+ga1     BFA7 ¿§*
+
+ga1     D9A4 Ù¤
+
+ga1     EAB8 ê¸
+
+ga2     B8C1 ¸Á
+
+ga2     B8C2 ¸Â*
+
+ga2     D4FE Ôþ*
+
+ga2     E6D9 æÙ
+
+ga2     EEC5 îÅ
+
+ga3     B8C2 ¸Â*
+
+ga3     E6D8 æØ
+
+ga4     DECE ÞÎ
+
+gai1    B8C3 ¸Ã
+
+gai1    DAEB Úë
+
+gai1    DBF2 Ûò
+
+gai1    EAE0 êà
+
+gai3    B8C4 ¸Ä
+
+gai4    B8C5 ¸Å
+
+gai4    B8C6 ¸Æ
+
+gai4    B8C7 ¸Ç*
+
+gai4    B8C8 ¸È
+
+gai4    BDE6 ½æ*
+
+gai4    D8A4 Ø¤
+
+gai4    EAAE ê®
+
+gan1    B8C9 ¸É*
+
+gan1    B8CA ¸Ê
+
+gan1    B8CB ¸Ë*
+
+gan1    B8CC ¸Ì
+
+gan1    B8CD ¸Í
+
+gan1    B8CE ¸Î
+
+gan1    C7AC Ç¬*
+
+gan1    DBE1 Ûá
+
+gan1    DCD5 ÜÕ
+
+gan1    DECF ÞÏ
+
+gan1    E3EF ãï
+
+gan1    EDB7 í·
+
+gan1    F0E1 ðá
+
+gan1    F4FB ôû
+
+gan3    B8CB ¸Ë*
+
+gan3    B8CF ¸Ï
+
+gan3    B8D0 ¸Ð
+
+gan3    B8D1 ¸Ñ
+
+gan3    B8D2 ¸Ò
+
+gan3    DFA6 ß¦
+
+gan3    E4F7 ä÷
+
+gan3    E9CF éÏ
+
+gan4    B8C9 ¸É*
+
+gan4    B8D3 ¸Ó
+
+gan4    E4C6 äÆ
+
+gan4    E7A4 ç¤
+
+gan4    EABA êº
+
+gang1   B8D4 ¸Ô
+
+gang1   B8D5 ¸Õ
+
+gang1   B8D6 ¸Ö*
+
+gang1   B8D7 ¸×
+
+gang1   B8D8 ¸Ø
+
+gang1   B8D9 ¸Ù
+
+gang1   B8DA ¸Ú*
+
+gang1   B8DC ¸Ü*
+
+gang1   BFB8 ¿¸*
+
+gang1   EEB8 î¸
+
+gang3   B8DA ¸Ú*
+
+gang3   B8DB ¸Û
+
+gang4   B8D6 ¸Ö*
+
+gang4   B8DC ¸Ü*
+
+gang4   EDB0 í°*
+
+gang4   F3E0 óà
+
+gao1    B8DD ¸Ý
+
+gao1    B8DE ¸Þ
+
+gao1    B8DF ¸ß
+
+gao1    B8E0 ¸à*
+
+gao1    B8E1 ¸á
+
+gao1    B8E2 ¸â
+
+gao1    D8BA Øº
+
+gao1    E9C0 éÀ
+
+gao3    B8E3 ¸ã
+
+gao3    B8E4 ¸ä*
+
+gao3    B8E5 ¸å
+
+gao3    DEBB Þ»
+
+gao3    E7C9 çÉ
+
+gao3    E9C2 éÂ
+
+gao3    EABD ê½
+
+gao4    B8E0 ¸à*
+
+gao4    B8E6 ¸æ
+
+gao4    DABE Ú¾
+
+gao4    DBAC Û¬
+
+gao4    EFAF ï¯
+
+ge1     B8E7 ¸ç
+
+ge1     B8E8 ¸è
+
+ge1     B8E9 ¸é*
+
+ge1     B8EA ¸ê
+
+ge1     B8EB ¸ë
+
+ge1     B8ED ¸í
+
+ge1     B8EE ¸î
+
+ge1     B8F1 ¸ñ*
+
+ge1     BFA9 ¿©*
+
+ge1     D2D9 ÒÙ*
+
+ge1     D8EE Øî
+
+ge1     DBD9 ÛÙ
+
+ge1     E6FC æü*
+
+ge1     F1CB ñË
+
+ge2     B8E9 ¸é*
+
+ge2     B8EF ¸ï*
+
+ge2     B8F0 ¸ð*
+
+ge2     B8F1 ¸ñ*
+
+ge2     B8F2 ¸ò*
+
+ge2     B8F3 ¸ó
+
+ge2     B8F4 ¸ô
+
+ge2     D8AA Øª*
+
+ge2     DCAA Üª
+
+ge2     E0C3 àÃ
+
+ge2     EBA1 ë¡
+
+ge2     EBF5 ëõ
+
+ge2     EFD3 ïÓ
+
+ge2     F2A2 ò¢*
+
+ge2     F7C0 ÷À
+
+ge3     B8C7 ¸Ç*
+
+ge3     B8F0 ¸ð*
+
+ge3     B8F6 ¸ö*
+
+ge3     B8F7 ¸÷*
+
+ge3     BACF ºÏ*
+
+ge3     DBC1 ÛÁ
+
+ge3     F4B4 ô´
+
+ge4     B8F5 ¸õ
+
+ge4     B8F6 ¸ö*
+
+ge4     B8F7 ¸÷*
+
+ge4     EDD1 íÑ*
+
+ge4     F2B4 ò´
+
+gei3    B8F8 ¸ø*
+
+gen1    B8F9 ¸ù
+
+gen1    B8FA ¸ú
+
+gen2    DFE7 ßç
+
+gen3    F4DE ôÞ*
+
+gen4    D8A8 Ø¨
+
+gen4    DDA2 Ý¢
+
+gen4    F4DE ôÞ*
+
+geng1   B8FB ¸û
+
+geng1   B8FC ¸ü*
+
+geng1   B8FD ¸ý
+
+geng1   B8FE ¸þ
+
+geng1   E2D9 âÙ
+
+geng3   B9A1 ¹¡
+
+geng3   B9A2 ¹¢
+
+geng3   B9A3 ¹£
+
+geng3   BEB1 ¾±*
+
+geng3   DFEC ßì
+
+geng3   E7AE ç®
+
+geng3   F6E1 öá
+
+geng4   B8FC ¸ü*
+
+gong1   B9A4 ¹¤
+
+gong1   B9A5 ¹¥
+
+gong1   B9A6 ¹¦
+
+gong1   B9A7 ¹§
+
+gong1   B9A8 ¹¨
+
+gong1   B9A9 ¹©*
+
+gong1   B9AA ¹ª
+
+gong1   B9AB ¹«
+
+gong1   B9AC ¹¬
+
+gong1   B9AD ¹­
+
+gong1   BAEC ºì*
+
+gong1   EBC5 ëÅ
+
+gong1   F2BC ò¼
+
+gong1   F6A1 ö¡
+
+gong3   B9AE ¹®
+
+gong3   B9AF ¹¯
+
+gong3   B9B0 ¹°
+
+gong3   E7EE çî
+
+gong4   B9A9 ¹©*
+
+gong4   B9B1 ¹±
+
+gong4   B9B2 ¹²
+
+gou1    B9B3 ¹³
+
+gou1    B9B4 ¹´*
+
+gou1    B9B5 ¹µ
+
+gou1    BEE4 ¾ä*
+
+gou1    D8FE Øþ
+
+gou1    E7C3 çÃ
+
+gou1    E8DB èÛ*
+
+gou1    F3F4 óô
+
+gou1    F7B8 ÷¸
+
+gou3    B9B6 ¹¶
+
+gou3    B9B7 ¹·
+
+gou3    E1B8 á¸
+
+gou3    E8DB èÛ*
+
+gou3    F3D1 óÑ
+
+gou4    B9B4 ¹´*
+
+gou4    B9B8 ¹¸
+
+gou4    B9B9 ¹¹
+
+gou4    B9BA ¹º
+
+gou4    B9BB ¹»
+
+gou4    DAB8 Ú¸
+
+gou4    E5DC åÜ
+
+gou4    E6C5 æÅ
+
+gou4    EAED êí
+
+gou4    ECB0 ì°
+
+gu1     B9BC ¹¼
+
+gu1     B9BD ¹½
+
+gu1     B9BE ¹¾
+
+gu1     B9BF ¹¿
+
+gu1     B9C0 ¹À*
+
+gu1     B9C1 ¹Á
+
+gu1     B9C2 ¹Â
+
+gu1     B9C3 ¹Ã
+
+gu1     B9C7 ¹Ç*
+
+gu1     DDD4 ÝÔ
+
+gu1     DFC9 ßÉ*
+
+gu1     E9EF éï
+
+gu1     ECB1 ì±*
+
+gu1     F0B3 ð³
+
+gu1     F2C1 òÁ
+
+gu1     F4FE ôþ
+
+gu1     F5FD õý
+
+gu3     B9C4 ¹Ä*
+
+gu3     B9C5 ¹Å
+
+gu3     B9C6 ¹Æ
+
+gu3     B9C7 ¹Ç*
+
+gu3     B9C8 ¹È*
+
+gu3     B9C9 ¹É
+
+gu3     BCD6 ¼Ö*
+
+gu3     D8C5 ØÅ*
+
+gu3     DAAC Ú¬
+
+gu3     E3E9 ãé
+
+gu3     EAF4 êô
+
+gu3     EBFB ëû
+
+gu3     ECB1 ì±*
+
+gu3     EEAD î­
+
+gu3     EEB9 î¹
+
+gu3     EEDC îÜ
+
+gu3     F0C0 ðÀ
+
+gu3     F7BD ÷½*
+
+gu4     B9C0 ¹À*
+
+gu4     B9CA ¹Ê
+
+gu4     B9CB ¹Ë
+
+gu4     B9CC ¹Ì
+
+gu4     B9CD ¹Í
+
+gu4     E1C4 áÄ
+
+gu4     E8F4 èô
+
+gu4     EAF6 êö
+
+gu4     EFC0 ïÀ
+
+gu4     F0F3 ðó
+
+gu4     F6F1 öñ
+
+gua1    B9CE ¹Î
+
+gua1    B9CF ¹Ï
+
+gua1    C0A8 À¨*
+
+gua1    DFC9 ßÉ*
+
+gua1    E8E9 èé
+
+gua1    EBD2 ëÒ
+
+gua1    F0BB ð»
+
+gua3    B9D0 ¹Ð
+
+gua3    B9D1 ¹Ñ
+
+gua3    DFC9 ßÉ*
+
+gua4    B9D2 ¹Ò
+
+gua4    B9D3 ¹Ó
+
+gua4    D8D4 ØÔ
+
+gua4    DAB4 Ú´
+
+guai1   B9D4 ¹Ô
+
+guai1   DEE2 Þâ*
+
+guai3   B9D5 ¹Õ
+
+guai4   B9D6 ¹Ö
+
+guan1   B9D7 ¹×
+
+guan1   B9D8 ¹Ø
+
+guan1   B9D9 ¹Ù
+
+guan1   B9DA ¹Ú*
+
+guan1   B9DB ¹Û*
+
+guan1   C2DA ÂÚ*
+
+guan1   D9C4 ÙÄ
+
+guan1   DDB8 Ý¸*
+
+guan1   F1E6 ñæ*
+
+guan1   F7A4 ÷¤
+
+guan3   B9DC ¹Ü
+
+guan3   B9DD ¹Ý
+
+guan4   B9DA ¹Ú*
+
+guan4   B9DB ¹Û*
+
+guan4   B9DE ¹Þ
+
+guan4   B9DF ¹ß
+
+guan4   B9E0 ¹à
+
+guan4   B9E1 ¹á
+
+guan4   DEE8 Þè
+
+guan4   E4CA äÊ
+
+guan4   EEC2 îÂ
+
+guan4   F0D9 ðÙ
+
+guang1  B9E2 ¹â
+
+guang1  DFDB ßÛ
+
+guang1  E8E6 èæ*
+
+guang1  EBD7 ë×
+
+guang3  B9E3 ¹ã*
+
+guang3  E1EE áî
+
+guang4  B9E4 ¹ä
+
+guang4  E8E6 èæ*
+
+gui1    B9E5 ¹å
+
+gui1    B9E6 ¹æ
+
+gui1    B9E7 ¹ç
+
+gui1    B9E8 ¹è
+
+gui1    B9E9 ¹é
+
+gui1    B9EA ¹ê*
+
+gui1    B9EB ¹ë
+
+gui1    BFFE ¿þ*
+
+gui1    E6A3 æ£
+
+gui1    F0A7 ð§
+
+gui1    F6D9 öÙ
+
+gui3    B9EC ¹ì
+
+gui3    B9ED ¹í
+
+gui3    B9EE ¹î
+
+gui3    B9EF ¹ï
+
+gui3    D8D0 ØÐ
+
+gui3    E2D1 âÑ
+
+gui3    E5B3 å³
+
+gui3    EAD0 êÐ
+
+gui3    F3FE óþ
+
+gui4    B9F0 ¹ð
+
+gui4    B9F1 ¹ñ*
+
+gui4    B9F2 ¹ò
+
+gui4    B9F3 ¹ó
+
+gui4    B9F4 ¹ô
+
+gui4    C8B2 È²*
+
+gui4    D8DB ØÛ
+
+gui4    E8ED èí*
+
+gui4    EAC1 êÁ*
+
+gui4    F7AC ÷¬
+
+gun3    B9F5 ¹õ
+
+gun3    B9F6 ¹ö
+
+gun3    D9F2 Ùò
+
+gun3    E7B5 çµ
+
+gun3    EDDE íÞ
+
+gun3    F6E7 öç
+
+gun4    B9F7 ¹÷
+
+guo1    B9F8 ¹ø
+
+guo1    B9F9 ¹ù
+
+guo1    B9FD ¹ý*
+
+guo1    CED0 ÎÐ*
+
+guo1    DBF6 Ûö
+
+guo1    DFC3 ßÃ
+
+guo1    E1C6 áÆ
+
+guo1    F1F8 ñø
+
+guo1    F2E5 òå
+
+guo2    B9FA ¹ú
+
+guo2    D9E5 Ùå
+
+guo2    DEE2 Þâ*
+
+guo2    E0FE àþ
+
+guo2    EBBD ë½
+
+guo3    B9FB ¹û
+
+guo3    B9FC ¹ü
+
+guo3    E2A3 â£
+
+guo3    E9A4 é¤
+
+guo3    F2E4 òä
+
+guo4    B9FD ¹ý*
+
+ha1     B9FE ¹þ*
+
+ha1     EEFE îþ
+
+ha2     B8F2 ¸ò*
+
+ha2     CFBA Ïº*
+
+ha3     B9FE ¹þ*
+
+ha4     B9FE ¹þ*
+
+hai1    BFC8 ¿È*
+
+hai1    E0CB àË*
+
+hai2    BAA1 º¡
+
+hai2    BAA2 º¢
+
+hai2    BBB9 »¹*
+
+hai3    BAA3 º£
+
+hai3    EBDC ëÜ
+
+hai3    F5B0 õ°
+
+hai4    BAA4 º¤
+
+hai4    BAA5 º¥
+
+hai4    BAA6 º¦
+
+hai4    BAA7 º§
+
+han1    BAA8 º¨
+
+han1    BAA9 º©
+
+han1    E1ED áí*
+
+han1    F1FC ñü
+
+han1    F2C0 òÀ
+
+han1    F7FD ÷ý
+
+han2    BAAA ºª
+
+han2    BAAB º«
+
+han2    BAAC º¬
+
+han2    BAAD º­
+
+han2    BAAE º®
+
+han2    BAAF º¯
+
+han2    BAB9 º¹*
+
+han2    DAF5 Úõ
+
+han2    EACF êÏ
+
+han2    ECCA ìÊ
+
+han3    BAB0 º°
+
+han3    BAB1 º±
+
+han3    E3DB ãÛ*
+
+han4    BAB2 º²
+
+han4    BAB3 º³
+
+han4    BAB4 º´
+
+han4    BAB5 ºµ
+
+han4    BAB6 º¶
+
+han4    BAB7 º·
+
+han4    BAB8 º¸
+
+han4    BAB9 º¹*
+
+han4    BABA ºº
+
+han4    DDD5 ÝÕ
+
+han4    DEFE Þþ
+
+han4    E5AB å«
+
+han4    F2A5 ò¥
+
+hang1   BABB º»*
+
+hang2   BABC º¼
+
+hang2   BABD º½
+
+hang2   BFD4 ¿Ô*
+
+hang2   D0D0 ÐÐ*
+
+hang2   E7AC ç¬
+
+hang2   F1FE ñþ
+
+hang4   CFEF Ïï*
+
+hang4   E3EC ãì
+
+hao1    DDEF Ýï
+
+hao1    DEB6 Þ¶
+
+hao1    E0E3 àã
+
+hao2    BABE º¾
+
+hao2    BABF º¿
+
+hao2    BAC0 ºÀ
+
+hao2    BAC1 ºÁ
+
+hao2    BAC5 ºÅ*
+
+hao2    BAD1 ºÑ*
+
+hao2    E0C6 àÆ
+
+hao2    E5A9 å©
+
+hao2    F2BA òº
+
+hao3    BAC2 ºÂ
+
+hao3    BAC3 ºÃ*
+
+hao4    B8E4 ¸ä*
+
+hao4    BAC3 ºÃ*
+
+hao4    BAC4 ºÄ
+
+hao4    BAC5 ºÅ*
+
+hao4    BAC6 ºÆ
+
+hao4    E5B0 å°
+
+hao4    EABB ê»
+
+hao4    F0A9 ð©
+
+hao4    F2AB ò«
+
+he1     BAC7 ºÇ*
+
+he1     BAC8 ºÈ*
+
+he1     DAAD Ú­
+
+he1     E0C0 àÀ
+
+he2     BAC9 ºÉ*
+
+he2     BACA ºÊ
+
+he2     BACB ºË*
+
+he2     BACC ºÌ
+
+he2     BACD ºÍ*
+
+he2     BACE ºÎ
+
+he2     BACF ºÏ*
+
+he2     BAD0 ºÐ
+
+he2     BAD1 ºÑ*
+
+he2     BAD2 ºÒ
+
+he2     BAD3 ºÓ
+
+he2     BAD4 ºÔ
+
+he2     DBC0 ÛÀ
+
+he2     E3D8 ãØ
+
+he2     E6FC æü*
+
+he2     EAC2 êÂ
+
+he2     EEC1 îÁ
+
+he2     F2A2 ò¢*
+
+he2     F2C2 òÂ
+
+he2     F4E7 ôç
+
+he4     BAC8 ºÈ*
+
+he4     BAC9 ºÉ*
+
+he4     BACD ºÍ*
+
+he4     BAD5 ºÕ
+
+he4     BAD6 ºÖ
+
+he4     BAD7 º×
+
+he4     BAD8 ºØ
+
+he4     CFC5 ÏÅ*
+
+he4     DBD6 ÛÖ
+
+hei1    BAD9 ºÙ*
+
+hei1    BADA ºÚ
+
+hei1    E0CB àË*
+
+hen2    BADB ºÛ
+
+hen3    BADC ºÜ
+
+hen3    BADD ºÝ
+
+hen4    BADE ºÞ
+
+heng1   BADF ºß*
+
+heng1   BAE0 ºà
+
+heng2   BAE1 ºá*
+
+heng2   BAE2 ºâ
+
+heng2   BAE3 ºã
+
+heng2   DEBF Þ¿
+
+heng2   E7F1 çñ
+
+heng2   E8EC èì
+
+heng4   BAE1 ºá*
+
+hng5    BADF ºß*
+
+hong1   BAE4 ºä
+
+hong1   BAE5 ºå*
+
+hong1   BAE6 ºæ
+
+hong1   D9EA Ùê
+
+hong1   DEB0 Þ°
+
+hong2   BAE7 ºç*
+
+hong2   BAE8 ºè
+
+hong2   BAE9 ºé
+
+hong2   BAEA ºê
+
+hong2   BAEB ºë
+
+hong2   BAEC ºì*
+
+hong2   D9E4 Ùä
+
+hong2   DDA6 Ý¦
+
+hong2   DEAE Þ®*
+
+hong2   E3C8 ãÈ
+
+hong2   E3FC ãü
+
+hong3   BAE5 ºå*
+
+hong4   BAE5 ºå*
+
+hong4   DAA7 Ú§
+
+hong4   DEAE Þ®*
+
+hou2    BAED ºí
+
+hou2    BAEE ºî*
+
+hou2    BAEF ºï
+
+hou2    F0FA ðú
+
+hou2    F3F3 óó
+
+hou2    F4D7 ô×
+
+hou2    F7BF ÷¿
+
+hou3    BAF0 ºð
+
+hou4    BAEE ºî*
+
+hou4    BAF1 ºñ
+
+hou4    BAF2 ºò
+
+hou4    BAF3 ºó
+
+hou4    DCA9 Ü©
+
+hou4    E1E1 áá
+
+hou4    E5CB åË
+
+hou4    F6D7 ö×
+
+hu1     BAF4 ºô
+
+hu1     BAF5 ºõ
+
+hu1     BAF6 ºö
+
+hu1     BAFD ºý*
+
+hu1     CFB7 Ï·*
+
+hu1     DFFC ßü
+
+hu1     E3B1 ã±
+
+hu1     E4EF äï
+
+hu1     E9F5 éõ
+
+hu1     ECC3 ìÃ
+
+hu2     B9C4 ¹Ä*
+
+hu2     BACB ºË*
+
+hu2     BACD ºÍ*
+
+hu2     BAF7 º÷
+
+hu2     BAF8 ºø
+
+hu2     BAF9 ºù
+
+hu2     BAFA ºú
+
+hu2     BAFB ºû
+
+hu2     BAFC ºü
+
+hu2     BAFD ºý*
+
+hu2     BAFE ºþ
+
+hu2     BBA1 »¡
+
+hu2     E0F1 àñ
+
+hu2     E2A9 â©
+
+hu2     E9CE éÎ
+
+hu2     ECB2 ì²
+
+hu2     ECCE ìÎ
+
+hu2     F0C9 ðÉ
+
+hu2     F5AD õ­
+
+hu2     F5FA õú
+
+hu2     F7BD ÷½*
+
+hu3     BBA2 »¢
+
+hu3     BBA3 »£*
+
+hu3     E4B0 ä°*
+
+hu3     E7FA çú
+
+hu4     BAFD ºý*
+
+hu4     BBA4 »¤
+
+hu4     BBA5 »¥
+
+hu4     BBA6 »¦
+
+hu4     BBA7 »§
+
+hu4     D9FC Ùü
+
+hu4     E1B2 á²
+
+hu4     E2EF âï
+
+hu4     ECE6 ìæ
+
+hu4     ECE8 ìè
+
+hu4     ECEF ìï
+
+hu4     F0AD ð­
+
+hu4     F0D7 ð×
+
+hu4     F3CB óË
+
+hua1    BBA8 »¨
+
+hua1    BBA9 »©*
+
+hua1    BBAA »ª*
+
+hua1    BBAF »¯*
+
+hua1    EDB9 í¹
+
+hua2    BBA9 »©*
+
+hua2    BBAA »ª*
+
+hua2    BBAB »«
+
+hua2    BBAC »¬
+
+hua2    BBAE »®*
+
+hua2    E6E8 æè
+
+hua2    EEFC îü
+
+hua4    BBAA »ª*
+
+hua4    BBAD »­
+
+hua4    BBAE »®*
+
+hua4    BBAF »¯*
+
+hua4    BBB0 »°
+
+hua4    E8EB èë
+
+huai2   BBB1 »±
+
+huai2   BBB2 »²
+
+huai2   BBB3 »³
+
+huai2   BBB4 »´
+
+huai2   F5D7 õ×
+
+huai4   BBB5 »µ*
+
+huai5   BBAE »®*
+
+huan1   BBB6 »¶
+
+huan1   E2B5 âµ
+
+huan2   BBB7 »·
+
+huan2   BBB8 »¸
+
+huan2   BBB9 »¹*
+
+huan2   DBA8 Û¨*
+
+huan2   DDC8 ÝÈ
+
+huan2   E0F7 à÷*
+
+huan2   E4A1 ä¡
+
+huan2   E5BE å¾
+
+huan2   E7D9 çÙ
+
+huan2   EFCC ïÌ
+
+huan2   F7DF ÷ß
+
+huan3   BBBA »º
+
+huan4   BBBB »»
+
+huan4   BBBC »¼
+
+huan4   BBBD »½
+
+huan4   BBBE »¾
+
+huan4   BBBF »¿
+
+huan4   BBC0 »À
+
+huan4   BBC1 »Á
+
+huan4   BBC2 »Â
+
+huan4   BBC3 »Ã
+
+huan4   DBBC Û¼
+
+huan4   DFA7 ß§
+
+huan4   E4BD ä½
+
+huan4   E4F1 äñ
+
+huan4   E5D5 åÕ
+
+huan4   F6E9 öé
+
+huang1  BBC4 »Ä
+
+huang1  BBC5 »Å
+
+huang1  EBC1 ëÁ
+
+huang2  BBC6 »Æ
+
+huang2  BBC7 »Ç
+
+huang2  BBC8 »È
+
+huang2  BBC9 »É
+
+huang2  BBCA »Ê
+
+huang2  BBCB »Ë
+
+huang2  BBCC »Ì
+
+huang2  BBCD »Í
+
+huang2  DAF2 Úò
+
+huang2  E1E5 áå
+
+huang2  E4D2 äÒ
+
+huang2  E4EA äê
+
+huang2  E5D8 åØ
+
+huang2  E8AB è«
+
+huang2  F1A5 ñ¥
+
+huang2  F3A8 ó¨
+
+huang2  F3F2 óò
+
+huang2  F6FC öü
+
+huang3  BBCE »Î*
+
+huang3  BBCF »Ï
+
+huang3  BBD0 »Ð
+
+huang3  BBD1 »Ñ
+
+huang4  BBCE »Î*
+
+hui1    BBD2 »Ò
+
+hui1    BBD3 »Ó
+
+hui1    BBD4 »Ô
+
+hui1    BBD5 »Õ
+
+hui1    BBD6 »Ö
+
+hui1    DAB6 Ú¶
+
+hui1    DFD4 ßÔ
+
+hui1    E3C4 ãÄ
+
+hui1    E7F5 çõ*
+
+hui1    EACD êÍ
+
+hui1    F2B3 ò³*
+
+hui1    F7E2 ÷â
+
+hui2    BBD7 »×
+
+hui2    BBD8 »Ø
+
+hui2    DCEE Üî
+
+hui2    E4A7 ä§
+
+hui3    BBD9 »Ù
+
+hui3    BBDA »Ú
+
+hui3    F2B3 ò³*
+
+hui4    BBDB »Û
+
+hui4    BBDC »Ü
+
+hui4    BBDD »Ý
+
+hui4    BBDE »Þ
+
+hui4    BBDF »ß
+
+hui4    BBE0 »à
+
+hui4    BBE1 »á*
+
+hui4    BBE2 »â
+
+hui4    BBE3 »ã
+
+hui4    BBE4 »ä
+
+hui4    BBE5 »å
+
+hui4    BBE6 »æ
+
+hui4    C0A3 À£*
+
+hui4    DCF6 Üö
+
+hui4    DEA5 Þ¥
+
+hui4    DFDC ßÜ*
+
+hui4    E0B9 à¹
+
+hui4    E4AB ä«*
+
+hui4    E5E7 åç
+
+hui4    E7C0 çÀ
+
+hui4    E8ED èí*
+
+hui4    EDA3 í£
+
+hui4    F3B3 ó³
+
+hun1    BBE7 »ç
+
+hun1    BBE8 »è
+
+hun1    BBE9 »é
+
+hun1    E3D4 ãÔ
+
+hun2    BBEA »ê
+
+hun2    BBEB »ë
+
+hun2    BBEC »ì*
+
+hun2    E2C6 âÆ
+
+hun2    E7F5 çõ*
+
+hun4    BBEC »ì*
+
+hun4    DABB Ú»
+
+hun4    E4E3 äã
+
+huo1    BBED »í*
+
+huo1    D8E5 Øå
+
+huo1    DFAB ß«
+
+huo1    EFC1 ïÁ
+
+huo1    F1EB ñë
+
+huo2    BACD ºÍ*
+
+huo2    BBEE »î
+
+huo3    BBEF »ï
+
+huo3    BBF0 »ð
+
+huo3    E2B7 â·
+
+huo3    EED8 îØ
+
+huo4    BACD ºÍ*
+
+huo4    BBED »í*
+
+huo4    BBF1 »ñ
+
+huo4    BBF2 »ò
+
+huo4    BBF3 »ó
+
+huo4    BBF4 »ô
+
+huo4    BBF5 »õ
+
+huo4    BBF6 »ö
+
+huo4    DEBD Þ½
+
+huo4    E0EB àë
+
+huo4    EFEC ïì
+
+huo4    F3B6 ó¶
+
+ji1     BBF7 »÷
+
+ji1     BBF8 »ø
+
+ji1     BBF9 »ù
+
+ji1     BBFA »ú
+
+ji1     BBFB »û
+
+ji1     BBFC »ü*
+
+ji1     BBFD »ý
+
+ji1     BBFE »þ
+
+ji1     BCA1 ¼¡
+
+ji1     BCA2 ¼¢
+
+ji1     BCA4 ¼¤
+
+ji1     BCA5 ¼¥
+
+ji1     BCA6 ¼¦
+
+ji1     BCA7 ¼§
+
+ji1     BCA9 ¼©*
+
+ji1     BCB8 ¼¸*
+
+ji1     C6DA ÆÚ*
+
+ji1     C6E4 Æä*
+
+ji1     C6E6 Ææ*
+
+ji1     D8A2 Ø¢
+
+ji1     D8C0 ØÀ
+
+ji1     D8DE ØÞ
+
+ji1     DBD4 ÛÔ
+
+ji1     DCB8 Ü¸
+
+ji1     DFB4 ß´
+
+ji1     DFD2 ßÒ
+
+ji1     DFF3 ßó
+
+ji1     E5EC åì
+
+ji1     E7DC çÜ
+
+ji1     E7E1 çá
+
+ji1     EAE5 êå
+
+ji1     EAF7 ê÷
+
+ji1     ECB4 ì´
+
+ji1     EDB6 í¶
+
+ji1     EEBF î¿
+
+ji1     EFFA ïú
+
+ji1     F3C7 óÇ
+
+ji1     F5D2 õÒ
+
+ji2     B8EF ¸ï*
+
+ji2     BCAA ¼ª
+
+ji2     BCAB ¼«
+
+ji2     BCAC ¼¬
+
+ji2     BCAD ¼­
+
+ji2     BCAE ¼®
+
+ji2     BCAF ¼¯
+
+ji2     BCB0 ¼°
+
+ji2     BCB1 ¼±
+
+ji2     BCB2 ¼²
+
+ji2     BCB3 ¼³
+
+ji2     BCB4 ¼´
+
+ji2     BCB5 ¼µ
+
+ji2     BCB6 ¼¶
+
+ji2     BDE5 ½å*
+
+ji2     D8BD Ø½*
+
+ji2     D9A5 Ù¥
+
+ji2     DAB5 Úµ*
+
+ji2     DDF0 Ýð
+
+ji2     DEAA Þª
+
+ji2     E1A7 á§
+
+ji2     E1D5 áÕ
+
+ji2     E9AE é®
+
+ji2     E9EA éê
+
+ji2     EAAB ê«
+
+ji2     F1A4 ñ¤
+
+ji2     F3C5 óÅ
+
+ji3     B8F8 ¸ø*
+
+ji3     BCB7 ¼·
+
+ji3     BCB8 ¼¸*
+
+ji3     BCB9 ¼¹
+
+ji3     BCBA ¼º
+
+ji3     BCC3 ¼Ã*
+
+ji3     BCCD ¼Í*
+
+ji3     DEE1 Þá
+
+ji3     EAAA êª
+
+ji3     F2B1 ò±
+
+ji3     F7E4 ÷ä
+
+ji4     BCA3 ¼£
+
+ji4     BCA8 ¼¨
+
+ji4     BCBB ¼»
+
+ji4     BCBC ¼¼
+
+ji4     BCBD ¼½
+
+ji4     BCBE ¼¾
+
+ji4     BCBF ¼¿
+
+ji4     BCC0 ¼À
+
+ji4     BCC1 ¼Á
+
+ji4     BCC2 ¼Â
+
+ji4     BCC3 ¼Ã*
+
+ji4     BCC4 ¼Ä
+
+ji4     BCC5 ¼Å
+
+ji4     BCC6 ¼Æ
+
+ji4     BCC7 ¼Ç
+
+ji4     BCC8 ¼È
+
+ji4     BCC9 ¼É
+
+ji4     BCCA ¼Ê
+
+ji4     BCCB ¼Ë
+
+ji4     BCCC ¼Ì
+
+ji4     BCCD ¼Í*
+
+ji4     C6EB Æë*
+
+ji4     CFB5 Ïµ*
+
+ji4     D9CA ÙÊ*
+
+ji4     DCC1 ÜÁ
+
+ji4     DCF9 Üù*
+
+ji4     DFE2 ßâ
+
+ji4     E4A9 ä©
+
+ji4     E6F7 æ÷
+
+ji4     EAE9 êé
+
+ji4     F0A2 ð¢
+
+ji4     F4DF ôß
+
+ji4     F5D5 õÕ
+
+ji4     F6AB ö«
+
+ji4     F6DD öÝ
+
+ji4     F6EA öê
+
+ji4     F7D9 ÷Ù
+
+jia1    BCCE ¼Î
+
+jia1    BCCF ¼Ï
+
+jia1    BCD0 ¼Ð*
+
+jia1    BCD1 ¼Ñ
+
+jia1    BCD2 ¼Ò*
+
+jia1    BCD3 ¼Ó
+
+jia1    C7D1 ÇÑ*
+
+jia1    D0AE Ð®*
+
+jia1    DDE7 Ýç
+
+jia1    E4A4 ä¤
+
+jia1    E5C8 åÈ
+
+jia1    E7EC çì
+
+jia1    EFD8 ïØ
+
+jia1    F0E8 ðè
+
+jia1    F3D5 óÕ
+
+jia1    F4C2 ôÂ
+
+jia1    F5CA õÊ
+
+jia2    BCD0 ¼Ð*
+
+jia2    BCD4 ¼Ô
+
+jia2    BCD5 ¼Õ
+
+jia2    DBA3 Û£
+
+jia2    EAA9 ê©
+
+jia2    EDA2 í¢
+
+jia2    EEF2 îò
+
+jia2    F1CA ñÊ*
+
+jia2    F2CC òÌ
+
+jia3    BCD6 ¼Ö*
+
+jia3    BCD7 ¼×
+
+jia3    BCD8 ¼Ø
+
+jia3    BCD9 ¼Ù*
+
+jia3    D8C5 ØÅ*
+
+jia3    E1B5 áµ
+
+jia3    EBCE ëÎ
+
+jia3    F0FD ðý
+
+jia4    BCD9 ¼Ù*
+
+jia4    BCDA ¼Ú
+
+jia4    BCDB ¼Û*
+
+jia4    BCDC ¼Ü
+
+jia4    BCDD ¼Ý
+
+jia4    BCDE ¼Þ
+
+jian1   BCDF ¼ß
+
+jian1   BCE0 ¼à*
+
+jian1   BCE1 ¼á
+
+jian1   BCE2 ¼â
+
+jian1   BCE3 ¼ã
+
+jian1   BCE4 ¼ä*
+
+jian1   BCE5 ¼å
+
+jian1   BCE6 ¼æ
+
+jian1   BCE7 ¼ç
+
+jian1   BCE8 ¼è
+
+jian1   BCE9 ¼é
+
+jian1   BCEA ¼ê
+
+jian1   BDA5 ½¥*
+
+jian1   BDA6 ½¦*
+
+jian1   C7B3 Ç³*
+
+jian1   DDD1 ÝÑ
+
+jian1   DDF3 Ýó
+
+jian1   DEF6 Þö
+
+jian1   E4D5 äÕ
+
+jian1   E7CC çÌ
+
+jian1   EAA7 ê§
+
+jian1   EAF9 êù*
+
+jian1   F0CF ðÏ
+
+jian1   F6E4 öä
+
+jian1   F7B5 ÷µ
+
+jian2   BCE0 ¼à*
+
+jian3   BCEB ¼ë
+
+jian3   BCEC ¼ì
+
+jian3   BCED ¼í
+
+jian3   BCEE ¼î
+
+jian3   BCEF ¼ï
+
+jian3   BCF0 ¼ð
+
+jian3   BCF1 ¼ñ
+
+jian3   BCF2 ¼ò
+
+jian3   BCF3 ¼ó
+
+jian3   BCF4 ¼ô
+
+jian3   BCF5 ¼õ
+
+jian3   DAD9 ÚÙ
+
+jian3   E0EE àî*
+
+jian3   E5BF å¿
+
+jian3   E5C0 åÀ
+
+jian3   E8C5 èÅ
+
+jian3   EAAF ê¯
+
+jian3   EDFA íú
+
+jian3   EFB5 ïµ*
+
+jian3   F1D0 ñÐ
+
+jian3   F3C8 óÈ
+
+jian3   F4E5 ôå
+
+jian3   F5C2 õÂ
+
+jian4   BCE4 ¼ä*
+
+jian4   BCF6 ¼ö
+
+jian4   BCF7 ¼÷*
+
+jian4   BCF8 ¼ø
+
+jian4   BCF9 ¼ù
+
+jian4   BCFA ¼ú
+
+jian4   BCFB ¼û*
+
+jian4   BCFC ¼ü
+
+jian4   BCFD ¼ý
+
+jian4   BCFE ¼þ
+
+jian4   BDA1 ½¡
+
+jian4   BDA2 ½¢
+
+jian4   BDA3 ½£
+
+jian4   BDA4 ½¤
+
+jian4   BDA5 ½¥*
+
+jian4   BDA6 ½¦*
+
+jian4   BDA7 ½§
+
+jian4   BDA8 ½¨
+
+jian4   D9D4 ÙÔ
+
+jian4   DAC9 ÚÉ
+
+jian4   E9A5 é¥
+
+jian4   EAF0 êð
+
+jian4   EBA6 ë¦
+
+jian4   EBEC ëì
+
+jian4   EFB5 ïµ*
+
+jian4   F5DD õÝ
+
+jiang1  BDA9 ½©
+
+jiang1  BDAA ½ª
+
+jiang1  BDAB ½«*
+
+jiang1  BDAC ½¬*
+
+jiang1  BDAD ½­
+
+jiang1  BDAE ½®
+
+jiang1  DCFC Üü
+
+jiang1  E7D6 çÖ
+
+jiang1  EDE4 íä
+
+jiang1  F4F8 ôø
+
+jiang3  BDAF ½¯
+
+jiang3  BDB0 ½°
+
+jiang3  BDB1 ½±
+
+jiang3  BDB2 ½²
+
+jiang3  F1F0 ñð
+
+jiang4  BAE7 ºç*
+
+jiang4  BDAB ½«*
+
+jiang4  BDAC ½¬*
+
+jiang4  BDB3 ½³
+
+jiang4  BDB4 ½´
+
+jiang4  BDB5 ½µ*
+
+jiang4  C7BF Ç¿*
+
+jiang4  E4AE ä®
+
+jiang4  E7AD ç­
+
+jiang4  EAF1 êñ
+
+jiang4  F4DD ôÝ
+
+jiao1   BDB6 ½¶
+
+jiao1   BDB7 ½·
+
+jiao1   BDB8 ½¸
+
+jiao1   BDB9 ½¹
+
+jiao1   BDBA ½º
+
+jiao1   BDBB ½»
+
+jiao1   BDBC ½¼
+
+jiao1   BDBD ½½
+
+jiao1   BDBE ½¾
+
+jiao1   BDBF ½¿
+
+jiao1   BDCC ½Ì*
+
+jiao1   D9D5 ÙÕ
+
+jiao1   DCB4 Ü´
+
+jiao1   DCFA Üú
+
+jiao1   E6AF æ¯
+
+jiao1   F0D4 ðÔ
+
+jiao1   F2D4 òÔ
+
+jiao1   F5D3 õÓ
+
+jiao1   F6DE öÞ
+
+jiao2   BDC0 ½À*
+
+jiao3   BDC1 ½Á
+
+jiao3   BDC2 ½Â
+
+jiao3   BDC3 ½Ã
+
+jiao3   BDC4 ½Ä*
+
+jiao3   BDC5 ½Å*
+
+jiao3   BDC6 ½Æ
+
+jiao3   BDC7 ½Ç*
+
+jiao3   BDC8 ½È
+
+jiao3   BDC9 ½É*
+
+jiao3   BDCA ½Ê
+
+jiao3   BDCB ½Ë*
+
+jiao3   D9AE Ù®
+
+jiao3   DED8 ÞØ
+
+jiao3   E1E8 áè*
+
+jiao3   E4D0 äÐ*
+
+jiao3   EBB8 ë¸
+
+jiao3   F0A8 ð¨
+
+jiao4   BDC0 ½À*
+
+jiao4   BDCC ½Ì*
+
+jiao4   BDCD ½Í
+
+jiao4   BDCE ½Î
+
+jiao4   BDCF ½Ï
+
+jiao4   BDD0 ½Ð
+
+jiao4   BDD1 ½Ñ
+
+jiao4   BEF5 ¾õ*
+
+jiao4   D0A3 Ð£*
+
+jiao4   E0DD àÝ
+
+jiao4   E1BD á½*
+
+jiao4   E1E8 áè*
+
+jiao4   ECDF ìß*
+
+jiao4   F5B4 õ´
+
+jie1    BDD2 ½Ò
+
+jie1    BDD3 ½Ó
+
+jie1    BDD4 ½Ô
+
+jie1    BDD5 ½Õ
+
+jie1    BDD6 ½Ö
+
+jie1    BDD7 ½×
+
+jie1    BDDA ½Ú*
+
+jie1    BDE1 ½á*
+
+jie1    BFAC ¿¬*
+
+jie1    E0AE à®
+
+jie1    E0B5 àµ*
+
+jie1    F0DC ðÜ
+
+jie2    BDD8 ½Ø
+
+jie2    BDD9 ½Ù
+
+jie2    BDDA ½Ú*
+
+jie2    BDDB ½Û*
+
+jie2    BDDC ½Ü
+
+jie2    BDDD ½Ý
+
+jie2    BDDE ½Þ
+
+jie2    BDDF ½ß
+
+jie2    BDE0 ½à
+
+jie2    BDE1 ½á*
+
+jie2    D9CA ÙÊ*
+
+jie2    DAA6 Ú¦
+
+jie2    DAB5 Úµ*
+
+jie2    DED7 Þ×
+
+jie2    E6BC æ¼
+
+jie2    E6DD æÝ
+
+jie2    E8EE èî
+
+jie2    EDD9 íÙ
+
+jie2    F2A1 ò¡*
+
+jie2    F4C9 ôÉ
+
+jie2    F6DA öÚ
+
+jie3    BDE2 ½â*
+
+jie3    BDE3 ½ã
+
+jie4    BCDB ¼Û*
+
+jie4    BDE2 ½â*
+
+jie4    BDE4 ½ä
+
+jie4    BDE5 ½å*
+
+jie4    BDE6 ½æ*
+
+jie4    BDE7 ½ç
+
+jie4    BDE8 ½è
+
+jie4    BDE9 ½é
+
+jie4    BDEA ½ê
+
+jie4    BDEB ½ë
+
+jie4    BDEC ½ì
+
+jie4    F2BB ò»
+
+jie4    F7BA ÷º
+
+jie5    BCD2 ¼Ò*
+
+jie5    BCDB ¼Û*
+
+jin1    BDED ½í
+
+jin1    BDEE ½î
+
+jin1    BDEF ½ï
+
+jin1    BDF0 ½ð
+
+jin1    BDF1 ½ñ
+
+jin1    BDF2 ½ò
+
+jin1    BDF3 ½ó
+
+jin1    BDFB ½û*
+
+jin1    F1C6 ñÆ
+
+jin1    F1E6 ñæ*
+
+jin3    BDF4 ½ô
+
+jin3    BDF5 ½õ
+
+jin3    BDF6 ½ö*
+
+jin3    BDF7 ½÷
+
+jin3    BEA1 ¾¡*
+
+jin3    DAE1 Úá
+
+jin3    DDC0 ÝÀ
+
+jin3    E2CB âË
+
+jin3    E2DB âÛ*
+
+jin3    E8AA èª
+
+jin3    E9C8 éÈ
+
+jin4    BDF6 ½ö*
+
+jin4    BDF8 ½ø
+
+jin4    BDF9 ½ù
+
+jin4    BDFA ½ú
+
+jin4    BDFB ½û*
+
+jin4    BDFC ½ü
+
+jin4    BDFD ½ý
+
+jin4    BDFE ½þ
+
+jin4    BEA1 ¾¡*
+
+jin4    BEA2 ¾¢*
+
+jin4    DDA3 Ý£
+
+jin4    E0E4 àä
+
+jin4    E6A1 æ¡
+
+jin4    E7C6 çÆ
+
+jin4    EAE1 êá
+
+jin4    EAEE êî
+
+jing1   BEA3 ¾£
+
+jing1   BEA4 ¾¤
+
+jing1   BEA5 ¾¥
+
+jing1   BEA6 ¾¦
+
+jing1   BEA7 ¾§
+
+jing1   BEA8 ¾¨
+
+jing1   BEA9 ¾©
+
+jing1   BEAA ¾ª
+
+jing1   BEAB ¾«
+
+jing1   BEAC ¾¬
+
+jing1   BEAD ¾­
+
+jing1   DDBC Ý¼
+
+jing1   E3FE ãþ
+
+jing1   EBE6 ëæ
+
+jing1   ECBA ìº
+
+jing3   BEAE ¾®
+
+jing3   BEAF ¾¯
+
+jing3   BEB0 ¾°
+
+jing3   BEB1 ¾±*
+
+jing3   D8D9 ØÙ
+
+jing3   D9D3 ÙÓ
+
+jing3   DAE5 Úå
+
+jing3   E3BD ã½
+
+jing3   EBC2 ëÂ
+
+jing4   BEA2 ¾¢*
+
+jing4   BEB2 ¾²
+
+jing4   BEB3 ¾³
+
+jing4   BEB4 ¾´
+
+jing4   BEB5 ¾µ
+
+jing4   BEB6 ¾¶
+
+jing4   BEB7 ¾·
+
+jing4   BEB8 ¾¸
+
+jing4   BEB9 ¾¹
+
+jing4   BEBA ¾º
+
+jing4   BEBB ¾»
+
+jing4   E2B0 â°
+
+jing4   E5C9 åÉ
+
+jing4   E5F2 åò
+
+jing4   E6BA æº
+
+jing4   EBD6 ëÖ
+
+jing4   F6A6 ö¦*
+
+jiong1  ECE7 ìç
+
+jiong3  BEBC ¾¼
+
+jiong3  BEBD ¾½
+
+jiong3  E5C4 åÄ
+
+jiong3  EAC1 êÁ*
+
+jiu1    BEBE ¾¾
+
+jiu1    BEBF ¾¿
+
+jiu1    BEC0 ¾À
+
+jiu1    E0B1 à±
+
+jiu1    E3CE ãÎ
+
+jiu1    F0AF ð¯
+
+jiu1    F4F1 ôñ
+
+jiu1    F7DD ÷Ý
+
+jiu3    BEC1 ¾Á
+
+jiu3    BEC2 ¾Â
+
+jiu3    BEC3 ¾Ã
+
+jiu3    BEC4 ¾Ä
+
+jiu3    BEC5 ¾Å
+
+jiu3    BEC6 ¾Æ
+
+jiu4    BEC7 ¾Ç
+
+jiu4    BEC8 ¾È
+
+jiu4    BEC9 ¾É
+
+jiu4    BECA ¾Ê
+
+jiu4    BECB ¾Ë
+
+jiu4    BECC ¾Ì
+
+jiu4    BECD ¾Í
+
+jiu4    BECE ¾Î
+
+jiu4    D9D6 ÙÖ
+
+jiu4    E8D1 èÑ
+
+jiu4    E8EA èê
+
+jiu4    F0D5 ðÕ
+
+ju1     B3B5 ³µ*
+
+ju1     BECF ¾Ï
+
+ju1     BED0 ¾Ð
+
+ju1     BED1 ¾Ñ
+
+ju1     BED2 ¾Ò
+
+ju1     BED3 ¾Ó
+
+ju1     BED4 ¾Ô
+
+ju1     BEDD ¾Ý*
+
+ju1     BEE2 ¾â*
+
+ju1     BEE3 ¾ã*
+
+ju1     C7D2 ÇÒ*
+
+ju1     DCDA ÜÚ
+
+ju1     DEE4 Þä
+
+ju1     E8A2 è¢
+
+ju1     E9A7 é§
+
+ju1     EFB8 ï¸*
+
+ju1     F1D5 ñÕ
+
+ju1     F4F2 ôò*
+
+ju1     F6C2 öÂ
+
+ju1     F7B6 ÷¶
+
+ju2     BDDB ½Û*
+
+ju2     BED5 ¾Õ
+
+ju2     BED6 ¾Ö
+
+ju2     E9D9 éÙ
+
+ju2     EFB8 ï¸*
+
+ju3     B9F1 ¹ñ*
+
+ju3     BED7 ¾×*
+
+ju3     BED8 ¾Ø
+
+ju3     BED9 ¾Ù
+
+ju3     BEDA ¾Ú*
+
+ju3     DCEC Üì
+
+ju3     E8DB èÛ*
+
+ju3     E9B0 é°
+
+ju3     E9B7 é·
+
+ju3     F5E1 õá
+
+ju3     F6B4 ö´
+
+ju4     BEDA ¾Ú*
+
+ju4     BEDB ¾Û
+
+ju4     BEDC ¾Ü
+
+ju4     BEDD ¾Ý*
+
+ju4     BEDE ¾Þ
+
+ju4     BEDF ¾ß
+
+ju4     BEE0 ¾à
+
+ju4     BEE1 ¾á
+
+ju4     BEE2 ¾â*
+
+ju4     BEE3 ¾ã*
+
+ju4     BEE4 ¾ä*
+
+ju4     BEE5 ¾å
+
+ju4     BEE6 ¾æ
+
+ju4     BEE7 ¾ç
+
+ju4     D9C6 ÙÆ
+
+ju4     DAAA Úª
+
+ju4     DCC4 ÜÄ*
+
+ju4     E5E1 åá
+
+ju4     E5F0 åð
+
+ju4     EAF8 êø
+
+ju4     ECAB ì«
+
+ju4     EED2 îÒ
+
+ju4     F1C0 ñÀ
+
+ju4     F5B6 õ¶
+
+ju4     F6C4 öÄ*
+
+juan1   BEE8 ¾è
+
+juan1   BEE9 ¾é
+
+juan1   BEEA ¾ê
+
+juan1   C8A6 È¦*
+
+juan1   E4B8 ä¸
+
+juan1   EEC3 îÃ
+
+juan1   EFD4 ïÔ
+
+juan3   BEED ¾í*
+
+juan3   EFC3 ïÃ*
+
+juan4   BEEB ¾ë
+
+juan4   BEEC ¾ì
+
+juan4   BEED ¾í*
+
+juan4   BEEE ¾î
+
+juan4   C8A6 È¦*
+
+juan4   DBB2 Û²
+
+juan4   E1FA áú
+
+juan4   E8F0 èð
+
+juan4   F6C1 öÁ*
+
+jue1    BEEF ¾ï
+
+jue1    E0B5 àµ*
+
+jue1    E0D9 àÙ
+
+jue2    BDC0 ½À*
+
+jue2    BDC5 ½Å*
+
+jue2    BDC7 ½Ç*
+
+jue2    BEF0 ¾ð
+
+jue2    BEF1 ¾ñ
+
+jue2    BEF2 ¾ò
+
+jue2    BEF3 ¾ó*
+
+jue2    BEF4 ¾ô
+
+jue2    BEF5 ¾õ*
+
+jue2    BEF6 ¾ö
+
+jue2    BEF7 ¾÷
+
+jue2    BEF8 ¾ø
+
+jue2    D8CA ØÊ
+
+jue2    D8E3 Øã
+
+jue2    DADC ÚÜ
+
+jue2    DBC7 ÛÇ
+
+jue2    DEA7 Þ§
+
+jue2    E0E5 àå*
+
+jue2    E1C8 áÈ
+
+jue2    E2B1 â±
+
+jue2    E6DE æÞ
+
+jue2    E7E5 çå
+
+jue2    E8F6 èö
+
+jue2    E9D3 éÓ
+
+jue2    ECDF ìß*
+
+jue2    EFE3 ïã
+
+jue2    F5EA õê*
+
+jue2    F5FB õû
+
+jue3    F5EA õê*
+
+jue4    BEF3 ¾ó*
+
+jun1    B9EA ¹ê*
+
+jun1    BEF9 ¾ù
+
+jun1    BEFA ¾ú*
+
+jun1    BEFB ¾û
+
+jun1    BEFC ¾ü
+
+jun1    BEFD ¾ý
+
+jun1    F1E4 ñä
+
+jun1    F3DE óÞ*
+
+jun1    F7E5 ÷å*
+
+jun4    BEFA ¾ú*
+
+jun4    BEFE ¾þ
+
+jun4    BFA1 ¿¡
+
+jun4    BFA2 ¿¢
+
+jun4    BFA3 ¿£*
+
+jun4    BFA4 ¿¤
+
+jun4    BFA5 ¿¥
+
+jun4    DEDC ÞÜ
+
+jun4    F6C1 öÁ*
+
+ka1     BFA6 ¿¦
+
+ka1     BFA7 ¿§*
+
+ka1     DFC7 ßÇ*
+
+ka3     BFA8 ¿¨*
+
+ka3     BFA9 ¿©*
+
+ka3     D8FB Øû
+
+ka3     DFC7 ßÇ*
+
+ka3     EBCC ëÌ
+
+kai1    BFAA ¿ª
+
+kai1    BFAB ¿«
+
+kai1    EFB4 ï´
+
+kai3    BFAC ¿¬*
+
+kai3    BFAD ¿­
+
+kai3    BFAE ¿®
+
+kai3    D8DC ØÜ
+
+kai3    DBEE Ûî
+
+kai3    DDDC ÝÜ
+
+kai3    E2FD âý
+
+kai3    EEF8 îø
+
+kai3    EFC7 ïÇ
+
+kai4    E2E9 âé
+
+kan1    BFAF ¿¯
+
+kan1    BFB0 ¿°
+
+kan1    BFB1 ¿±
+
+kan1    BFB4 ¿´*
+
+kan1    EAAC ê¬
+
+kan1    EDE8 íè
+
+kan3    BCF7 ¼÷*
+
+kan3    BFB2 ¿²
+
+kan3    BFB3 ¿³
+
+kan3    D9A9 Ù©
+
+kan3    DDA8 Ý¨
+
+kan4    BFB4 ¿´*
+
+kan4    C7B6 Ç¶*
+
+kan4    E3DB ãÛ*
+
+kan4    EEAB î«
+
+kang1   BFB5 ¿µ
+
+kang1   BFB6 ¿¶
+
+kang1   BFB7 ¿·
+
+kang1   E3CA ãÊ
+
+kang2   BFB8 ¿¸*
+
+kang4   BFB9 ¿¹
+
+kang4   BFBA ¿º
+
+kang4   BFBB ¿»
+
+kang4   D8F8 Øø
+
+kang4   EED6 îÖ
+
+kao1    E5EA åê
+
+kao3    BFBC ¿¼
+
+kao3    BFBD ¿½
+
+kao3    BFBE ¿¾
+
+kao3    E8E0 èà
+
+kao4    BFBF ¿¿
+
+kao4    EAFB êû
+
+kao4    EEED îí
+
+ke1     BFC0 ¿À*
+
+ke1     BFC1 ¿Á
+
+ke1     BFC2 ¿Â
+
+ke1     BFC3 ¿Ã
+
+ke1     BFC4 ¿Ä
+
+ke1     BFC5 ¿Å
+
+ke1     BFC6 ¿Æ
+
+ke1     E0BE à¾*
+
+ke1     E7E6 çæ
+
+ke1     E9F0 éð
+
+ke1     EEA7 î§
+
+ke1     EEDD îÝ
+
+ke1     EFFD ïý
+
+ke1     F0E2 ðâ
+
+ke1     F1BD ñ½
+
+ke1     F2A4 ò¤
+
+ke1     F2F2 òò
+
+ke1     F7C1 ÷Á
+
+ke2     BFC7 ¿Ç*
+
+ke2     BFC8 ¿È*
+
+ke3     BFC0 ¿À*
+
+ke3     BFC9 ¿É*
+
+ke3     BFCA ¿Ê
+
+ke3     E1B3 á³
+
+ke4     BFC9 ¿É*
+
+ke4     BFCB ¿Ë
+
+ke4     BFCC ¿Ì
+
+ke4     BFCD ¿Í
+
+ke4     BFCE ¿Î
+
+ke4     E0BE à¾*
+
+ke4     E3A1 ã¡
+
+ke4     E4DB äÛ
+
+ke4     E6EC æì
+
+ke4     E7BC ç¼
+
+ke4     EBB4 ë´
+
+ke4     EFBE ï¾
+
+ken3    BFCF ¿Ï
+
+ken3    BFD0 ¿Ð
+
+ken3    BFD1 ¿Ñ
+
+ken3    BFD2 ¿Ò
+
+ken3    F6B8 ö¸*
+
+ken4    F1CC ñÌ
+
+keng1   BFD3 ¿Ó
+
+keng1   BFD4 ¿Ô*
+
+keng1   EFAC ï¬
+
+kong1   BFD5 ¿Õ*
+
+kong1   D9C5 ÙÅ
+
+kong1   E1C7 áÇ
+
+kong1   F3ED óí
+
+kong3   BFD6 ¿Ö
+
+kong3   BFD7 ¿×
+
+kong4   BFD5 ¿Õ*
+
+kong4   BFD8 ¿Ø
+
+kou1    BFD9 ¿Ù
+
+kou1    DCD2 ÜÒ
+
+kou1    EDEE íî
+
+kou3    BFDA ¿Ú
+
+kou4    BFDB ¿Û
+
+kou4    BFDC ¿Ü
+
+kou4    DEA2 Þ¢
+
+kou4    DFB5 ßµ
+
+kou4    F3D8 óØ
+
+ku1     BFDD ¿Ý
+
+ku1     BFDE ¿Þ
+
+ku1     BFDF ¿ß
+
+ku1     D8DA ØÚ
+
+ku1     DCA5 Ü¥
+
+ku1     F7BC ÷¼
+
+ku3     BFE0 ¿à
+
+ku4     BFE1 ¿á
+
+ku4     BFE2 ¿â
+
+ku4     BFE3 ¿ã
+
+ku4     E0B7 à·
+
+ku4     E7AB ç«
+
+kua1    BFE4 ¿ä
+
+kua3    BFE5 ¿å
+
+kua3    D9A8 Ù¨
+
+kua4    BFE6 ¿æ
+
+kua4    BFE7 ¿ç
+
+kua4    BFE8 ¿è
+
+kuai3   D8E1 Øá
+
+kuai4   BBE1 »á*
+
+kuai4   BFE9 ¿é
+
+kuai4   BFEA ¿ê
+
+kuai4   BFEB ¿ë
+
+kuai4   BFEC ¿ì
+
+kuai4   DBA6 Û¦
+
+kuai4   DFE0 ßà
+
+kuai4   E1F6 áö
+
+kuai4   E4AB ä«*
+
+kuai4   EBDA ëÚ
+
+kuan1   BFED ¿í
+
+kuan1   F7C5 ÷Å
+
+kuan3   BFEE ¿î
+
+kuang1  BFEF ¿ï
+
+kuang1  BFF0 ¿ð
+
+kuang1  DAB2 Ú²
+
+kuang1  DFD1 ßÑ
+
+kuang2  BFF1 ¿ñ
+
+kuang2  DABF Ú¿
+
+kuang3  DEC5 ÞÅ
+
+kuang4  BFF2 ¿ò
+
+kuang4  BFF3 ¿ó
+
+kuang4  BFF4 ¿ô
+
+kuang4  BFF5 ¿õ
+
+kuang4  BFF6 ¿ö
+
+kuang4  DAF7 Ú÷
+
+kuang4  DBDB ÛÛ
+
+kuang4  E6FE æþ
+
+kuang4  EADC êÜ
+
+kui1    BFF7 ¿÷
+
+kui1    BFF8 ¿ø
+
+kui1    BFF9 ¿ù
+
+kui1    BFFA ¿ú
+
+kui1    E3A6 ã¦
+
+kui2    BFFB ¿û
+
+kui2    BFFC ¿ü
+
+kui2    BFFD ¿ý
+
+kui2    D8B8 Ø¸
+
+kui2    D9E7 Ùç
+
+kui2    DAF3 Úó*
+
+kui2    DEF1 Þñ
+
+kui2    E0AD à­
+
+kui2    E5D3 åÓ
+
+kui2    EAD2 êÒ
+
+kui2    EEA5 î¥
+
+kui2    F2F1 òñ
+
+kui3    BFFE ¿þ*
+
+kui3    F5CD õÍ
+
+kui4    C0A1 À¡
+
+kui4    C0A2 À¢
+
+kui4    C0A3 À£*
+
+kui4    D8D1 ØÑ
+
+kui4    DDDE ÝÞ
+
+kui4    E0B0 à°
+
+kui4    E3B4 ã´
+
+kui4    F1F9 ñù
+
+kui4    F3F1 óñ
+
+kun1    C0A4 À¤
+
+kun1    C0A5 À¥
+
+kun1    E7FB çû
+
+kun1    EFBF ï¿
+
+kun1    F5AB õ«
+
+kun1    F6EF öï
+
+kun1    F7D5 ÷Õ
+
+kun3    C0A6 À¦
+
+kun3    E3A7 ã§
+
+kun3    E3CD ãÍ
+
+kun4    C0A7 À§
+
+kuo4    C0A8 À¨*
+
+kuo4    C0A9 À©
+
+kuo4    C0AA Àª
+
+kuo4    C0AB À«
+
+kuo4    CACA ÊÊ*
+
+kuo4    F2D2 òÒ
+
+la1     C0AC À¬
+
+la1     C0AD À­*
+
+la1     C0AE À®*
+
+la1     C0AE À®*
+
+la1     C0B2 À²*
+
+la1     E5E5 åå
+
+la2     C0AD À­*
+
+la2     EAB9 ê¹
+
+la2     EDC7 íÇ
+
+la3     C0AE À®*
+
+la4     C0AF À¯*
+
+la4     C0B0 À°*
+
+la4     C0B1 À±
+
+la4     C2E4 Âä*
+
+la4     D8DD ØÝ
+
+la4     F0F8 ðø
+
+la5     C0B2 À²*
+
+lai2    C0B3 À³
+
+lai2    C0B4 À´
+
+lai2    E1C1 áÁ
+
+lai2    E1E2 áâ
+
+lai2    E4B5 äµ
+
+lai2    EFAA ïª
+
+lai4    C0B5 Àµ
+
+lai4    E4FE äþ
+
+lai4    EAE3 êã
+
+lai4    EDF9 íù
+
+lai4    F1AE ñ®
+
+lai4    F4A5 ô¥
+
+lan2    C0B6 À¶
+
+lan2    C0B7 À·
+
+lan2    C0B8 À¸
+
+lan2    C0B9 À¹
+
+lan2    C0BA Àº
+
+lan2    C0BB À»
+
+lan2    C0BC À¼
+
+lan2    C0BD À½
+
+lan2    C0BE À¾
+
+lan2    E1B0 á°
+
+lan2    ECB5 ìµ
+
+lan2    EFE7 ïç
+
+lan2    F1DC ñÜ
+
+lan3    C0BF À¿
+
+lan3    C0C0 ÀÀ
+
+lan3    C0C1 ÀÁ
+
+lan3    C0C2 ÀÂ
+
+lan3    E4ED äí
+
+lan3    E9AD é­
+
+lan3    EEBD î½
+
+lan4    C0C3 ÀÃ
+
+lan4    C0C4 ÀÄ
+
+lang1   E0A5 à¥
+
+lang2   C0C5 ÀÅ
+
+lang2   C0C6 ÀÆ
+
+lang2   C0C7 ÀÇ
+
+lang2   C0C8 ÀÈ
+
+lang2   C0C9 ÀÉ
+
+lang2   E3CF ãÏ*
+
+lang2   EFB6 ï¶
+
+lang2   EFFC ïü
+
+lang2   F2EB òë
+
+lang3   C0CA ÀÊ
+
+lang4   C0CB ÀË
+
+lang4   DDB9 Ý¹
+
+lang4   DDF5 Ýõ
+
+lang4   E3CF ãÏ*
+
+lao1    C0CC ÀÌ
+
+lao2    C0CD ÀÍ
+
+lao2    C0CE ÀÎ
+
+lao2    DFEB ßë*
+
+lao2    E1C0 áÀ
+
+lao2    EFA9 ï©
+
+lao2    F0EC ðì
+
+lao2    F5B2 õ²
+
+lao3    C0CF ÀÏ
+
+lao3    C0D0 ÀÐ
+
+lao3    C0D1 ÀÑ*
+
+lao3    C1CA ÁÊ*
+
+lao3    E8E1 èá
+
+lao3    EEEE îî
+
+lao4    C0D2 ÀÒ
+
+lao4    C0D3 ÀÓ*
+
+lao4    C0D4 ÀÔ
+
+lao4    C2E4 Âä*
+
+lao4    C2E7 Âç*
+
+lao4    DFEB ßë*
+
+lao4    F1EC ñì
+
+le1     C0DF Àß*
+
+le4     C0D5 ÀÕ*
+
+le4     C0D6 ÀÖ*
+
+le4     D8EC Øì
+
+le4     DFB7 ß·
+
+le4     E3EE ãî
+
+le4     F7A6 ÷¦
+
+le5     C1CB ÁË*
+
+lei1    C0D5 ÀÕ*
+
+lei2    C0D7 À×
+
+lei2    C0D8 ÀØ
+
+lei2    C0DB ÀÛ*
+
+lei2    C0DE ÀÞ*
+
+lei2    D9FA Ùú
+
+lei2    E6D0 æÐ
+
+lei2    E7D0 çÐ
+
+lei2    E9DB éÛ
+
+lei3    C0D9 ÀÙ
+
+lei3    C0DA ÀÚ
+
+lei3    C0DB ÀÛ*
+
+lei3    C0DC ÀÜ
+
+lei3    C0DD ÀÝ
+
+lei3    DAB3 Ú³
+
+lei3    F1E7 ñç
+
+lei4    C0DB ÀÛ*
+
+lei4    C0DE ÀÞ*
+
+lei4    C0DF Àß*
+
+lei4    C0E0 Àà
+
+lei4    C0E1 Àá
+
+lei4    F5AA õª
+
+lei5    E0CF àÏ
+
+leng1   C0E2 Àâ*
+
+leng2   C0E2 Àâ*
+
+leng2   C0E3 Àã
+
+leng2   DCA8 Ü¨
+
+leng3   C0E4 Àä
+
+leng4   E3B6 ã¶
+
+li1     C1A8 Á¨*
+
+li2     C0E5 Àå
+
+li2     C0E6 Àæ
+
+li2     C0E7 Àç
+
+li2     C0E8 Àè
+
+li2     C0E9 Àé
+
+li2     C0EA Àê
+
+li2     C0EB Àë
+
+li2     C0EC Àì
+
+li2     C0F6 Àö*
+
+li2     C1A7 Á§
+
+li2     DDF1 Ýñ
+
+li2     DEBC Þ¼
+
+li2     E0AC à¬
+
+li2     E6CB æË
+
+li2     E6EA æê
+
+li2     E7CA çÊ
+
+li2     EEBE î¾
+
+li2     F0BF ð¿
+
+li2     F2DB òÛ
+
+li2     F3BB ó»*
+
+li2     F6E2 öâ
+
+li2     F7F3 ÷ó
+
+li3     C0ED Àí
+
+li3     C0EE Àî
+
+li3     C0EF Àï
+
+li3     C0F0 Àð
+
+li3     C0F1 Àñ
+
+li3     C1A8 Á¨*
+
+li3     D9B5 Ùµ
+
+li3     E5A2 å¢
+
+li3     E5CE åÎ
+
+li3     E6B2 æ²
+
+li3     EFAE ï®
+
+li3     F3BB ó»*
+
+li3     F5B7 õ·
+
+li3     F7AF ÷¯
+
+li4     C0F2 Àò
+
+li4     C0F3 Àó
+
+li4     C0F4 Àô
+
+li4     C0F5 Àõ
+
+li4     C0F6 Àö*
+
+li4     C0F7 À÷
+
+li4     C0F8 Àø
+
+li4     C0F9 Àù
+
+li4     C0FA Àú
+
+li4     C0FB Àû
+
+li4     C0FC Àü
+
+li4     C0FD Àý
+
+li4     C0FE Àþ
+
+li4     C1A1 Á¡
+
+li4     C1A2 Á¢
+
+li4     C1A3 Á£
+
+li4     C1A4 Á¤
+
+li4     C1A5 Á¥
+
+li4     C1A6 Á¦
+
+li4     D8AA Øª*
+
+li4     D9B3 Ù³
+
+li4     DBAA Ûª
+
+li4     DBDE ÛÞ
+
+li4     DCC2 ÜÂ
+
+li4     DDB0 Ý°
+
+li4     DFBF ß¿
+
+li4     E0A6 à¦
+
+li4     E1FB áû
+
+li4     E4E0 äà
+
+li4     E8C0 èÀ
+
+li4     E8DD èÝ*
+
+li4     E9F6 éö
+
+li4     ECE5 ìå
+
+li4     EDC2 íÂ
+
+li4     EEBA îº
+
+li4     F0DD ðÝ
+
+li4     F0DF ðß
+
+li4     F2C3 òÃ
+
+li4     F3D2 óÒ
+
+li4     F3F6 óö
+
+li4     F4CF ôÏ
+
+li4     F5C8 õÈ*
+
+li4     F6A8 ö¨
+
+li5     C1A8 Á¨*
+
+lia3    C1A9 Á©*
+
+lian2   C1AA Áª
+
+lian2   C1AB Á«
+
+lian2   C1AC Á¬
+
+lian2   C1AD Á­
+
+lian2   C1AE Á®
+
+lian2   C1AF Á¯
+
+lian2   C1B0 Á°
+
+lian2   C1B1 Á±
+
+lian2   DEC6 ÞÆ
+
+lian2   E5A5 å¥
+
+lian2   ECA1 ì¡
+
+lian2   F1CD ñÍ
+
+lian2   F3B9 ó¹
+
+lian2   F6E3 öã
+
+lian3   C1B2 Á²
+
+lian3   C1B3 Á³
+
+lian3   DDFC Ýü
+
+lian3   E7F6 çö
+
+lian3   F1CF ñÏ
+
+lian4   C1B4 Á´
+
+lian4   C1B5 Áµ
+
+lian4   C1B6 Á¶
+
+lian4   C1B7 Á·
+
+lian4   E4F2 äò
+
+lian4   E9AC é¬
+
+lian4   E9E7 éç
+
+liang2  C1B8 Á¸
+
+liang2  C1B9 Á¹*
+
+liang2  C1BA Áº
+
+liang2  C1BB Á»
+
+liang2  C1BC Á¼
+
+liang2  C1BF Á¿*
+
+liang2  DCAE Ü®
+
+liang2  E9A3 é£
+
+liang2  F5D4 õÔ*
+
+liang3  C1A9 Á©*
+
+liang3  C1BD Á½
+
+liang3  F7CB ÷Ë
+
+liang4  C1B9 Á¹*
+
+liang4  C1BE Á¾
+
+liang4  C1BF Á¿*
+
+liang4  C1C0 ÁÀ
+
+liang4  C1C1 ÁÁ
+
+liang4  C1C2 ÁÂ
+
+liang4  F5D4 õÔ*
+
+liang4  F6A6 ö¦*
+
+liao1   C1C3 ÁÃ*
+
+liao2   C1C3 ÁÃ*
+
+liao2   C1C4 ÁÄ
+
+liao2   C1C5 ÁÅ
+
+liao2   C1C6 ÁÆ
+
+liao2   C1C7 ÁÇ*
+
+liao2   C1C8 ÁÈ
+
+liao2   C1C9 ÁÉ
+
+liao2   C1CA ÁÊ*
+
+liao2   E0DA àÚ
+
+liao2   E2B2 â²
+
+liao2   E5BC å¼
+
+liao2   E7D4 çÔ
+
+liao2   F0D3 ðÓ
+
+liao3   C1C7 ÁÇ*
+
+liao3   C1CB ÁË*
+
+liao3   DEA4 Þ¤
+
+liao3   EEC9 îÉ*
+
+liao4   C1CC ÁÌ
+
+liao4   C1CD ÁÍ
+
+liao4   C1CE ÁÎ
+
+liao4   C1CF ÁÏ
+
+liao4   DECD ÞÍ
+
+liao4   EEC9 îÉ*
+
+lie1    DFD6 ßÖ*
+
+lie3    C1D1 ÁÑ*
+
+lie3    DFD6 ßÖ*
+
+lie4    C1D0 ÁÐ
+
+lie4    C1D1 ÁÑ*
+
+lie4    C1D2 ÁÒ
+
+lie4    C1D3 ÁÓ
+
+lie4    C1D4 ÁÔ
+
+lie4    D9FD Ùý
+
+lie4    DBF8 Ûø
+
+lie4    DEE6 Þæ
+
+lie4    E4A3 ä£
+
+lie4    F4F3 ôó
+
+lie4    F5F1 õñ
+
+lie4    F7E0 ÷à
+
+lie5    DFD6 ßÖ*
+
+lin1    C1E0 Áà
+
+lin2    C1D5 ÁÕ
+
+lin2    C1D6 ÁÖ
+
+lin2    C1D7 Á×
+
+lin2    C1D8 ÁØ
+
+lin2    C1D9 ÁÙ
+
+lin2    C1DA ÁÚ
+
+lin2    C1DB ÁÛ
+
+lin2    C1DC ÁÜ*
+
+lin2    DFF8 ßø
+
+lin2    E1D7 á×
+
+lin2    E5E0 åà
+
+lin2    EAA5 ê¥
+
+lin2    EEAC î¬
+
+lin2    F4D4 ôÔ
+
+lin2    F7EB ÷ë
+
+lin3    C1DD ÁÝ
+
+lin3    E2DE âÞ
+
+lin3    E3C1 ãÁ
+
+lin3    E9DD éÝ
+
+lin4    C1DC ÁÜ*
+
+lin4    C1DE ÁÞ
+
+lin4    C1DF Áß
+
+lin4    DDFE Ýþ
+
+lin4    ECA2 ì¢
+
+lin4    F5EF õï
+
+ling2   C0E2 Àâ*
+
+ling2   C1E1 Áá
+
+ling2   C1E2 Áâ
+
+ling2   C1E3 Áã
+
+ling2   C1E4 Áä
+
+ling2   C1E5 Áå
+
+ling2   C1E6 Áæ
+
+ling2   C1E7 Áç
+
+ling2   C1E8 Áè
+
+ling2   C1E9 Áé
+
+ling2   C1EA Áê
+
+ling2   C1EE Áî*
+
+ling2   DBB9 Û¹
+
+ling2   DCDF Üß
+
+ling2   E0F2 àò
+
+ling2   E3F6 ãö
+
+ling2   E7B1 ç±
+
+ling2   E8DA èÚ
+
+ling2   E8F9 èù
+
+ling2   EAB2 ê²
+
+ling2   F1F6 ñö
+
+ling2   F2C8 òÈ
+
+ling2   F4E1 ôá
+
+ling2   F6EC öì
+
+ling3   C1EB Áë
+
+ling3   C1EC Áì
+
+ling3   C1EE Áî*
+
+ling4   C1ED Áí
+
+ling4   C1EE Áî*
+
+ling4   DFCA ßÊ
+
+liu1    C1EF Áï*
+
+liu1    ECD6 ìÖ
+
+liu2    C1F0 Áð
+
+liu2    C1F1 Áñ
+
+liu2    C1F2 Áò
+
+liu2    C1F3 Áó*
+
+liu2    C1F4 Áô
+
+liu2    C1F5 Áõ
+
+liu2    C1F6 Áö
+
+liu2    C1F7 Á÷
+
+liu2    E4AF ä¯
+
+liu2    E5DE åÞ*
+
+liu2    E6F2 æò
+
+liu2    ECBC ì¼
+
+liu2    EFD6 ïÖ*
+
+liu2    F6CC öÌ
+
+liu3    C1F8 Áø
+
+liu3    E7B8 ç¸
+
+liu3    EFB3 ï³
+
+liu4    C1EF Áï*
+
+liu4    C1F3 Áó*
+
+liu4    C1F9 Áù*
+
+liu4    C2B5 Âµ*
+
+liu4    C2BD Â½*
+
+liu4    E5DE åÞ*
+
+liu4    EFD6 ïÖ*
+
+liu4    F0D2 ðÒ
+
+lo5     BFA9 ¿©*
+
+long1   C2A1 Â¡*
+
+long2   C1FA Áú
+
+long2   C1FB Áû
+
+long2   C1FC Áü
+
+long2   C1FD Áý*
+
+long2   C1FE Áþ
+
+long2   C2A1 Â¡*
+
+long2   DCD7 Ü×
+
+long2   E3F1 ãñ*
+
+long2   E7E7 çç
+
+long2   E8D0 èÐ
+
+long2   EBCA ëÊ
+
+long2   EDC3 íÃ
+
+long2   F1AA ñª
+
+long3   C1FD Áý*
+
+long3   C2A2 Â¢
+
+long3   C2A3 Â£
+
+long3   C2A4 Â¤
+
+long3   DBE2 Ûâ
+
+long4   C5AA Åª*
+
+lou1    C2A7 Â§*
+
+lou2    C2A5 Â¥
+
+lou2    C2A6 Â¦
+
+lou2    D9CD ÙÍ*
+
+lou2    DDE4 Ýä
+
+lou2    E0B6 à¶*
+
+lou2    F1EF ñï
+
+lou2    F2F7 ò÷
+
+lou2    F7C3 ÷Ã
+
+lou3    C2A7 Â§*
+
+lou3    C2A8 Â¨
+
+lou3    E1D0 áÐ
+
+lou4    C2A9 Â©
+
+lou4    C2AA Âª
+
+lou4    C2B6 Â¶*
+
+lou4    EFCE ïÎ
+
+lou4    F0FC ðü
+
+lou5    E0B6 à¶*
+
+lu1     DFA3 ß£
+
+lu1     E0E0 àà
+
+lu2     C2AB Â«
+
+lu2     C2AC Â¬
+
+lu2     C2AD Â­
+
+lu2     C2AE Â®
+
+lu2     C2AF Â¯
+
+lu2     DBE4 Ûä
+
+lu2     E3F2 ãò
+
+lu2     E8D3 èÓ
+
+lu2     E9F1 éñ
+
+lu2     EBCD ëÍ
+
+lu2     F0B5 ðµ
+
+lu2     F4B5 ôµ
+
+lu2     F6D4 öÔ
+
+lu3     C2B0 Â°
+
+lu3     C2B1 Â±
+
+lu3     C2B2 Â²
+
+lu3     C2B3 Â³
+
+lu3     E9D6 éÖ
+
+lu3     EFE5 ïå
+
+lu4     C1F9 Áù*
+
+lu4     C2B4 Â´
+
+lu4     C2B5 Âµ*
+
+lu4     C2B6 Â¶*
+
+lu4     C2B7 Â·
+
+lu4     C2B8 Â¸
+
+lu4     C2B9 Â¹
+
+lu4     C2BA Âº
+
+lu4     C2BB Â»
+
+lu4     C2BC Â¼
+
+lu4     C2BD Â½*
+
+lu4     C2BE Â¾
+
+lu4     C2CC ÂÌ*
+
+lu4     E4CB äË
+
+lu4     E4F5 äõ
+
+lu4     E5D6 åÖ
+
+lu4     E8B4 è´
+
+lu4     E9FB éû
+
+lu4     EAA4 ê¤
+
+lu4     F0D8 ðØ
+
+lu4     F3FC óü
+
+lu5     EBAA ëª
+
+lu:2    C2BF Â¿
+
+lu:2    E3CC ãÌ
+
+lu:2    E9B5 éµ
+
+lu:3    C2C0 ÂÀ
+
+lu:3    C2C1 ÂÁ
+
+lu:3    C2C2 ÂÂ
+
+lu:3    C2C3 ÂÃ
+
+lu:3    C2C4 ÂÄ
+
+lu:3    C2C5 ÂÅ
+
+lu:3    C2C6 ÂÆ
+
+lu:3    D9CD ÙÍ*
+
+lu:3    DEDB ÞÛ*
+
+lu:3    EBF6 ëö
+
+lu:3    EFF9 ïù
+
+lu:3    F1DA ñÚ
+
+lu:4    C2C7 ÂÇ
+
+lu:4    C2C8 ÂÈ
+
+lu:4    C2C9 ÂÉ
+
+lu:4    C2CA ÂÊ*
+
+lu:4    C2CB ÂË
+
+lu:4    C2CC ÂÌ*
+
+luan2   C2CD ÂÍ
+
+luan2   C2CE ÂÎ
+
+luan2   C2CF ÂÏ
+
+luan2   C2D0 ÂÐ
+
+luan2   D9F5 Ùõ
+
+luan2   E6AE æ®
+
+luan2   E8EF èï
+
+luan2   F0BD ð½
+
+luan2   F6C7 öÇ
+
+luan3   C2D1 ÂÑ
+
+luan4   C2D2 ÂÒ
+
+lue:3   C2D3 ÂÓ*
+
+lue:4   C2D3 ÂÓ*
+
+lue:4   C2D4 ÂÔ
+
+lue:4   EFB2 ï²
+
+lun1    C2D5 ÂÕ*
+
+lun2    C2D5 ÂÕ*
+
+lun2    C2D6 ÂÖ
+
+lun2    C2D7 Â×
+
+lun2    C2D8 ÂØ
+
+lun2    C2D9 ÂÙ
+
+lun2    C2DA ÂÚ*
+
+lun2    C2DB ÂÛ*
+
+lun2    E0F0 àð
+
+lun4    C2DB ÂÛ*
+
+luo1    DEDB ÞÛ*
+
+luo2    C2DC ÂÜ
+
+luo2    C2DD ÂÝ
+
+luo2    C2DE ÂÞ
+
+luo2    C2DF Âß
+
+luo2    C2E0 Âà
+
+luo2    C2E1 Âá
+
+luo2    C2E2 Ââ
+
+luo2    E2A4 â¤
+
+luo2    E9A1 é¡
+
+luo2    EBE1 ëá
+
+luo2    EFDD ïÝ
+
+luo3    C2E3 Âã
+
+luo3    D9C0 ÙÀ
+
+luo3    D9F9 Ùù
+
+luo3    F1A7 ñ§
+
+luo4    C0D3 ÀÓ*
+
+luo4    C2E4 Âä*
+
+luo4    C2E5 Âå
+
+luo4    C2E6 Âæ
+
+luo4    C2E7 Âç*
+
+luo4    DCFD Üý
+
+luo4    DEFB Þû
+
+luo4    E3F8 ãø*
+
+luo4    E4F0 äð*
+
+luo4    E7F3 çó
+
+luo4    EDD1 íÑ*
+
+luo4    F5C8 õÈ*
+
+luo4    F6C3 öÃ
+
+m2      DFBC ß¼
+
+ma1     C2E8 Âè
+
+ma1     C2E9 Âé*
+
+ma1     C2EC Âì*
+
+ma1     C4A6 Ä¦*
+
+ma1     C4A8 Ä¨*
+
+ma2     C2E9 Âé*
+
+ma2     C2F0 Âð*
+
+ma2     F3A1 ó¡
+
+ma3     C2EA Âê
+
+ma3     C2EB Âë
+
+ma3     C2EC Âì*
+
+ma3     C2ED Âí
+
+ma3     C2F0 Âð*
+
+ma3     E1EF áï
+
+ma4     C2EC Âì*
+
+ma4     C2EE Âî
+
+ma4     DFE9 ßé
+
+ma4     E8BF è¿
+
+ma5     C2EF Âï
+
+ma5     C2F0 Âð*
+
+ma5     C3B4 Ã´*
+
+mai2    C2F1 Âñ*
+
+mai2    F6B2 ö²
+
+mai3    C2F2 Âò
+
+mai3    DDA4 Ý¤
+
+mai4    C2F3 Âó
+
+mai4    C2F4 Âô
+
+mai4    C2F5 Âõ
+
+mai4    C2F6 Âö*
+
+mai4    DBBD Û½
+
+man1    F2A9 ò©
+
+man2    C2F1 Âñ*
+
+man2    C2F7 Â÷
+
+man2    C2F8 Âø
+
+man2    C2F9 Âù
+
+man2    C2FB Âû*
+
+man2    C3A1 Ã¡*
+
+man2    F7A9 ÷©
+
+man2    F7B4 ÷´
+
+man3    C2FA Âú
+
+man3    F2FD òý
+
+man4    C2FB Âû*
+
+man4    C2FC Âü
+
+man4    C2FD Âý
+
+man4    C2FE Âþ
+
+man4    C3A1 Ã¡*
+
+man4    DCAC Ü¬
+
+man4    E1A3 á£
+
+man4    E7CF çÏ
+
+man4    ECD7 ì×
+
+man4    EFDC ïÜ
+
+mang2   C3A2 Ã¢
+
+mang2   C3A3 Ã£
+
+mang2   C3A4 Ã¤
+
+mang2   C3A5 Ã¥*
+
+mang2   C3A6 Ã¦
+
+mang2   DAF8 Úø
+
+mang2   EDCB íË
+
+mang3   C3A7 Ã§
+
+mang3   E4DD äÝ
+
+mang3   F2FE òþ
+
+mao1    C3A8 Ã¨*
+
+mao2    C3A8 Ã¨*
+
+mao2    C3A9 Ã©
+
+mao2    C3AA Ãª
+
+mao2    C3AB Ã«
+
+mao2    C3AC Ã¬
+
+mao2    DCE2 Üâ
+
+mao2    EAF3 êó
+
+mao2    ECB8 ì¸
+
+mao2    F2FA òú
+
+mao2    F3B1 ó±
+
+mao2    F7D6 ÷Ö
+
+mao3    C3AD Ã­
+
+mao3    C3AE Ã®
+
+mao3    E1B9 á¹
+
+mao3    E3F7 ã÷
+
+mao3    EAC4 êÄ
+
+mao4    C3AF Ã¯
+
+mao4    C3B0 Ã°*
+
+mao4    C3B1 Ã±
+
+mao4    C3B2 Ã²
+
+mao4    C3B3 Ã³
+
+mao4    D9F3 Ùó
+
+mao4    E8A3 è£
+
+mao4    EBA3 ë£
+
+mao4    EDAE í®
+
+mao4    EEA6 î¦
+
+me5     C3B4 Ã´*
+
+me5     F7E1 ÷á*
+
+mei2    C3B5 Ãµ
+
+mei2    C3B6 Ã¶
+
+mei2    C3B7 Ã·
+
+mei2    C3B8 Ã¸
+
+mei2    C3B9 Ã¹
+
+mei2    C3BA Ãº
+
+mei2    C3BB Ã»*
+
+mei2    C3BC Ã¼
+
+mei2    C3BD Ã½
+
+mei2    C3D3 ÃÓ*
+
+mei2    DDAE Ý®
+
+mei2    E1D2 áÒ
+
+mei2    E2AD â­
+
+mei2    E4D8 äØ
+
+mei2    E9B9 é¹
+
+mei2    EFD1 ïÑ
+
+mei2    F0CC ðÌ
+
+mei3    C3BE Ã¾
+
+mei3    C3BF Ã¿
+
+mei3    C3C0 ÃÀ
+
+mei3    E4BC ä¼
+
+mei4    C3C1 ÃÁ
+
+mei4    C3C2 ÃÂ
+
+mei4    C3C3 ÃÃ
+
+mei4    C3C4 ÃÄ
+
+mei4    C3D5 ÃÕ*
+
+mei4    F1C7 ñÇ
+
+mei4    F7C8 ÷È
+
+men1    C3C6 ÃÆ*
+
+men2    C3C5 ÃÅ
+
+men2    DED1 ÞÑ
+
+men2    EECD îÍ
+
+men4    C3C6 ÃÆ*
+
+men4    ECCB ìË
+
+men4    EDAF í¯
+
+men5    C3C7 ÃÇ
+
+meng1   C3C9 ÃÉ*
+
+meng2   C3A5 Ã¥*
+
+meng2   C3C8 ÃÈ
+
+meng2   C3C9 ÃÉ*
+
+meng2   C3CA ÃÊ
+
+meng2   C3CB ÃË
+
+meng2   DDF9 Ýù
+
+meng2   DEAB Þ«
+
+meng2   EBFC ëü
+
+meng2   EDE6 íæ
+
+meng2   F2B5 òµ
+
+meng2   F4BF ô¿
+
+meng3   C3C9 ÃÉ*
+
+meng3   C3CC ÃÌ
+
+meng3   C3CD ÃÍ
+
+meng3   DBC2 ÛÂ
+
+meng3   E3C2 ãÂ
+
+meng3   F2EC òì
+
+meng3   F3B7 ó·
+
+meng3   F4BB ô»
+
+meng4   C3CE ÃÎ
+
+meng4   C3CF ÃÏ
+
+mi1     C3D0 ÃÐ*
+
+mi1     DFE4 ßä
+
+mi2     C3D0 ÃÐ*
+
+mi2     C3D1 ÃÑ
+
+mi2     C3D2 ÃÒ*
+
+mi2     C3D3 ÃÓ*
+
+mi2     C3D4 ÃÔ
+
+mi2     C3D5 ÃÕ*
+
+mi2     C3D6 ÃÖ
+
+mi2     DEC2 ÞÂ
+
+mi2     E2A8 â¨
+
+mi2     ECF2 ìò
+
+mi2     F7E3 ÷ã
+
+mi2     F7E7 ÷ç
+
+mi3     C3D2 ÃÒ*
+
+mi3     C3D7 Ã×
+
+mi3     D8C2 ØÂ
+
+mi3     E5F4 åô
+
+mi3     EBDF ëß
+
+mi3     F4CD ôÍ
+
+mi4     C3D8 ÃØ*
+
+mi4     C3D9 ÃÙ
+
+mi4     C3DA ÃÚ*
+
+mi4     C3DB ÃÛ
+
+mi4     C3DC ÃÜ
+
+mi4     C3DD ÃÝ
+
+mi4     DAD7 Ú×
+
+mi4     E0D7 à×
+
+mi4     E3E8 ãè
+
+mi4     E5B5 åµ
+
+mi4     F4E9 ôé
+
+mian2   C3DE ÃÞ
+
+mian2   C3DF Ãß
+
+mian2   C3E0 Ãà
+
+mian3   C3E1 Ãá
+
+mian3   C3E2 Ãâ
+
+mian3   C3E3 Ãã
+
+mian3   C3E4 Ãä
+
+mian3   C3E5 Ãå
+
+mian3   E3E6 ãæ
+
+mian3   E4C5 äÅ*
+
+mian3   E4CF äÏ
+
+mian3   EBEF ëï
+
+mian3   EDED íí*
+
+mian3   F6BC ö¼*
+
+mian4   C3E6 Ãæ
+
+mian4   EDED íí*
+
+miao1   DFF7 ß÷
+
+miao2   C3E7 Ãç
+
+miao2   C3E8 Ãè
+
+miao2   C3E9 Ãé
+
+miao2   F0C5 ðÅ
+
+miao3   C3EA Ãê
+
+miao3   C3EB Ãë
+
+miao3   C3EC Ãì
+
+miao3   E5E3 åã
+
+miao3   E7BF ç¿
+
+miao3   E8C2 èÂ
+
+miao3   EDB5 íµ
+
+miao3   EDF0 íð
+
+miao4   C3ED Ãí
+
+miao4   C3EE Ãî
+
+miao4   E7D1 çÑ*
+
+mie1    D8BF Ø¿*
+
+mie1    DFE3 ßã
+
+mie4    C3EF Ãï
+
+mie4    C3F0 Ãð
+
+mie4    F3BA óº
+
+mie4    F3FA óú
+
+min2    C3F1 Ãñ
+
+min2    DCE5 Üå
+
+min2    E1BA áº
+
+min2    E7C5 çÅ
+
+min2    E7E4 çä
+
+min2    E7EB çë
+
+min3    C3F2 Ãò
+
+min3    C3F3 Ãó
+
+min3    C3F4 Ãô
+
+min3    C3F5 Ãõ
+
+min3    C3F6 Ãö
+
+min3    E3C9 ãÉ
+
+min3    E3FD ãý
+
+min3    EDAA íª
+
+min3    F6BC ö¼*
+
+min3    F7AA ÷ª
+
+ming2   C3F7 Ã÷
+
+ming2   C3F8 Ãø
+
+ming2   C3F9 Ãù
+
+ming2   C3FA Ãú
+
+ming2   C3FB Ãû
+
+ming2   DAA4 Ú¤
+
+ming2   DCF8 Üø
+
+ming2   E4E9 äé
+
+ming2   EAD4 êÔ
+
+ming2   EEA8 î¨
+
+ming3   F5A4 õ¤
+
+ming4   C3FC Ãü
+
+miu4    C3FD Ãý
+
+miu4    E7D1 çÑ*
+
+mo1     C3FE Ãþ
+
+mo2     C4A1 Ä¡
+
+mo2     C4A2 Ä¢
+
+mo2     C4A3 Ä£*
+
+mo2     C4A4 Ä¤
+
+mo2     C4A5 Ä¥*
+
+mo2     C4A6 Ä¦*
+
+mo2     C4A7 Ä§
+
+mo2     CEDE ÎÞ*
+
+mo2     DAD3 ÚÓ
+
+mo2     E2C9 âÉ
+
+mo2     E6C6 æÆ
+
+mo2     E6D6 æÖ
+
+mo2     F7E1 ÷á*
+
+mo3     C4A8 Ä¨*
+
+mo4     BAD9 ºÙ*
+
+mo4     C2F6 Âö*
+
+mo4     C3B0 Ã°*
+
+mo4     C3BB Ã»*
+
+mo4     C4A5 Ä¥*
+
+mo4     C4A8 Ä¨*
+
+mo4     C4A9 Ä©
+
+mo4     C4AA Äª
+
+mo4     C4AB Ä«
+
+mo4     C4AC Ä¬
+
+mo4     C4AD Ä­
+
+mo4     C4AE Ä®
+
+mo4     C4AF Ä¯
+
+mo4     C4B0 Ä°
+
+mo4     CDF2 Íò*
+
+mo4     DCD4 ÜÔ
+
+mo4     DDEB Ýë
+
+mo4     E9E2 éâ
+
+mo4     EFD2 ïÒ
+
+mo4     EFF7 ï÷
+
+mo4     F1A2 ñ¢
+
+mo4     F1F2 ñò
+
+mo4     F5F6 õö
+
+mo4     F5F8 õø
+
+mou1    DFE8 ßè
+
+mou2    C4B1 Ä±
+
+mou2    C4B2 Ä²*
+
+mou2    D9B0 Ù°
+
+mou2    E7D1 çÑ*
+
+mou2    EDF8 íø
+
+mou2    F2D6 òÖ
+
+mou2    F6CA öÊ
+
+mou3    C4B3 Ä³
+
+mu2     C4A3 Ä£*
+
+mu2     EBA4 ë¤
+
+mu3     C0D1 ÀÑ*
+
+mu3     C4B4 Ä´
+
+mu3     C4B5 Äµ
+
+mu3     C4B6 Ä¶
+
+mu3     C4B7 Ä·
+
+mu3     C4B8 Ä¸
+
+mu3     DBE9 Ûé
+
+mu4     C4B2 Ä²*
+
+mu4     C4B9 Ä¹
+
+mu4     C4BA Äº
+
+mu4     C4BB Ä»
+
+mu4     C4BC Ä¼
+
+mu4     C4BD Ä½
+
+mu4     C4BE Ä¾
+
+mu4     C4BF Ä¿
+
+mu4     C4C0 ÄÀ
+
+mu4     C4C1 ÄÁ
+
+mu4     C4C2 ÄÂ
+
+mu4     D8EF Øï
+
+mu4     DCD9 ÜÙ
+
+mu4     E3E5 ãå
+
+mu4     EEE2 îâ
+
+n2      E0C5 àÅ*
+
+n3      E0C5 àÅ*
+
+n4      E0C5 àÅ*
+
+na1     C4C7 ÄÇ*
+
+na1     C4CF ÄÏ*
+
+na2     C4C3 ÄÃ
+
+na2     EFD5 ïÕ
+
+na3     C4C4 ÄÄ*
+
+na4     C4C5 ÄÅ
+
+na4     C4C6 ÄÆ
+
+na4     C4C7 ÄÇ*
+
+na4     C4C8 ÄÈ*
+
+na4     C4C9 ÄÉ
+
+na4     DEE0 Þà
+
+na4     EBC7 ëÇ
+
+na4     F1C4 ñÄ
+
+na5     C4C4 ÄÄ*
+
+nai3    C4CA ÄÊ
+
+nai3    C4CB ÄË
+
+nai3    C4CC ÄÌ
+
+nai3    DCB5 Üµ
+
+nai4    C4CD ÄÍ
+
+nai4    C4CE ÄÎ
+
+nai4    D8BE Ø¾
+
+nai4    D9A6 Ù¦*
+
+nai4    DDC1 ÝÁ
+
+nai4    E8CD èÍ
+
+nan1    E0EE àî*
+
+nan1    E0EF àï
+
+nan2    C4CF ÄÏ*
+
+nan2    C4D0 ÄÐ
+
+nan2    C4D1 ÄÑ*
+
+nan2    E0AB à«
+
+nan2    E9AA éª
+
+nan3    EBEE ëî
+
+nan3    F2EF òï
+
+nan3    F4F6 ôö
+
+nan4    C4D1 ÄÑ*
+
+nang1   C4D2 ÄÒ*
+
+nang1   E0EC àì
+
+nang2   C4D2 ÄÒ*
+
+nang2   E2CE âÎ*
+
+nang3   DFAD ß­
+
+nang3   E2CE âÎ*
+
+nang3   EAD9 êÙ
+
+nao1    D8AB Ø«
+
+nao2    C4D3 ÄÓ
+
+nao2    DFCE ßÎ
+
+nao2    E2AE â®
+
+nao2    EDD0 íÐ
+
+nao2    EEF3 îó
+
+nao2    F2CD òÍ
+
+nao3    C4D4 ÄÔ
+
+nao3    C4D5 ÄÕ
+
+nao3    DBF1 Ûñ
+
+nao3    E8A7 è§
+
+nao4    C4D6 ÄÖ
+
+nao4    C4D7 Ä×
+
+ne2     C4C4 ÄÄ*
+
+ne4     DAAB Ú«
+
+ne5     C4D8 ÄØ*
+
+nei3    C4C4 ÄÄ*
+
+nei3    C4D9 ÄÙ
+
+nei4    C4C7 ÄÇ*
+
+nei4    C4DA ÄÚ
+
+nen4    C4DB ÄÛ
+
+nen4    EDA5 í¥
+
+neng2   C4DC ÄÜ
+
+ng2     DFED ßí*
+
+ng2     E0C5 àÅ*
+
+ng3     E0C5 àÅ*
+
+ng4     E0C5 àÅ*
+
+ni1     C4DD ÄÝ
+
+ni2     C4D8 ÄØ*
+
+ni2     C4DE ÄÞ
+
+ni2     C4DF Äß
+
+ni2     C4E0 Äà*
+
+ni2     C4E1 Äá
+
+ni2     DBE8 Ûè
+
+ni2     E2A5 â¥
+
+ni2     E2F5 âõ
+
+ni2     EEEA îê
+
+ni2     F6F2 öò
+
+ni3     C4E2 Äâ
+
+ni3     C4E3 Äã
+
+ni3     ECBB ì»
+
+ni4     C4E0 Äà*
+
+ni4     C4E4 Ää
+
+ni4     C4E5 Äå
+
+ni4     C4E6 Äæ
+
+ni4     C4E7 Äç*
+
+ni4     D9A3 Ù£
+
+ni4     EAC7 êÇ
+
+ni4     EDFE íþ
+
+nian1   C4E8 Äè
+
+nian1   C4E9 Äé
+
+nian2   C4EA Äê
+
+nian2   D5B3 Õ³*
+
+nian2   F0A4 ð¤
+
+nian2   F6D3 öÓ
+
+nian2   F6F3 öó
+
+nian3   C4EB Äë
+
+nian3   C4EC Äì
+
+nian3   C4ED Äí
+
+nian3   E9FD éý
+
+nian4   C4EE Äî
+
+nian4   D8A5 Ø¥
+
+nian4   DBFE Ûþ
+
+niang2  C4EF Äï
+
+niang4  C4F0 Äð
+
+niao3   C4F1 Äñ*
+
+niao3   DCE0 Üà
+
+niao3   E6D5 æÕ
+
+niao3   F4C1 ôÁ
+
+niao4   C4E7 Äç*
+
+niao4   C4F2 Äò*
+
+niao4   EBE5 ëå
+
+nie1    C4F3 Äó
+
+nie4    C4F4 Äô
+
+nie4    C4F5 Äõ
+
+nie4    C4F6 Äö
+
+nie4    C4F7 Ä÷
+
+nie4    C4F8 Äø
+
+nie4    C4F9 Äù
+
+nie4    D8BF Ø¿*
+
+nie4    DAED Úí
+
+nie4    DEC1 ÞÁ
+
+nie4    E0BF à¿
+
+nie4    F2A8 ò¨
+
+nie4    F4AB ô«
+
+nie4    F5E6 õæ
+
+nin2    C4FA Äú
+
+ning2   C4FB Äû
+
+ning2   C4FC Äü
+
+ning2   C4FD Äý
+
+ning2   C4FE Äþ*
+
+ning2   C5A1 Å¡*
+
+ning2   DFCC ßÌ
+
+ning2   E5B8 å¸
+
+ning2   F1F7 ñ÷
+
+ning3   C5A1 Å¡*
+
+ning4   C4FE Äþ*
+
+ning4   C5A1 Å¡*
+
+ning4   C5A2 Å¢
+
+ning4   D8FA Øú
+
+niu1    E6A4 æ¤
+
+niu2    C5A3 Å£
+
+niu3    C5A4 Å¤
+
+niu3    C5A5 Å¥
+
+niu3    C5A6 Å¦
+
+niu3    E1F0 áð
+
+niu3    E2EE âî
+
+niu4    DED6 ÞÖ*
+
+nong2   C5A7 Å§
+
+nong2   C5A8 Å¨
+
+nong2   C5A9 Å©
+
+nong2   D9AF Ù¯
+
+nong2   DFE6 ßæ
+
+nong4   C5AA Åª*
+
+nou4    F1F1 ññ
+
+nu2     C5AB Å«
+
+nu2     E6DB æÛ
+
+nu2     E6E5 æå
+
+nu3     C5AC Å¬
+
+nu3     E5F3 åó
+
+nu3     E6C0 æÀ
+
+nu4     C5AD Å­
+
+nu:3    C5AE Å®
+
+nu:3    EECF îÏ
+
+nu:4    EDA4 í¤
+
+nu:4    F4AC ô¬
+
+nuan3   C5AF Å¯
+
+nue:4   C5B0 Å°
+
+nue:4   C5B1 Å±*
+
+nuo2    C4C8 ÄÈ*
+
+nuo2    C5B2 Å²
+
+nuo2    D9D0 ÙÐ
+
+nuo4    C5B3 Å³
+
+nuo4    C5B4 Å´
+
+nuo4    C5B5 Åµ
+
+nuo4    DEF9 Þù
+
+nuo4    DFF6 ßö*
+
+nuo4    EFBB ï»
+
+o1      E0B8 à¸*
+
+o1      E0DE àÞ
+
+o2      C5B6 Å¶*
+
+o4      C5B6 Å¶*
+
+ou1     C5B7 Å·
+
+ou1     C5B8 Å¸
+
+ou1     C5B9 Å¹
+
+ou1     C5BD Å½*
+
+ou1     C7F8 Çø*
+
+ou1     DAA9 Ú©
+
+ou1     EAB1 ê±
+
+ou3     C5BA Åº
+
+ou3     C5BB Å»
+
+ou3     C5BC Å¼
+
+ou3     F1EE ñî
+
+ou4     C5BD Å½*
+
+ou4     E2E6 âæ
+
+pa1     C5BE Å¾
+
+pa1     C5BF Å¿
+
+pa1     C5C9 ÅÉ*
+
+pa1     DDE2 Ýâ
+
+pa2     B0C7 °Ç*
+
+pa2     B0D2 °Ò*
+
+pa2     C5C0 ÅÀ
+
+pa2     C5C3 ÅÃ
+
+pa2     E8CB èË
+
+pa2     EED9 îÙ*
+
+pa2     F3E1 óá
+
+pa4     C5C1 ÅÁ
+
+pa4     C5C2 ÅÂ
+
+pai1    C5C4 ÅÄ
+
+pai2    C5C5 ÅÅ*
+
+pai2    C5C6 ÅÆ
+
+pai2    C5C7 ÅÇ
+
+pai2    D9BD Ù½
+
+pai3    C5C5 ÅÅ*
+
+pai3    C6C8 ÆÈ*
+
+pai4    C5C8 ÅÈ
+
+pai4    C5C9 ÅÉ*
+
+pai4    DDE5 Ýå
+
+pai4    DFDF ßß
+
+pan1    B7AC ·¬*
+
+pan1    C5CA ÅÊ
+
+pan1    C5CB ÅË
+
+pan2    C5CC ÅÌ
+
+pan2    C5CD ÅÍ
+
+pan2    C5D6 ÅÖ*
+
+pan2    E3DD ãÝ
+
+pan2    F3B4 ó´
+
+pan2    F5E7 õç
+
+pan4    C5CE ÅÎ
+
+pan4    C5CF ÅÏ
+
+pan4    C5D0 ÅÐ
+
+pan4    C5D1 ÅÑ
+
+pan4    DED5 ÞÕ*
+
+pan4    E3FA ãú
+
+pan4    F1C8 ñÈ
+
+pan4    F1E1 ñá
+
+pang1   B0F2 °ò*
+
+pang1   C5D2 ÅÒ
+
+pang1   E4E8 äè
+
+pang2   B0F2 °ò*
+
+pang2   B0F5 °õ*
+
+pang2   C5D3 ÅÓ
+
+pang2   C5D4 ÅÔ
+
+pang2   E1DD áÝ*
+
+pang2   E5CC åÌ
+
+pang2   F3A6 ó¦
+
+pang3   C5D5 ÅÕ
+
+pang4   C5D6 ÅÖ*
+
+pao1    C5D7 Å×
+
+pao1    C5DD ÅÝ*
+
+pao1    EBE3 ëã
+
+pao2    C5D8 ÅØ
+
+pao2    C5D9 ÅÙ*
+
+pao2    C5DA ÅÚ*
+
+pao2    C5DB ÅÛ
+
+pao2    C5DC ÅÜ*
+
+pao2    DECB ÞË
+
+pao2    E1F3 áó
+
+pao2    E2D2 âÒ
+
+pao3    C5DC ÅÜ*
+
+pao4    C5DA ÅÚ*
+
+pao4    C5DD ÅÝ*
+
+pao4    F0E5 ðå
+
+pei1    C5DE ÅÞ
+
+pei1    C5DF Åß
+
+pei1    F5AC õ¬
+
+pei2    C5E0 Åà
+
+pei2    C5E1 Åá
+
+pei2    C5E2 Åâ
+
+pei2    C5E3 Åã
+
+pei2    EFC2 ïÂ
+
+pei4    C5E4 Åä
+
+pei4    C5E5 Åå
+
+pei4    C5E6 Åæ
+
+pei4    E0CE àÎ
+
+pei4    E0FA àú
+
+pei4    ECB7 ì·
+
+pei4    F6AC ö¬
+
+pen1    C5E7 Åç*
+
+pen2    C5E8 Åè
+
+pen2    E4D4 äÔ
+
+pen4    C5E7 Åç*
+
+peng1   C5E9 Åé
+
+peng1   C5EA Åê
+
+peng1   C5EB Åë
+
+peng1   C5EC Åì*
+
+peng1   E0D8 àØ
+
+peng1   E2F1 âñ
+
+peng2   C5EC Åì*
+
+peng2   C5ED Åí
+
+peng2   C5EE Åî
+
+peng2   C5EF Åï
+
+peng2   C5F0 Åð
+
+peng2   C5F1 Åñ
+
+peng2   C5F2 Åò
+
+peng2   C5F3 Åó
+
+peng2   C5F4 Åô
+
+peng2   DCA1 Ü¡
+
+peng2   F3B2 ó²
+
+peng3   C5F5 Åõ
+
+peng4   C5F6 Åö
+
+pi1     BBB5 »µ*
+
+pi1     C5F7 Å÷
+
+pi1     C5F8 Åø
+
+pi1     C5F9 Åù
+
+pi1     C5FA Åú
+
+pi1     C5FB Åû
+
+pi1     C5FC Åü*
+
+pi1     D8A7 Ø§
+
+pi1     DAFC Úü
+
+pi1     E0E8 àè
+
+pi1     E7A2 ç¢
+
+pi1     EEEB îë
+
+pi2     C5FD Åý
+
+pi2     C5FE Åþ
+
+pi2     C6A1 Æ¡
+
+pi2     C6A2 Æ¢
+
+pi2     C6A3 Æ£
+
+pi2     C6A4 Æ¤
+
+pi2     DAE9 Úé*
+
+pi2     DAF0 Úð
+
+pi2     DBAF Û¯
+
+pi2     DBFD Ûý*
+
+pi2     DCB1 Ü±
+
+pi2     DCC5 ÜÅ
+
+pi2     E8C1 èÁ
+
+pi2     EEBC î¼
+
+pi2     F1D4 ñÔ*
+
+pi2     F2B7 ò·
+
+pi2     F2E7 òç
+
+pi2     F5F9 õù
+
+pi3     B7F1 ·ñ*
+
+pi3     C5FC Åü*
+
+pi3     C6A5 Æ¥
+
+pi3     C6A6 Æ¦
+
+pi3     D8F2 Øò
+
+pi3     DBDC ÛÜ
+
+pi3     DFA8 ß¨
+
+pi3     DFC1 ßÁ*
+
+pi3     E2CF âÏ
+
+pi3     F1B1 ñ±
+
+pi3     F1E2 ñâ*
+
+pi4     B1D9 ±Ù*
+
+pi4     C6A7 Æ§
+
+pi4     C6A8 Æ¨
+
+pi4     C6A9 Æ©
+
+pi4     DBFD Ûý*
+
+pi4     E4C4 äÄ
+
+pi4     E6C7 æÇ
+
+pi4     EAB6 ê¶
+
+pi4     EEA2 î¢*
+
+pian1   B1E2 ±â*
+
+pian1   C6AA Æª
+
+pian1   C6AB Æ«
+
+pian1   C6AC Æ¬*
+
+pian1   EAFA êú
+
+pian1   F4E6 ôæ
+
+pian2   B1E3 ±ã*
+
+pian2   E6E9 æé
+
+pian2   E7C2 çÂ*
+
+pian2   EBDD ëÝ
+
+pian2   F5E4 õä
+
+pian3   DAD2 ÚÒ
+
+pian4   C6AC Æ¬*
+
+pian4   C6AD Æ­
+
+piao1   C6AE Æ®
+
+piao1   C6AF Æ¯*
+
+piao1   D8E2 Øâ
+
+piao1   E7CE çÎ*
+
+piao1   F3AA óª
+
+piao2   C6B0 Æ°
+
+piao2   C6D3 ÆÓ*
+
+piao2   E6CE æÎ
+
+piao3   C6AF Æ¯*
+
+piao3   DDB3 Ý³*
+
+piao3   E7CE çÎ*
+
+piao3   E9E8 éè
+
+piao3   EEA9 î©
+
+piao4   C6AF Æ¯*
+
+piao4   C6B1 Æ±
+
+piao4   E0D1 àÑ
+
+piao4   E6F4 æô*
+
+pie1    C6B2 Æ²*
+
+pie1    C6B3 Æ³
+
+pie1    EBAD ë­
+
+pie3    C6B2 Æ²*
+
+pie3    DCD6 ÜÖ
+
+pin1    C6B4 Æ´
+
+pin1    DED5 ÞÕ*
+
+pin1    E6B0 æ°
+
+pin2    C6B5 Æµ
+
+pin2    C6B6 Æ¶
+
+pin2    E6C9 æÉ
+
+pin2    F2AD ò­
+
+pin3    C6B7 Æ·
+
+pin3    E9AF é¯
+
+pin4    C6B8 Æ¸
+
+pin4    EAF2 êò
+
+ping1   C6B9 Æ¹
+
+ping1   D9B7 Ù·
+
+ping1   E6B3 æ³
+
+ping2   C6BA Æº
+
+ping2   C6BB Æ»
+
+ping2   C6BC Æ¼
+
+ping2   C6BD Æ½
+
+ping2   C6BE Æ¾
+
+ping2   C6BF Æ¿
+
+ping2   C6C0 ÆÀ
+
+ping2   C6C1 ÆÁ*
+
+ping2   E8D2 èÒ
+
+ping2   F6D2 öÒ
+
+po1     B2B4 ²´*
+
+po1     C6C2 ÆÂ
+
+po1     C6C3 ÆÃ
+
+po1     C6C4 ÆÄ
+
+po1     C6D3 ÆÓ*
+
+po1     DAE9 Úé*
+
+po1     E3F8 ãø*
+
+po1     EAB7 ê·
+
+po1     EEC7 îÇ
+
+po2     B7B1 ·±*
+
+po2     C6C5 ÆÅ
+
+po2     DBB6 Û¶
+
+po2     F0AB ð«
+
+po3     D8CF ØÏ
+
+po3     EEDE îÞ
+
+po3     F3CD óÍ
+
+po4     C6C6 ÆÆ
+
+po4     C6C7 ÆÇ*
+
+po4     C6C8 ÆÈ*
+
+po4     C6C9 ÆÉ
+
+po4     C6D3 ÆÓ*
+
+po4     E7EA çê
+
+pou1    C6CA ÆÊ
+
+pou2    D9F6 Ùö
+
+pou2    DEE5 Þå*
+
+pou3    DEE5 Þå*
+
+pu1     C6CB ÆË
+
+pu1     C6CC ÆÌ*
+
+pu1     C6CD ÆÍ*
+
+pu1     E0DB àÛ
+
+pu2     B8AC ¸¬*
+
+pu2     C6CD ÆÍ*
+
+pu2     C6CE ÆÎ
+
+pu2     C6CF ÆÏ
+
+pu2     C6D0 ÆÐ
+
+pu2     C6D1 ÆÑ
+
+pu2     D9E9 Ùé
+
+pu2     E5A7 å§
+
+pu2     E8B1 è±
+
+pu2     EFE4 ïä
+
+pu3     C6D2 ÆÒ*
+
+pu3     C6D3 ÆÓ*
+
+pu3     C6D4 ÆÔ
+
+pu3     C6D5 ÆÕ
+
+pu3     C6D6 ÆÖ
+
+pu3     C6D7 Æ×
+
+pu3     E4DF äß
+
+pu3     EBAB ë«
+
+pu3     EFE8 ïè
+
+pu3     F5EB õë
+
+pu4     B1A4 ±¤*
+
+pu4     B1A9 ±©*
+
+pu4     C6CC ÆÌ*
+
+pu4     C6D8 ÆØ*
+
+pu4     C6D9 ÆÙ*
+
+qi1     BCA9 ¼©*
+
+qi1     C6DA ÆÚ*
+
+qi1     C6DB ÆÛ
+
+qi1     C6DC ÆÜ*
+
+qi1     C6DD ÆÝ
+
+qi1     C6DE ÆÞ*
+
+qi1     C6DF Æß
+
+qi1     C6E0 Æà
+
+qi1     C6E1 Æá*
+
+qi1     C6E2 Æâ
+
+qi1     C6E3 Æã
+
+qi1     DDC2 ÝÂ
+
+qi1     E0D2 àÒ
+
+qi1     E8E7 èç
+
+qi1     ECA5 ì¥*
+
+qi1     F5E8 õè*
+
+qi2     C6E4 Æä*
+
+qi2     C6E5 Æå
+
+qi2     C6E6 Ææ*
+
+qi2     C6E7 Æç
+
+qi2     C6E8 Æè
+
+qi2     C6E9 Æé
+
+qi2     C6EA Æê
+
+qi2     C6EB Æë*
+
+qi2     C6EC Æì
+
+qi2     C6ED Æí
+
+qi2     C6EE Æî
+
+qi2     C6EF Æï
+
+qi2     D8C1 ØÁ
+
+qi2     D9B9 Ù¹*
+
+qi2     DBDF Ûß
+
+qi2     DCCE ÜÎ
+
+qi2     DDBD Ý½
+
+qi2     DEAD Þ­
+
+qi2     E1AA áª
+
+qi2     E4BF ä¿
+
+qi2     E6EB æë
+
+qi2     E7F7 ç÷
+
+qi2     E7F9 çù
+
+qi2     EAC8 êÈ
+
+qi2     ECF7 ì÷
+
+qi2     F1FD ñý
+
+qi2     F2D3 òÓ
+
+qi2     F2E0 òà
+
+qi2     F4EB ôë
+
+qi2     F7A2 ÷¢
+
+qi2     F7E8 ÷è
+
+qi3     BBFC »ü*
+
+qi3     C6F0 Æð
+
+qi3     C6F1 Æñ
+
+qi3     C6F2 Æò
+
+qi3     C6F3 Æó
+
+qi3     C6F4 Æô
+
+qi3     DCBB Ü»
+
+qi3     E1A8 á¨
+
+qi3     E7B2 ç²
+
+qi3     E8BD è½
+
+qi3     F4EC ôì*
+
+qi4     C6DE ÆÞ*
+
+qi4     C6F5 Æõ
+
+qi4     C6F6 Æö
+
+qi4     C6F7 Æ÷
+
+qi4     C6F8 Æø
+
+qi4     C6F9 Æù
+
+qi4     C6FA Æú
+
+qi4     C6FB Æû
+
+qi4     C6FC Æü*
+
+qi4     C6FD Æý
+
+qi4     D8BD Ø½*
+
+qi4     DDDD ÝÝ
+
+qi4     E3E0 ãà
+
+qi4     E9CA éÊ
+
+qi4     EDAC í¬
+
+qi4     EDD3 íÓ
+
+qi5     DCF9 Üù*
+
+qia1    C6FE Æþ
+
+qia1    DDD6 ÝÖ
+
+qia1    F1CA ñÊ*
+
+qia3    BFA8 ¿¨*
+
+qia4    C7A1 Ç¡
+
+qia4    C7A2 Ç¢
+
+qia4    F7C4 ÷Ä
+
+qian1   C7A3 Ç£
+
+qian1   C7A4 Ç¤
+
+qian1   C7A5 Ç¥
+
+qian1   C7A6 Ç¦*
+
+qian1   C7A7 Ç§
+
+qian1   C7A8 Ç¨
+
+qian1   C7A9 Ç©
+
+qian1   C7AA Çª
+
+qian1   C7AB Ç«
+
+qian1   D9DD ÙÝ
+
+qian1   DAE4 Úä
+
+qian1   DCB7 Ü·
+
+qian1   E1A9 á©
+
+qian1   E3A5 ã¥
+
+qian1   E5B9 å¹
+
+qian1   E5BA åº
+
+qian1   E5BD å½
+
+qian1   EDA9 í©
+
+qian2   C7AC Ç¬*
+
+qian2   C7AD Ç­
+
+qian2   C7AE Ç®
+
+qian2   C7AF Ç¯
+
+qian2   C7B0 Ç°
+
+qian2   C7B1 Ç±
+
+qian2   DDA1 Ý¡*
+
+qian2   DEE7 Þç
+
+qian2   EAF9 êù*
+
+qian2   EED4 îÔ
+
+qian2   F2AF ò¯
+
+qian2   F3E9 óé
+
+qian3   C7B2 Ç²
+
+qian3   C7B3 Ç³*
+
+qian3   C7B4 Ç´
+
+qian3   E7D7 ç×
+
+qian3   EBC9 ëÉ
+
+qian4   C7B5 Çµ
+
+qian4   C7B6 Ç¶*
+
+qian4   C7B7 Ç·
+
+qian4   C7B8 Ç¸
+
+qian4   CFCB ÏË*
+
+qian4   D9BB Ù»
+
+qian4   DCCD ÜÍ
+
+qian4   DCE7 Üç*
+
+qian4   E3BB ã»*
+
+qian4   E8FD èý
+
+qiang1  C7B9 Ç¹
+
+qiang1  C7BA Çº*
+
+qiang1  C7BB Ç»
+
+qiang1  C7BC Ç¼
+
+qiang1  C7C0 ÇÀ*
+
+qiang1  E3DE ãÞ
+
+qiang1  EAA8 ê¨*
+
+qiang1  EFBA ïº
+
+qiang1  EFCF ïÏ
+
+qiang1  EFEA ïê*
+
+qiang1  F2DE òÞ
+
+qiang1  F5C4 õÄ*
+
+qiang2  C7BD Ç½
+
+qiang2  C7BE Ç¾
+
+qiang2  C7BF Ç¿*
+
+qiang2  E6CD æÍ
+
+qiang2  E9C9 éÉ
+
+qiang3  C7C0 ÇÀ*
+
+qiang3  EFEA ïê*
+
+qiang3  F1DF ñß
+
+qiang3  F4C7 ôÇ
+
+qiang4  C7BA Çº*
+
+qiang4  EAA8 ê¨*
+
+qiang4  ECC1 ìÁ
+
+qiang4  F5C4 õÄ*
+
+qiao1   C7C1 ÇÁ
+
+qiao1   C7C2 ÇÂ
+
+qiao1   C7C3 ÇÃ
+
+qiao1   C7C4 ÇÄ*
+
+qiao1   C8B8 È¸*
+
+qiao1   D8E4 Øä
+
+qiao1   E7D8 çØ*
+
+qiao1   EDCD íÍ
+
+qiao1   F5CE õÎ
+
+qiao2   C7C5 ÇÅ
+
+qiao2   C7C6 ÇÆ
+
+qiao2   C7C7 ÇÇ
+
+qiao2   C7C8 ÇÈ
+
+qiao2   C7CC ÇÌ*
+
+qiao2   DADB ÚÛ
+
+qiao2   DCF1 Üñ
+
+qiao2   E1BD á½*
+
+qiao2   E3BE ã¾
+
+qiao2   E9D4 éÔ
+
+qiao2   F7B3 ÷³
+
+qiao3   C7C4 ÇÄ*
+
+qiao3   C7C9 ÇÉ
+
+qiao3   C8B8 È¸*
+
+qiao3   E3B8 ã¸
+
+qiao4   BFC7 ¿Ç*
+
+qiao4   C7CA ÇÊ*
+
+qiao4   C7CB ÇË
+
+qiao4   C7CC ÇÌ*
+
+qiao4   C7CD ÇÍ
+
+qiao4   C7CE ÇÎ
+
+qiao4   C7CF ÇÏ
+
+qiao4   DABD Ú½
+
+qie1    C7D0 ÇÐ*
+
+qie2    C7D1 ÇÑ*
+
+qie3    C7D2 ÇÒ*
+
+qie4    C7D0 ÇÐ*
+
+qie4    C7D3 ÇÓ
+
+qie4    C7D4 ÇÔ
+
+qie4    DBA7 Û§
+
+qie4    E3AB ã«
+
+qie4    E3BB ã»*
+
+qie4    E6AA æª
+
+qie4    EAFC êü
+
+qie4    EFC6 ïÆ
+
+qie4    F3E6 óæ
+
+qie4    F4F2 ôò*
+
+qin1    C7D5 ÇÕ
+
+qin1    C7D6 ÇÖ
+
+qin1    C7D7 Ç×*
+
+qin1    F4C0 ôÀ
+
+qin2    C7D8 ÇØ
+
+qin2    C7D9 ÇÙ
+
+qin2    C7DA ÇÚ
+
+qin2    C7DB ÇÛ
+
+qin2    C7DC ÇÜ
+
+qin2    C7DD ÇÝ
+
+qin2    DCCB ÜË
+
+qin2    E0BA àº
+
+qin2    E0DF àß
+
+qin2    E2DB âÛ*
+
+qin2    E4DA äÚ*
+
+qin2    E9D5 éÕ
+
+qin2    F1E6 ñæ*
+
+qin2    F1FB ñû*
+
+qin2    F2FB òû
+
+qin3    C7DE ÇÞ
+
+qin3    EFB7 ï·
+
+qin4    C7DF Çß
+
+qin4    DEEC Þì
+
+qin4    DFC4 ßÄ
+
+qing1   C7E0 Çà
+
+qing1   C7E1 Çá
+
+qing1   C7E2 Çâ
+
+qing1   C7E3 Çã
+
+qing1   C7E4 Çä
+
+qing1   C7E5 Çå
+
+qing1   E0F5 àõ
+
+qing1   F2DF òß
+
+qing1   F6EB öë
+
+qing2   C7E6 Çæ
+
+qing2   C7E7 Çç
+
+qing2   C7E8 Çè
+
+qing2   C7E9 Çé
+
+qing2   E9D1 éÑ
+
+qing2   F7F4 ÷ô
+
+qing3   C7EA Çê
+
+qing3   C7EB Çë
+
+qing3   DCDC ÜÜ
+
+qing3   F4EC ôì*
+
+qing3   F6A5 ö¥
+
+qing4   C7D7 Ç×*
+
+qing4   C7EC Çì
+
+qing4   EDE0 íà
+
+qing4   F3C0 óÀ
+
+qing4   F3E4 óä
+
+qiong2  C7ED Çí
+
+qiong2  C7EE Çî
+
+qiong2  DAF6 Úö
+
+qiong2  DCE4 Üä
+
+qiong2  F1B7 ñ·
+
+qiong2  F2CB òË
+
+qiong2  F3CC óÌ
+
+qiong2  F5BC õ¼
+
+qiong2  F6C6 öÆ
+
+qiu1    B9EA ¹ê*
+
+qiu1    C7EF Çï
+
+qiu1    C7F0 Çð
+
+qiu1    C7F1 Çñ
+
+qiu1    E4D0 äÐ*
+
+qiu1    E9B1 é±
+
+qiu1    F2C7 òÇ
+
+qiu1    F6FA öú
+
+qiu2    B3F0 ³ð*
+
+qiu2    C7F2 Çò
+
+qiu2    C7F3 Çó
+
+qiu2    C7F4 Çô
+
+qiu2    C7F5 Çõ
+
+qiu2    C7F6 Çö
+
+qiu2    D9B4 Ù´
+
+qiu2    DBCF ÛÏ
+
+qiu2    E1EC áì
+
+qiu2    E5CF åÏ
+
+qiu2    E5D9 åÙ
+
+qiu2    EAE4 êä
+
+qiu2    F2B0 ò°
+
+qiu2    F2F8 òø*
+
+qiu2    F4C3 ôÃ
+
+qiu2    F7FC ÷ü
+
+qiu3    F4DC ôÜ
+
+qu1     C7F7 Ç÷
+
+qu1     C7F8 Çø*
+
+qu1     C7F9 Çù
+
+qu1     C7FA Çú*
+
+qu1     C7FB Çû
+
+qu1     C7FC Çü
+
+qu1     C7FD Çý
+
+qu1     DAB0 Ú°
+
+qu1     E1AB á«
+
+qu1     EAEF êï*
+
+qu1     ECEE ìî
+
+qu1     F2D0 òÐ
+
+qu1     F4F0 ôð
+
+qu1     F7F1 ÷ñ
+
+qu2     C7FE Çþ
+
+qu2     DBBE Û¾
+
+qu2     DEA1 Þ¡
+
+qu2     DEBE Þ¾
+
+qu2     E1E9 áé
+
+qu2     E8B3 è³
+
+qu2     EBAC ë¬
+
+qu2     EBD4 ëÔ
+
+qu2     EDE1 íá
+
+qu2     F0B6 ð¶
+
+qu2     F1B3 ñ³
+
+qu2     F3BD ó½
+
+qu2     F6C4 öÄ*
+
+qu3     C7FA Çú*
+
+qu3     C8A1 È¡
+
+qu3     C8A2 È¢
+
+qu3     C8A3 È£
+
+qu3     DCC4 ÜÄ*
+
+qu4     C8A4 È¤
+
+qu4     C8A5 È¥
+
+qu4     E3D6 ãÖ
+
+qu4     EAEF êï*
+
+qu5     D0E7 Ðç*
+
+quan1   C8A6 È¦*
+
+quan1   E3AA ãª
+
+quan2   C8A7 È§
+
+quan2   C8A8 È¨
+
+quan2   C8A9 È©
+
+quan2   C8AA Èª
+
+quan2   C8AB È«
+
+quan2   C8AC È¬
+
+quan2   C8AD È­
+
+quan2   DAB9 Ú¹
+
+quan2   DCF5 Üõ
+
+quan2   E9FA éú
+
+quan2   EEFD îý
+
+quan2   F2E9 òé
+
+quan2   F3DC óÜ
+
+quan2   F7DC ÷Ü
+
+quan3   C8AE È®
+
+quan3   E7B9 ç¹
+
+quan3   EEB0 î°
+
+quan4   C8AF È¯*
+
+quan4   C8B0 È°
+
+que1    C8B1 È±
+
+que1    C8B2 È²*
+
+que1    E3DA ãÚ*
+
+que2    C8B3 È³
+
+que4    C8B4 È´
+
+que4    C8B5 Èµ
+
+que4    C8B6 È¶
+
+que4    C8B7 È·
+
+que4    C8B8 È¸*
+
+que4    E3D7 ã×
+
+que4    E3DA ãÚ*
+
+que4    EDA8 í¨
+
+qun1    E5D2 åÒ
+
+qun2    C8B9 È¹
+
+qun2    C8BA Èº
+
+qun2    F7E5 ÷å*
+
+ran2    C8BB È»
+
+ran2    C8BC È¼
+
+ran2    F2C5 òÅ
+
+ran2    F7D7 ÷×
+
+ran3    C8BD È½
+
+ran3    C8BE È¾
+
+ran3    DCDB ÜÛ
+
+rang1   C8C2 ÈÂ*
+
+rang2   C8BF È¿
+
+rang2   ECFC ìü
+
+rang2   F0A6 ð¦
+
+rang3   C8C0 ÈÀ
+
+rang3   C8C1 ÈÁ
+
+rang3   C8C2 ÈÂ*
+
+rang4   C8C3 ÈÃ
+
+rao2    C8C4 ÈÄ
+
+rao2    DCE9 Üé
+
+rao2    E6AC æ¬*
+
+rao2    E8E3 èã
+
+rao3    C8C5 ÈÅ
+
+rao3    E6AC æ¬*
+
+rao5    C8C6 ÈÆ
+
+re3     C8C7 ÈÇ
+
+re3     C8F4 Èô*
+
+re3     DFF6 ßö*
+
+re4     C8C8 ÈÈ
+
+ren2    C8C9 ÈÉ
+
+ren2    C8CA ÈÊ
+
+ren2    C8CB ÈË
+
+ren2    C8CE ÈÎ*
+
+ren3    C8CC ÈÌ
+
+ren3    DCF3 Üó
+
+ren3    EFFE ïþ
+
+ren4    C8CD ÈÍ
+
+ren4    C8CE ÈÎ*
+
+ren4    C8CF ÈÏ
+
+ren4    C8D0 ÈÐ
+
+ren4    C8D1 ÈÑ
+
+ren4    C8D2 ÈÒ
+
+ren4    D8F0 Øð
+
+ren4    DDD8 ÝØ*
+
+ren4    E2BF â¿
+
+ren4    E9ED éí
+
+ren4    F1C5 ñÅ
+
+reng1   C8D3 ÈÓ
+
+reng2   C8D4 ÈÔ
+
+ri4     C8D5 ÈÕ
+
+rong2   C8D6 ÈÖ
+
+rong2   C8D7 È×
+
+rong2   C8D8 ÈØ
+
+rong2   C8D9 ÈÙ
+
+rong2   C8DA ÈÚ
+
+rong2   C8DB ÈÛ
+
+rong2   C8DC ÈÜ
+
+rong2   C8DD ÈÝ
+
+rong2   C8DE ÈÞ
+
+rong2   E1C9 áÉ
+
+rong2   E1F5 áõ
+
+rong2   E9C5 éÅ
+
+rong2   EBC0 ëÀ
+
+rong2   F2EE òî
+
+rong3   C8DF Èß
+
+rou2    C8E0 Èà
+
+rou2    C8E1 Èá
+
+rou2    F4DB ôÛ
+
+rou2    F5E5 õå
+
+rou2    F7B7 ÷·
+
+rou4    C8E2 Èâ
+
+ru2     C8E3 Èã
+
+ru2     C8E4 Èä
+
+ru2     C8E5 Èå
+
+ru2     C8E6 Èæ
+
+ru2     C8E7 Èç
+
+ru2     DEB8 Þ¸
+
+ru2     E0E9 àé
+
+ru2     E5A6 å¦
+
+ru2     EFA8 ï¨
+
+ru2     F1E0 ñà
+
+ru2     F2AC ò¬
+
+ru3     C8E8 Èè
+
+ru3     C8E9 Èé
+
+ru3     C8EA Èê
+
+ru4     C8EB Èë
+
+ru4     C8EC Èì
+
+ru4     DDEA Ýê
+
+ru4     E4B2 ä²
+
+ru4     E4E1 äá
+
+ru4     E7C8 çÈ
+
+ruan3   C8ED Èí
+
+ruan3   C8EE Èî
+
+ruan3   EBC3 ëÃ
+
+rui2    DEA8 Þ¨
+
+rui3    C8EF Èï
+
+rui4    C8F0 Èð
+
+rui4    C8F1 Èñ
+
+rui4    DCC7 ÜÇ
+
+rui4    E8C4 èÄ
+
+rui4    EEA3 î£
+
+rui4    F2B8 ò¸
+
+run4    C8F2 Èò
+
+run4    C8F3 Èó
+
+ruo4    C8F4 Èô*
+
+ruo4    C8F5 Èõ
+
+ruo4    D9BC Ù¼
+
+ruo4    F3E8 óè
+
+sa1     C8F6 Èö*
+
+sa1     CBBC Ë¼*
+
+sa1     D8ED Øí
+
+sa1     EAFD êý*
+
+sa3     C8F6 Èö*
+
+sa3     C8F7 È÷
+
+sa4     C8F8 Èø
+
+sa4     D8A6 Ø¦
+
+sa4     EBDB ëÛ
+
+sa4     ECAA ìª
+
+sai1    C8F9 Èù
+
+sai1    C8FA Èú
+
+sai1    C8FB Èû*
+
+sai1    CBBC Ë¼*
+
+sai1    E0E7 àç
+
+sai4    C8FB Èû*
+
+sai4    C8FC Èü
+
+san1    C8FD Èý
+
+san1    C8FE Èþ
+
+san1    EBA7 ë§
+
+san3    C9A1 É¡
+
+san3    C9A2 É¢*
+
+san3    E2CC âÌ
+
+san3    F4D6 ôÖ*
+
+san4    C9A2 É¢*
+
+sang1   C9A3 É£
+
+sang1   C9A5 É¥*
+
+sang3   C9A4 É¤
+
+sang3   DEFA Þú
+
+sang3   EDDF íß
+
+sang3   F2AA òª
+
+sang4   C9A5 É¥*
+
+sao1    C9A6 É¦
+
+sao1    C9A7 É§
+
+sao1    E7D2 çÒ
+
+sao1    E7D8 çØ*
+
+sao1    EBFD ëý*
+
+sao1    F6FE öþ
+
+sao3    C9A8 É¨*
+
+sao3    C9A9 É©
+
+sao4    C9A8 É¨*
+
+sao4    C9D2 ÉÒ*
+
+sao4    DCA3 Ü£
+
+sao4    EBFD ëý*
+
+sao4    F0FE ðþ
+
+se4     C8FB Èû*
+
+se4     C9AA Éª
+
+se4     C9AB É«*
+
+se4     C9AC É¬
+
+se4     D8C4 ØÄ
+
+se4     EFA4 ï¤
+
+se4     F0A3 ð£
+
+sen1    C9AD É­
+
+seng1   C9AE É®
+
+sha1    C9AF É¯*
+
+sha1    C9B0 É°
+
+sha1    C9B1 É±
+
+sha1    C9B2 É²*
+
+sha1    C9B3 É³*
+
+sha1    C9B4 É´
+
+sha1    C9B7 É·*
+
+sha1    C9BC É¼*
+
+sha1    EAFD êý*
+
+sha1    EFA1 ï¡
+
+sha1    F0F0 ðð
+
+sha1    F4C4 ôÄ
+
+sha1    F6E8 öè
+
+sha2    C9B6 É¶
+
+sha3    C9B5 Éµ
+
+sha4    C9B3 É³*
+
+sha4    C9B7 É·*
+
+sha4    CFC3 ÏÃ*
+
+sha4    DFFE ßþ
+
+sha4    E0C4 àÄ*
+
+sha4    ECA6 ì¦
+
+sha4    F6AE ö®
+
+shai1   C9B8 É¸
+
+shai1   F5A7 õ§*
+
+shai3   C9AB É«*
+
+shai4   C9B9 É¹
+
+shan1   C9BA Éº
+
+shan1   C9BB É»*
+
+shan1   C9BC É¼*
+
+shan1   C9BD É½
+
+shan1   C9BE É¾
+
+shan1   C9BF É¿
+
+shan1   C9C0 ÉÀ
+
+shan1   C9C8 ÉÈ*
+
+shan1   D5A4 Õ¤*
+
+shan1   DBEF Ûï
+
+shan1   DCCF ÜÏ
+
+shan1   E4FA äú
+
+shan1   E6A9 æ©
+
+shan1   EBFE ëþ
+
+shan1   EECC îÌ*
+
+shan1   F4AE ô®
+
+shan1   F5C7 õÇ
+
+shan3   B2F4 ²ô*
+
+shan3   C9C1 ÉÁ
+
+shan3   C9C2 ÉÂ
+
+shan4   B5A5 µ¥*
+
+shan4   B5A7 µ§*
+
+shan4   C9BB É»*
+
+shan4   C9C3 ÉÃ
+
+shan4   C9C4 ÉÄ
+
+shan4   C9C5 ÉÅ
+
+shan4   C9C6 ÉÆ
+
+shan4   C9C7 ÉÇ
+
+shan4   C9C8 ÉÈ*
+
+shan4   C9C9 ÉÉ
+
+shan4   D8DF Øß*
+
+shan4   DAA8 Ú¨
+
+shan4   DBB7 Û·
+
+shan4   E6D3 æÓ
+
+shan4   E6F3 æó
+
+shan4   ECF8 ìø*
+
+shan4   EECC îÌ*
+
+shan4   F0DE ðÞ
+
+shan4   F3B5 óµ
+
+shan4   F7AD ÷­
+
+shang1  C9CA ÉÊ
+
+shang1  C9CB ÉË
+
+shang1  C9CC ÉÌ
+
+shang1  CCC0 ÌÀ*
+
+shang1  E9E4 éä
+
+shang1  ECD8 ìØ
+
+shang1  F5FC õü
+
+shang3  C9CD ÉÍ
+
+shang3  C9CE ÉÎ
+
+shang3  C9CF ÉÏ*
+
+shang3  DBF0 Ûð
+
+shang4  C9CF ÉÏ*
+
+shang4  C9D0 ÉÐ
+
+shang4  E7B4 ç´
+
+shang5  C9D1 ÉÑ*
+
+shao1   C7CA ÇÊ*
+
+shao1   C9D2 ÉÒ*
+
+shao1   C9D3 ÉÓ
+
+shao1   C9D4 ÉÔ*
+
+shao1   C9D5 ÉÕ
+
+shao1   F2D9 òÙ*
+
+shao1   F3E2 óâ
+
+shao1   F4B9 ô¹
+
+shao2   C9D6 ÉÖ
+
+shao2   C9D7 É×
+
+shao2   C9D8 ÉØ
+
+shao2   DCE6 Üæ*
+
+shao2   E8BC è¼*
+
+shao3   C9D9 ÉÙ*
+
+shao4   C9D4 ÉÔ*
+
+shao4   C9D9 ÉÙ*
+
+shao4   C9DA ÉÚ
+
+shao4   C9DB ÉÛ
+
+shao4   C9DC ÉÜ
+
+shao4   D5D9 ÕÙ*
+
+shao4   DBBF Û¿
+
+shao4   E4FB äû
+
+she1    C9DD ÉÝ
+
+she1    C9DE ÉÞ
+
+she1    E2A6 â¦
+
+she1    EEB4 î´
+
+she2    C9DF Éß*
+
+she2    C9E0 Éà
+
+she2    D5DB ÕÛ*
+
+she2    D9DC ÙÜ
+
+she2    DEE9 Þé*
+
+she3    C9E1 Éá*
+
+she4    C9E1 Éá*
+
+she4    C9E2 Éâ
+
+she4    C9E3 Éã
+
+she4    C9E4 Éä
+
+she4    C9E5 Éå
+
+she4    C9E6 Éæ
+
+she4    C9E7 Éç
+
+she4    C9E8 Éè
+
+she4    D8C7 ØÇ
+
+she4    E4DC äÜ
+
+she4    ECA8 ì¨*
+
+she4    F7EA ÷ê
+
+shei2   CBAD Ë­*
+
+shen1   B2CE ²Î*
+
+shen1   C9E9 Éé
+
+shen1   C9EA Éê
+
+shen1   C9EB Éë
+
+shen1   C9EC Éì
+
+shen1   C9ED Éí
+
+shen1   C9EE Éî
+
+shen1   C9EF Éï
+
+shen1   C9F0 Éð
+
+shen1   DAB7 Ú·
+
+shen1   DDB7 Ý·*
+
+shen1   F4D6 ôÖ*
+
+shen2   C9F1 Éñ
+
+shen2   C9F5 Éõ*
+
+shen2   CAB2 Ê²*
+
+shen3   C9F2 Éò*
+
+shen3   C9F3 Éó
+
+shen3   C9F4 Éô
+
+shen3   DAC5 ÚÅ
+
+shen3   DFD3 ßÓ
+
+shen3   E4C9 äÉ
+
+shen3   EFF2 ïò
+
+shen4   C9F5 Éõ*
+
+shen4   C9F6 Éö
+
+shen4   C9F7 É÷
+
+shen4   C9F8 Éø
+
+shen4   DDD8 ÝØ*
+
+shen4   E9A9 é©*
+
+shen4   EBCF ëÏ
+
+shen4   F2D7 ò×
+
+sheng1  C9F9 Éù
+
+sheng1  C9FA Éú
+
+sheng1  C9FB Éû
+
+sheng1  C9FC Éü
+
+sheng1  C9FD Éý
+
+sheng1  CAA4 Ê¤*
+
+sheng1  F3CF óÏ
+
+sheng2  C9FE Éþ
+
+sheng2  E4C5 äÅ*
+
+sheng3  CAA1 Ê¡*
+
+sheng3  EDF2 íò
+
+sheng4  B3CB ³Ë*
+
+sheng4  CAA2 Ê¢*
+
+sheng4  CAA3 Ê£
+
+sheng4  CAA4 Ê¤*
+
+sheng4  CAA5 Ê¥
+
+sheng4  E1D3 áÓ
+
+sheng4  EAC9 êÉ
+
+shi1    CAA6 Ê¦
+
+shi1    CAA7 Ê§
+
+shi1    CAA8 Ê¨
+
+shi1    CAA9 Ê©
+
+shi1    CAAA Êª
+
+shi1    CAAB Ê«
+
+shi1    CAAC Ê¬
+
+shi1    CAAD Ê­
+
+shi1    D0EA Ðê*
+
+shi1    DDE9 Ýé
+
+shi1    F5A7 õ§*
+
+shi1    F6F5 öõ
+
+shi2    CAAE Ê®
+
+shi2    CAAF Ê¯*
+
+shi2    CAB0 Ê°
+
+shi2    CAB1 Ê±
+
+shi2    CAB2 Ê²*
+
+shi2    CAB3 Ê³*
+
+shi2    CAB4 Ê´
+
+shi2    CAB5 Êµ
+
+shi2    CAB6 Ê¶*
+
+shi2    DBF5 Ûõ
+
+shi2    DDAA Ýª*
+
+shi2    ECC2 ìÂ
+
+shi2    F6E5 öå
+
+shi3    CAB7 Ê·
+
+shi3    CAB8 Ê¸
+
+shi3    CAB9 Ê¹
+
+shi3    CABA Êº
+
+shi3    CABB Ê»
+
+shi3    CABC Ê¼
+
+shi3    F5B9 õ¹
+
+shi4    CABD Ê½
+
+shi4    CABE Ê¾
+
+shi4    CABF Ê¿
+
+shi4    CAC0 ÊÀ
+
+shi4    CAC1 ÊÁ
+
+shi4    CAC2 ÊÂ
+
+shi4    CAC3 ÊÃ
+
+shi4    CAC4 ÊÄ
+
+shi4    CAC5 ÊÅ
+
+shi4    CAC6 ÊÆ
+
+shi4    CAC7 ÊÇ
+
+shi4    CAC8 ÊÈ
+
+shi4    CAC9 ÊÉ
+
+shi4    CACA ÊÊ*
+
+shi4    CACB ÊË
+
+shi4    CACC ÊÌ
+
+shi4    CACD ÊÍ
+
+shi4    CACE ÊÎ
+
+shi4    CACF ÊÏ*
+
+shi4    CAD0 ÊÐ
+
+shi4    CAD1 ÊÑ
+
+shi4    CAD2 ÊÒ
+
+shi4    CAD3 ÊÓ
+
+shi4    CAD4 ÊÔ
+
+shi4    CBC6 ËÆ*
+
+shi4    D6C5 ÖÅ*
+
+shi4    DAD6 ÚÖ
+
+shi4    DDAA Ýª*
+
+shi4    DFB1 ß±
+
+shi4    E9F8 éø
+
+shi4    EADB êÛ
+
+shi4    EEE6 îæ
+
+shi4    F3A7 ó§*
+
+shi4    F3C2 óÂ
+
+shi4    F3DF óß
+
+shi5    B3D7 ³×*
+
+shi5    D6B3 Ö³*
+
+shou1   CAD5 ÊÕ
+
+shou2   CAEC Êì*
+
+shou3   CAD6 ÊÖ
+
+shou3   CAD7 Ê×
+
+shou3   CAD8 ÊØ
+
+shou3   F4BC ô¼
+
+shou4   CAD9 ÊÙ
+
+shou4   CADA ÊÚ
+
+shou4   CADB ÊÛ
+
+shou4   CADC ÊÜ
+
+shou4   CADD ÊÝ
+
+shou4   CADE ÊÞ
+
+shou4   E1F7 á÷
+
+shou4   E7B7 ç·
+
+shu1    CADF Êß
+
+shu1    CAE0 Êà
+
+shu1    CAE1 Êá
+
+shu1    CAE2 Êâ
+
+shu1    CAE3 Êã
+
+shu1    CAE4 Êä
+
+shu1    CAE5 Êå
+
+shu1    CAE6 Êæ
+
+shu1    CAE7 Êç
+
+shu1    CAE8 Êè
+
+shu1    CAE9 Êé
+
+shu1    D9BF Ù¿
+
+shu1    DDC4 ÝÄ
+
+shu1    DEF3 Þó
+
+shu1    E6AD æ­
+
+shu1    E7A3 ç£
+
+shu1    EBA8 ë¨
+
+shu1    ECAF ì¯
+
+shu2    CAEA Êê
+
+shu2    CAEB Êë
+
+shu2    CAEC Êì*
+
+shu2    DBD3 ÛÓ
+
+shu2    EFF8 ïø
+
+shu3    CAED Êí
+
+shu3    CAEE Êî
+
+shu3    CAEF Êï
+
+shu3    CAF0 Êð
+
+shu3    CAF1 Êñ*
+
+shu3    CAF2 Êò
+
+shu3    CAF3 Êó
+
+shu3    CAF4 Êô*
+
+shu3    CAFD Êý*
+
+shu4    CAF5 Êõ*
+
+shu4    CAF6 Êö
+
+shu4    CAF7 Ê÷
+
+shu4    CAF8 Êø
+
+shu4    CAF9 Êù
+
+shu4    CAFA Êú
+
+shu4    CAFB Êû
+
+shu4    CAFC Êü
+
+shu4    CAFD Êý*
+
+shu4    CAFE Êþ
+
+shu4    CBA1 Ë¡
+
+shu4    D3E1 Óá*
+
+shu4    E3F0 ãð
+
+shu4    E4F8 äø
+
+shu4    EBF2 ëò
+
+shua1   CBA2 Ë¢*
+
+shua1   E0A7 à§
+
+shua3   CBA3 Ë£
+
+shua4   CBA2 Ë¢*
+
+shuai1  CBA4 Ë¤
+
+shuai3  CBA6 Ë¦
+
+shuai4  C2CA ÂÊ*
+
+shuai4  CBA7 Ë§
+
+shuai4  F3B0 ó°
+
+shuan1  CBA8 Ë¨
+
+shuan1  CBA9 Ë©
+
+shuan1  E3C5 ãÅ
+
+shuan4  E4CC äÌ
+
+shuang1 CBAA Ëª
+
+shuang1 CBAB Ë«
+
+shuang1 E3F1 ãñ*
+
+shuang1 E6D7 æ×
+
+shuang3 CBAC Ë¬
+
+shui2   CBAD Ë­*
+
+shui3   CBAE Ë®
+
+shui4   CBAF Ë¯
+
+shui4   CBB0 Ë°
+
+shui4   CBB5 Ëµ*
+
+shun3   CBB1 Ë±
+
+shun4   CBB2 Ë²
+
+shun4   CBB3 Ë³
+
+shun4   CBB4 Ë´
+
+shuo1   CBB5 Ëµ*
+
+shuo4   CAFD Êý*
+
+shuo4   CBB6 Ë¶
+
+shuo4   CBB7 Ë·
+
+shuo4   CBB8 Ë¸
+
+shuo4   DDF4 Ýô
+
+shuo4   DEF7 Þ÷
+
+shuo4   E5F9 åù
+
+shuo4   E9C3 éÃ
+
+shuo4   EEE5 îå
+
+si1     CBB9 Ë¹
+
+si1     CBBA Ëº
+
+si1     CBBB Ë»
+
+si1     CBBD Ë½
+
+si1     CBBE Ë¾
+
+si1     CBBF Ë¿
+
+si1     D8CB ØË
+
+si1     DBCC ÛÌ
+
+si1     DFD0 ßÐ
+
+si1     E4F9 äù
+
+si1     E7C1 çÁ
+
+si1     EFC8 ïÈ
+
+si1     F0B8 ð¸
+
+si1     F2CF òÏ
+
+si3     CBC0 ËÀ
+
+si4     CAB3 Ê³*
+
+si4     CBC1 ËÁ
+
+si4     CBC2 ËÂ
+
+si4     CBC3 ËÃ
+
+si4     CBC4 ËÄ
+
+si4     CBC5 ËÅ*
+
+si4     CBC6 ËÆ*
+
+si4     CBC7 ËÇ
+
+si4     CBC8 ËÈ
+
+si4     D9B9 Ù¹*
+
+si4     D9EE Ùî
+
+si4     E3E1 ãá
+
+si4     E3F4 ãô
+
+si4     E6A6 æ¦
+
+si4     E6E1 æá
+
+si4     ECEB ìë
+
+si4     F1EA ñê
+
+si4     F3D3 óÓ
+
+song1   CBC9 ËÉ
+
+song1   DAA1 Ú¡
+
+song1   DDBF Ý¿
+
+song1   E1C2 áÂ
+
+song1   E1D4 áÔ
+
+song1   E2EC âì*
+
+song1   E4C1 äÁ
+
+song3   CBCA ËÊ
+
+song3   CBCB ËË
+
+song3   E3A4 ã¤
+
+song3   F1B5 ñµ
+
+song4   CBCC ËÌ
+
+song4   CBCD ËÍ
+
+song4   CBCE ËÎ
+
+song4   CBCF ËÏ
+
+song4   CBD0 ËÐ
+
+sou1    CBD1 ËÑ
+
+sou1    CBD2 ËÒ
+
+sou1    E0B2 à²
+
+sou1    E2C8 âÈ
+
+sou1    E4D1 äÑ
+
+sou1    ECAC ì¬
+
+sou1    EFCB ïË
+
+sou1    F2F4 òô
+
+sou3    CBD3 ËÓ*
+
+sou3    DBC5 ÛÅ
+
+sou3    DEB4 Þ´
+
+sou3    E0D5 àÕ
+
+sou3    EEA4 î¤
+
+sou4    CBD3 ËÓ*
+
+sou4    CBD4 ËÔ
+
+su1     CBD5 ËÕ
+
+su1     CBD6 ËÖ
+
+su1     F6D5 öÕ
+
+su2     CBD7 Ë×
+
+su4     CBD8 ËØ
+
+su4     CBD9 ËÙ
+
+su4     CBDA ËÚ
+
+su4     CBDB ËÛ
+
+su4     CBDC ËÜ
+
+su4     CBDD ËÝ
+
+su4     CBDE ËÞ*
+
+su4     CBDF Ëß
+
+su4     CBE0 Ëà
+
+su4     CBF5 Ëõ*
+
+su4     D9ED Ùí
+
+su4     DAD5 ÚÕ
+
+su4     DDF8 Ýø
+
+su4     E0BC à¼
+
+su4     E3BA ãº
+
+su4     E4B3 ä³
+
+su4     F3F9 óù
+
+su4     F6A2 ö¢
+
+suan1   CBE1 Ëá
+
+suan1   E2A1 â¡
+
+suan4   CBE2 Ëâ
+
+suan4   CBE3 Ëã
+
+sui1    C4F2 Äò*
+
+sui1    CBE4 Ëä
+
+sui1    DDB4 Ý´
+
+sui1    E5A1 å¡
+
+sui1    EDF5 íõ
+
+sui1    EEA1 î¡
+
+sui2    CBE5 Ëå
+
+sui2    CBE6 Ëæ
+
+sui2    CBE7 Ëç
+
+sui2    CBEC Ëì*
+
+sui3    CBE8 Ëè
+
+sui4    CBE9 Ëé
+
+sui4    CBEA Ëê
+
+sui4    CBEB Ëë
+
+sui4    CBEC Ëì*
+
+sui4    CBED Ëí
+
+sui4    CBEE Ëî
+
+sui4    DAC7 ÚÇ
+
+sui4    E5E4 åä
+
+sui4    ECDD ìÝ
+
+sun1    CBEF Ëï
+
+sun1    DDA5 Ý¥
+
+sun1    E1F8 áø
+
+sun1    E2B8 â¸
+
+sun3    CBF0 Ëð
+
+sun3    CBF1 Ëñ
+
+sun3    E9BE é¾
+
+sun3    F6C0 öÀ
+
+suo1    C9AF É¯*
+
+suo1    CBF2 Ëò
+
+suo1    CBF3 Ëó
+
+suo1    CBF4 Ëô
+
+suo1    CBF5 Ëõ*
+
+suo1    E0C2 àÂ
+
+suo1    E0CA àÊ
+
+suo1    E6B6 æ¶
+
+suo1    E8F8 èø
+
+suo1    EAFD êý*
+
+suo1    EDFC íü
+
+suo1    F4C8 ôÈ
+
+suo3    CBF6 Ëö
+
+suo3    CBF7 Ë÷
+
+suo3    CBF8 Ëø
+
+suo3    CBF9 Ëù
+
+suo3    DFEF ßï
+
+ta1     CBFA Ëú
+
+ta1     CBFB Ëû
+
+ta1     CBFC Ëü
+
+ta1     CBFD Ëý
+
+ta1     CCA4 Ì¤*
+
+ta1     E4E2 äâ
+
+ta1     E5DD åÝ
+
+ta1     EEE8 îè*
+
+ta1     F5C1 õÁ
+
+ta3     CBFE Ëþ
+
+ta3     CCA1 Ì¡
+
+ta3     F7A3 ÷£
+
+ta4     CCA2 Ì¢
+
+ta4     CCA3 Ì£
+
+ta4     CCA4 Ì¤*
+
+ta4     CDD8 ÍØ*
+
+ta4     E0AA àª*
+
+ta4     E3CB ãË
+
+ta4     E4F0 äð*
+
+ta4     E9BD é½
+
+ta4     EDB3 í³*
+
+tai1    CCA5 Ì¥
+
+tai1    CCA6 Ì¦*
+
+tai1    CCA8 Ì¨*
+
+tai2    CCA6 Ì¦*
+
+tai2    CCA7 Ì§
+
+tai2    CCA8 Ì¨*
+
+tai2    DBA2 Û¢
+
+tai2    DEB7 Þ·
+
+tai2    E6E6 ææ*
+
+tai2    ECC6 ìÆ
+
+tai2    F5CC õÌ
+
+tai2    F6D8 öØ
+
+tai4    CCA9 Ì©
+
+tai4    CCAA Ìª
+
+tai4    CCAB Ì«
+
+tai4    CCAC Ì¬
+
+tai4    CCAD Ì­
+
+tai4    EBC4 ëÄ
+
+tai4    EED1 îÑ
+
+tan1    CCAE Ì®
+
+tan1    CCAF Ì¯
+
+tan1    CCB0 Ì°
+
+tan1    CCB1 Ì±
+
+tan1    CCB2 Ì²
+
+tan2    B5AF µ¯*
+
+tan2    CCB3 Ì³
+
+tan2    CCB4 Ì´
+
+tan2    CCB5 Ìµ
+
+tan2    CCB6 Ì¶
+
+tan2    CCB7 Ì·
+
+tan2    CCB8 Ì¸
+
+tan2    DBB0 Û°
+
+tan2    E5A3 å£*
+
+tan2    EABC ê¼
+
+tan2    EFC4 ïÄ
+
+tan2    EFE2 ïâ*
+
+tan2    F1FB ñû*
+
+tan3    CCB9 Ì¹
+
+tan3    CCBA Ìº
+
+tan3    CCBB Ì»
+
+tan3    ECFE ìþ
+
+tan3    EEE3 îã
+
+tan4    CCBC Ì¼
+
+tan4    CCBD Ì½
+
+tan4    CCBE Ì¾
+
+tan4    CCBF Ì¿
+
+tang1   CCC0 ÌÀ*
+
+tang1   CCCB ÌË*
+
+tang1   EFA6 ï¦
+
+tang1   EFDB ïÛ*
+
+tang1   F1ED ñí*
+
+tang1   F4CA ôÊ
+
+tang2   CCC1 ÌÁ
+
+tang2   CCC2 ÌÂ
+
+tang2   CCC3 ÌÃ
+
+tang2   CCC4 ÌÄ
+
+tang2   CCC5 ÌÅ
+
+tang2   CCC6 ÌÆ
+
+tang2   CCC7 ÌÇ
+
+tang2   E2BC â¼*
+
+tang2   E4E7 äç
+
+tang2   E8A9 è©
+
+tang2   E9CC éÌ
+
+tang2   EFDB ïÛ*
+
+tang2   F3A5 ó¥
+
+tang2   F3AB ó«
+
+tang2   F5B1 õ±
+
+tang3   B3A8 ³¨*
+
+tang3   CCC9 ÌÉ
+
+tang3   CCCA ÌÊ
+
+tang3   D8F6 Øö*
+
+tang3   D9CE ÙÎ
+
+tang3   E0FB àû
+
+tang3   F1ED ñí*
+
+tang4   CCCB ÌË*
+
+tang4   CCCC ÌÌ
+
+tao1    CCCD ÌÍ
+
+tao1    CCCE ÌÎ
+
+tao1    CCCF ÌÏ
+
+tao1    CCD0 ÌÐ
+
+tao1    DFB6 ß¶*
+
+tao1    E8BA èº
+
+tao1    ECE2 ìâ*
+
+tao1    F7D2 ÷Ò
+
+tao2    CCD1 ÌÑ
+
+tao2    CCD2 ÌÒ
+
+tao2    CCD3 ÌÓ
+
+tao2    CCD4 ÌÔ
+
+tao2    CCD5 ÌÕ*
+
+tao2    D8BB Ø»
+
+tao2    DFFB ßû
+
+tao2    E4AC ä¬
+
+tao3    CCD6 ÌÖ
+
+tao4    CCD7 Ì×
+
+te4     CCD8 ÌØ
+
+te4     DFAF ß¯*
+
+te4     ECFD ìý
+
+te4     EDAB í«
+
+te4     EFAB ï«
+
+teng2   CCD9 ÌÙ
+
+teng2   CCDA ÌÚ
+
+teng2   CCDB ÌÛ
+
+teng2   CCDC ÌÜ
+
+teng2   EBF8 ëø
+
+ti1     CCDD ÌÝ
+
+ti1     CCDE ÌÞ
+
+ti1     CCDF Ìß
+
+ti1     CCE0 Ìà
+
+ti1     CCE5 Ìå*
+
+ti2     CCE1 Ìá*
+
+ti2     CCE2 Ìâ
+
+ti2     CCE3 Ìã
+
+ti2     CCE4 Ìä
+
+ti2     DCE8 Üè*
+
+ti2     E7B0 ç°*
+
+ti2     E7BE ç¾
+
+ti2     F0C3 ðÃ
+
+ti2     F5AE õ®
+
+ti3     CCE5 Ìå*
+
+ti4     CCE6 Ìæ
+
+ti4     CCE7 Ìç
+
+ti4     CCE8 Ìè
+
+ti4     CCE9 Ìé
+
+ti4     CCEA Ìê
+
+ti4     CCEB Ìë
+
+ti4     D9C3 ÙÃ
+
+ti4     E3A9 ã©
+
+ti4     E5D1 åÑ
+
+ti4     E7B0 ç°*
+
+ti4     F1D3 ñÓ*
+
+tian1   CCEC Ìì
+
+tian1   CCED Ìí
+
+tian2   B5E8 µè*
+
+tian2   CCEE Ìî
+
+tian2   CCEF Ìï
+
+tian2   CCF0 Ìð
+
+tian2   CCF1 Ìñ
+
+tian2   E3D9 ãÙ
+
+tian2   EEB1 î±
+
+tian2   EEE4 îä*
+
+tian3   CCF2 Ìò
+
+tian3   CCF3 Ìó
+
+tian3   E3C3 ãÃ
+
+tian3   E9E5 éå
+
+tian4   DEDD ÞÝ
+
+tiao1   CCF4 Ìô*
+
+tiao1   D9AC Ù¬
+
+tiao1   ECF6 ìö
+
+tiao2   B5F7 µ÷*
+
+tiao2   CCF5 Ìõ
+
+tiao2   CCF6 Ìö
+
+tiao2   DCE6 Üæ*
+
+tiao2   F2E8 òè
+
+tiao2   F3D4 óÔ
+
+tiao2   F6B6 ö¶
+
+tiao2   F6E6 öæ
+
+tiao2   F7D8 ÷Ø
+
+tiao3   CCF4 Ìô*
+
+tiao3   F1BB ñ»
+
+tiao4   CCF7 Ì÷
+
+tiao4   CCF8 Ìø
+
+tiao4   F4D0 ôÐ
+
+tie1    CCF9 Ìù
+
+tie1    CCFB Ìû*
+
+tie1    DDC6 ÝÆ
+
+tie3    CCFA Ìú
+
+tie3    CCFB Ìû*
+
+tie4    CCFB Ìû*
+
+tie4    F7D1 ÷Ñ
+
+ting1   CCFC Ìü
+
+ting1   CCFD Ìý
+
+ting1   CCFE Ìþ
+
+ting1   CDA1 Í¡
+
+ting2   CDA2 Í¢
+
+ting2   CDA3 Í£
+
+ting2   CDA4 Í¤
+
+ting2   CDA5 Í¥
+
+ting2   DCF0 Üð
+
+ting2   DDE3 Ýã
+
+ting2   E6C3 æÃ
+
+ting2   F2D1 òÑ
+
+ting2   F6AA öª
+
+ting3   CDA6 Í¦
+
+ting3   CDA7 Í§
+
+ting3   E8E8 èè*
+
+ting3   EEAE î®*
+
+ting3   EEFA îú*
+
+ting4   E8E8 èè*
+
+tong1   CDA8 Í¨*
+
+tong1   E0CC àÌ
+
+tong2   B6B1 ¶±*
+
+tong2   CDA9 Í©
+
+tong2   CDAA Íª
+
+tong2   CDAB Í«
+
+tong2   CDAC Í¬*
+
+tong2   CDAD Í­
+
+tong2   CDAE Í®
+
+tong2   CDAF Í¯
+
+tong2   D9A1 Ù¡
+
+tong2   D9D7 Ù×*
+
+tong2   D9DA ÙÚ
+
+tong2   DBED Ûí*
+
+tong2   DCED Üí
+
+tong2   E1BC á¼*
+
+tong2   E4FC äü
+
+tong2   EDC5 íÅ
+
+tong3   B6B1 ¶±*
+
+tong3   CDB0 Í°
+
+tong3   CDB1 Í±
+
+tong3   CDB2 Í²
+
+tong3   CDB3 Í³
+
+tong4   CDA8 Í¨*
+
+tong4   CDAC Í¬*
+
+tong4   CDB4 Í´
+
+tong4   E2FA âú
+
+tou1    CDB5 Íµ
+
+tou2    CDB6 Í¶
+
+tou2    CDB7 Í·
+
+tou2    F7BB ÷»
+
+tou3    EED7 î×
+
+tou4    CDB8 Í¸
+
+tu1     CDB9 Í¹
+
+tu1     CDBA Íº
+
+tu1     CDBB Í»
+
+tu2     CDBC Í¼
+
+tu2     CDBD Í½
+
+tu2     CDBE Í¾
+
+tu2     CDBF Í¿
+
+tu2     CDC0 ÍÀ
+
+tu2     DDB1 Ý±
+
+tu2     DDCB ÝË*
+
+tu2     F5A9 õ©
+
+tu3     CDC1 ÍÁ
+
+tu3     CDC2 ÍÂ*
+
+tu3     EECA îÊ
+
+tu4     CDC2 ÍÂ*
+
+tu4     CDC3 ÍÃ
+
+tu4     DCA2 Ü¢
+
+tu4     DDCB ÝË*
+
+tuan1   CDC4 ÍÄ
+
+tuan2   CDC5 ÍÅ
+
+tuan2   DED2 ÞÒ
+
+tuan3   EEB6 î¶
+
+tuan4   E5E8 åè
+
+tui1    CDC6 ÍÆ
+
+tui1    DFAF ß¯*
+
+tui2    CDC7 ÍÇ
+
+tui3    CDC8 ÍÈ
+
+tui4    CDC9 ÍÉ
+
+tui4    CDCA ÍÊ*
+
+tui4    CDCB ÍË
+
+tui4    ECD5 ìÕ
+
+tun1    CDCC ÍÌ
+
+tun1    EAD5 êÕ
+
+tun2    B6DA ¶Ú*
+
+tun2    CDCD ÍÍ*
+
+tun2    CDCE ÍÎ
+
+tun2    E2BD â½
+
+tun2    EBE0 ëà
+
+tun3    D9DB ÙÛ
+
+tun4    CDCA ÍÊ*
+
+tuo1    CDCF ÍÏ
+
+tuo1    CDD0 ÍÐ
+
+tuo1    CDD1 ÍÑ
+
+tuo1    D8B1 Ø±
+
+tuo2    CDD2 ÍÒ
+
+tuo2    CDD3 ÍÓ
+
+tuo2    CDD4 ÍÔ*
+
+tuo2    CDD5 ÍÕ
+
+tuo2    D9A2 Ù¢
+
+tuo2    DBE7 Ûç
+
+tuo2    E3FB ãû
+
+tuo2    E8DE èÞ*
+
+tuo2    E9D2 éÒ
+
+tuo2    EDC8 íÈ
+
+tuo2    EEE8 îè*
+
+tuo2    F5A2 õ¢
+
+tuo2    F5C9 õÉ
+
+tuo2    F6BE ö¾
+
+tuo3    CDD6 ÍÖ
+
+tuo3    CDD7 Í×
+
+tuo3    E2D5 âÕ
+
+tuo4    C6C7 ÆÇ*
+
+tuo4    CDD8 ÍØ*
+
+tuo4    CDD9 ÍÙ
+
+tuo4    E8D8 èØ
+
+tuo4    F3EA óê
+
+wa1     CDDA ÍÚ
+
+wa1     CDDB ÍÛ*
+
+wa1     CDDC ÍÜ
+
+wa1     CDDD ÍÝ
+
+wa1     E6B4 æ´
+
+wa2     CDDE ÍÞ
+
+wa3     CDDF Íß*
+
+wa3     D8F4 Øô
+
+wa4     CDDF Íß*
+
+wa4     CDE0 Íà
+
+wa4     EBF0 ëð
+
+wa5     CDDB ÍÛ*
+
+wai1    CDE1 Íá
+
+wai3    E1CB áË*
+
+wai4    CDE2 Íâ
+
+wan1    CDE3 Íã
+
+wan1    CDE4 Íä
+
+wan1    CDE5 Íå
+
+wan1    D8E0 Øà
+
+wan1    F2EA òê
+
+wan2    CDE6 Íæ
+
+wan2    CDE7 Íç
+
+wan2    CDE8 Íè
+
+wan2    CDE9 Íé
+
+wan2    CDEA Íê
+
+wan2    DCB9 Ü¹
+
+wan2    E6FD æý
+
+wan3    CDEB Íë
+
+wan3    CDEC Íì
+
+wan3    CDED Íí
+
+wan3    CDEE Íî
+
+wan3    CDEF Íï
+
+wan3    CDF0 Íð
+
+wan3    CDF1 Íñ
+
+wan3    DDB8 Ý¸*
+
+wan3    DDD2 ÝÒ
+
+wan3    E7BA çº
+
+wan3    E7FE çþ
+
+wan3    EBE4 ëä
+
+wan3    EEB5 îµ
+
+wan4    C2FB Âû*
+
+wan4    CDF2 Íò*
+
+wan4    CDF3 Íó
+
+wang1   CDF4 Íô
+
+wang1   DECC ÞÌ
+
+wang2   CDF5 Íõ*
+
+wang2   CDF6 Íö*
+
+wang3   CDF7 Í÷
+
+wang3   CDF8 Íø
+
+wang3   CDF9 Íù
+
+wang3   D8E8 Øè
+
+wang3   E3AF ã¯
+
+wang3   E9FE éþ
+
+wang3   F7CD ÷Í
+
+wang4   CDF5 Íõ*
+
+wang4   CDFA Íú
+
+wang4   CDFB Íû
+
+wang4   CDFC Íü
+
+wang4   CDFD Íý
+
+wei1    CDFE Íþ
+
+wei1    CEA1 Î¡
+
+wei1    CEA2 Î¢
+
+wei1    CEA3 Î£
+
+wei1    CEAF Î¯*
+
+wei1    D9CB ÙË
+
+wei1    DAF1 Úñ
+
+wei1    DDDA ÝÚ
+
+wei1    DEB1 Þ±
+
+wei1    E1CB áË*
+
+wei1    E5D4 åÔ
+
+wei1    ECD0 ìÐ
+
+wei2    CEA4 Î¤
+
+wei2    CEA5 Î¥
+
+wei2    CEA6 Î¦
+
+wei2    CEA7 Î§
+
+wei2    CEA8 Î¨
+
+wei2    CEA9 Î©
+
+wei2    CEAA Îª*
+
+wei2    CEAB Î«
+
+wei2    CEAC Î¬
+
+wei2    DBD7 Û×*
+
+wei2    E0F8 àø
+
+wei2    E1A1 á¡
+
+wei2    E1CD áÍ
+
+wei2    E3C7 ãÇ
+
+wei2    E3ED ãí
+
+wei2    E4B6 ä¶
+
+wei3    CEAD Î­
+
+wei3    CEAE Î®
+
+wei3    CEAF Î¯*
+
+wei3    CEB0 Î°
+
+wei3    CEB1 Î±
+
+wei3    CEB2 Î²*
+
+wei3    CEB3 Î³
+
+wei3    DAC3 ÚÃ
+
+wei3    DAF3 Úó*
+
+wei3    E2AB â«
+
+wei3    E4A2 ä¢
+
+wei3    E6B8 æ¸
+
+wei3    E7E2 çâ
+
+wei3    E8B8 è¸
+
+wei3    ECBF ì¿
+
+wei3    F0F4 ðô
+
+wei3    F4BA ôº
+
+wei3    F6DB öÛ
+
+wei4    CEAA Îª*
+
+wei4    CEB4 Î´
+
+wei4    CEB5 Îµ*
+
+wei4    CEB6 Î¶
+
+wei4    CEB7 Î·
+
+wei4    CEB8 Î¸
+
+wei4    CEB9 Î¹
+
+wei4    CEBA Îº
+
+wei4    CEBB Î»
+
+wei4    CEBC Î¼
+
+wei4    CEBD Î½
+
+wei4    CEBE Î¾*
+
+wei4    CEBF Î¿
+
+wei4    CEC0 ÎÀ
+
+wei4    D2C5 ÒÅ*
+
+wei4    E2AC â¬
+
+wei4    EAA6 ê¦
+
+wen1    CEC1 ÎÁ
+
+wen1    CEC2 ÎÂ
+
+wen2    CEC3 ÎÃ
+
+wen2    CEC4 ÎÄ
+
+wen2    CEC5 ÎÅ
+
+wen2    CEC6 ÎÆ*
+
+wen2    E3D3 ãÓ
+
+wen2    F6A9 ö©
+
+wen3    CEC7 ÎÇ
+
+wen3    CEC8 ÎÈ
+
+wen3    CEC9 ÎÉ
+
+wen3    D8D8 ØØ
+
+wen4    CEC6 ÎÆ*
+
+wen4    CECA ÎÊ
+
+wen4    E3EB ãë
+
+wen4    E8B7 è·
+
+weng1   CECB ÎË
+
+weng1   CECC ÎÌ
+
+weng3   DDEE Ýî
+
+weng4   CECD ÎÍ
+
+weng4   DEB3 Þ³
+
+wo1     CECE ÎÎ
+
+wo1     CECF ÎÏ
+
+wo1     CED0 ÎÐ*
+
+wo1     CED1 ÎÑ
+
+wo1     D9C1 ÙÁ
+
+wo1     DDAB Ý«*
+
+wo1     E0B8 à¸*
+
+wo3     CED2 ÎÒ
+
+wo4     CED3 ÎÓ
+
+wo4     CED4 ÎÔ
+
+wo4     CED5 ÎÕ
+
+wo4     CED6 ÎÖ
+
+wo4     E1A2 á¢
+
+wo4     E4D7 ä×
+
+wo4     EBBF ë¿
+
+wo4     EDD2 íÒ
+
+wo4     F6BB ö»
+
+wu1     B6F1 ¶ñ*
+
+wu1     CED7 Î×
+
+wu1     CED8 ÎØ
+
+wu1     CED9 ÎÙ
+
+wu1     CEDA ÎÚ
+
+wu1     CEDB ÎÛ
+
+wu1     CEDC ÎÜ
+
+wu1     CEDD ÎÝ
+
+wu1     D8A3 Ø£*
+
+wu1     DAF9 Úù
+
+wu1     DBD8 ÛØ
+
+wu1     ECB6 ì¶*
+
+wu2     CDF6 Íö*
+
+wu2     CEDE ÎÞ*
+
+wu2     CEDF Îß
+
+wu2     CEE0 Îà
+
+wu2     CEE1 Îá
+
+wu2     CEE2 Îâ
+
+wu2     CEE3 Îã
+
+wu2     CEE6 Îæ*
+
+wu2     DFED ßí*
+
+wu2     E4B4 ä´
+
+wu2     F2DA òÚ
+
+wu2     F7F9 ÷ù
+
+wu3     CEE4 Îä
+
+wu3     CEE5 Îå
+
+wu3     CEE6 Îæ*
+
+wu3     CEE7 Îç
+
+wu3     CEE8 Îè
+
+wu3     CEE9 Îé
+
+wu3     CEEA Îê
+
+wu3     D8F5 Øõ
+
+wu3     E2D0 âÐ
+
+wu3     E2E4 âä
+
+wu3     E2E8 âè
+
+wu3     E5C3 åÃ
+
+wu3     E5FC åü
+
+wu3     EAF5 êõ
+
+wu3     F0C4 ðÄ
+
+wu4     B6F1 ¶ñ*
+
+wu4     CEEB Îë
+
+wu4     CEEC Îì
+
+wu4     CEED Îí
+
+wu4     CEEE Îî
+
+wu4     CEEF Îï
+
+wu4     CEF0 Îð
+
+wu4     CEF1 Îñ
+
+wu4     CEF2 Îò
+
+wu4     CEF3 Îó
+
+wu4     D8A3 Ø£*
+
+wu4     DAE3 Úã
+
+wu4     DCCC ÜÌ
+
+wu4     E5BB å»
+
+wu4     E6C4 æÄ
+
+wu4     E6F0 æð
+
+wu4     E8BB è»
+
+wu4     ECC9 ìÉ
+
+wu4     F0CD ðÍ
+
+wu4     F0ED ðí
+
+wu4     F6C8 öÈ
+
+xi1     C0B0 À°*
+
+xi1     C6DC ÆÜ*
+
+xi1     C6E1 Æá*
+
+xi1     CEF4 Îô
+
+xi1     CEF5 Îõ
+
+xi1     CEF6 Îö
+
+xi1     CEF7 Î÷
+
+xi1     CEF8 Îø
+
+xi1     CEF9 Îù
+
+xi1     CEFA Îú
+
+xi1     CEFB Îû
+
+xi1     CEFC Îü
+
+xi1     CEFD Îý
+
+xi1     CEFE Îþ
+
+xi1     CFA1 Ï¡
+
+xi1     CFA2 Ï¢
+
+xi1     CFA3 Ï£
+
+xi1     CFA4 Ï¤
+
+xi1     CFA5 Ï¥
+
+xi1     CFA6 Ï¦
+
+xi1     CFA7 Ï§
+
+xi1     CFA8 Ï¨
+
+xi1     CFA9 Ï©
+
+xi1     CFAA Ïª
+
+xi1     CFAB Ï«
+
+xi1     CFAC Ï¬
+
+xi1     D9D2 ÙÒ
+
+xi1     D9E2 Ùâ
+
+xi1     DBAD Û­
+
+xi1     DCE7 Üç*
+
+xi1     DDBE Ý¾
+
+xi1     DEC9 ÞÉ
+
+xi1     DFF1 ßñ
+
+xi1     E4BB ä»
+
+xi1     E4C0 äÀ
+
+xi1     E6D2 æÒ
+
+xi1     E9D8 éØ
+
+xi1     EAD8 êØ
+
+xi1     ECA4 ì¤
+
+xi1     ECA8 ì¨*
+
+xi1     ECE4 ìä
+
+xi1     F0AA ðª
+
+xi1     F1B6 ñ¶
+
+xi1     F1D3 ñÓ*
+
+xi1     F2E1 òá
+
+xi1     F3A3 ó£
+
+xi1     F3AC ó¬
+
+xi1     F4B8 ô¸
+
+xi1     F4CB ôË
+
+xi1     F4D1 ôÑ
+
+xi1     F4E2 ôâ
+
+xi1     F5B5 õµ
+
+xi1     F5E8 õè*
+
+xi1     F7FB ÷û
+
+xi2     CFAD Ï­
+
+xi2     CFAE Ï®
+
+xi2     CFAF Ï¯
+
+xi2     CFB0 Ï°
+
+xi2     CFB1 Ï±
+
+xi2     DAF4 Úô
+
+xi2     EAEA êê
+
+xi3     CFB2 Ï²
+
+xi3     CFB3 Ï³*
+
+xi3     CFB4 Ï´*
+
+xi3     DDDF Ýß
+
+xi3     DDFB Ýû
+
+xi3     E1E3 áã
+
+xi3     E5EF åï
+
+xi3     E7F4 çô
+
+xi3     ECFB ìû
+
+xi4     CFB5 Ïµ*
+
+xi4     CFB6 Ï¶
+
+xi4     CFB7 Ï·*
+
+xi4     CFB8 Ï¸
+
+xi4     E2BE â¾
+
+xi4     E3D2 ãÒ
+
+xi4     ECF9 ìù
+
+xi4     F4AA ôª
+
+xia1    CFB9 Ï¹
+
+xia1    CFBA Ïº*
+
+xia1    DFC8 ßÈ
+
+xia2    CFBB Ï»
+
+xia2    CFBC Ï¼
+
+xia2    CFBD Ï½
+
+xia2    CFBE Ï¾
+
+xia2    CFBF Ï¿
+
+xia2    CFC0 ÏÀ
+
+xia2    CFC1 ÏÁ
+
+xia2    E1F2 áò
+
+xia2    E5DA åÚ
+
+xia2    E8A6 è¦
+
+xia2    E8D4 èÔ
+
+xia2    EDCC íÌ
+
+xia2    F7EF ÷ï
+
+xia4    BBA3 »£*
+
+xia4    CFC2 ÏÂ
+
+xia4    CFC3 ÏÃ*
+
+xia4    CFC4 ÏÄ
+
+xia4    CFC5 ÏÅ*
+
+xia4    F3C1 óÁ
+
+xian1   CFC6 ÏÆ
+
+xian1   CFC7 ÏÇ
+
+xian1   CFC8 ÏÈ
+
+xian1   CFC9 ÏÉ
+
+xian1   CFCA ÏÊ*
+
+xian1   CFCB ÏË*
+
+xian1   DDB2 Ý²
+
+xian1   E5DF åß
+
+xian1   EBAF ë¯
+
+xian1   ECEC ìì
+
+xian1   F4CC ôÌ
+
+xian1   F5A3 õ£
+
+xian1   F5D1 õÑ
+
+xian2   CFCC ÏÌ
+
+xian2   CFCD ÏÍ
+
+xian2   CFCE ÏÎ
+
+xian2   CFCF ÏÏ
+
+xian2   CFD0 ÏÐ
+
+xian2   CFD1 ÏÑ
+
+xian2   CFD2 ÏÒ
+
+xian2   CFD3 ÏÓ
+
+xian2   E6B5 æµ
+
+xian2   F0C2 ðÂ
+
+xian2   F0EF ðï
+
+xian3   CFB3 Ï³*
+
+xian3   CFB4 Ï´*
+
+xian3   CFCA ÏÊ*
+
+xian3   CFD4 ÏÔ
+
+xian3   CFD5 ÏÕ
+
+xian3   D9FE Ùþ
+
+xian3   DEBA Þº
+
+xian3   E1FD áý
+
+xian3   ECDE ìÞ
+
+xian3   F2B9 ò¹
+
+xian3   F3DA óÚ
+
+xian3   F5D0 õÐ
+
+xian4   BCFB ¼û*
+
+xian4   CFD6 ÏÖ
+
+xian4   CFD7 Ï×
+
+xian4   CFD8 ÏØ
+
+xian4   CFD9 ÏÙ
+
+xian4   CFDA ÏÚ
+
+xian4   CFDB ÏÛ
+
+xian4   CFDC ÏÜ
+
+xian4   CFDD ÏÝ
+
+xian4   CFDE ÏÞ
+
+xian4   CFDF Ïß
+
+xian4   DCC8 ÜÈ
+
+xian4   E1AD á­
+
+xian4   F6B1 ö±
+
+xiang1  CFE0 Ïà*
+
+xiang1  CFE1 Ïá
+
+xiang1  CFE2 Ïâ
+
+xiang1  CFE3 Ïã
+
+xiang1  CFE4 Ïä
+
+xiang1  CFE5 Ïå
+
+xiang1  CFE6 Ïæ
+
+xiang1  CFE7 Ïç
+
+xiang1  DCBC Ü¼
+
+xiang1  DDD9 ÝÙ
+
+xiang1  E6F8 æø
+
+xiang1  E7BD ç½
+
+xiang2  BDB5 ½µ*
+
+xiang2  CFE8 Ïè
+
+xiang2  CFE9 Ïé
+
+xiang2  CFEA Ïê
+
+xiang2  E2D4 âÔ
+
+xiang3  CFEB Ïë
+
+xiang3  CFEC Ïì
+
+xiang3  CFED Ïí
+
+xiang3  E2C3 âÃ
+
+xiang3  F6DF öß
+
+xiang3  F7CF ÷Ï
+
+xiang4  CFE0 Ïà*
+
+xiang4  CFEE Ïî
+
+xiang4  CFEF Ïï*
+
+xiang4  CFF0 Ïð
+
+xiang4  CFF1 Ïñ
+
+xiang4  CFF2 Ïò
+
+xiang4  CFF3 Ïó
+
+xiang4  F3AD ó­
+
+xiao1   CFF4 Ïô
+
+xiao1   CFF5 Ïõ
+
+xiao1   CFF6 Ïö
+
+xiao1   CFF7 Ï÷*
+
+xiao1   CFF9 Ïù
+
+xiao1   CFFA Ïú
+
+xiao1   CFFB Ïû
+
+xiao1   CFFC Ïü
+
+xiao1   D0A4 Ð¤*
+
+xiao1   DFD8 ßØ
+
+xiao1   E4EC äì
+
+xiao1   E5D0 åÐ
+
+xiao1   E6E7 æç
+
+xiao1   E7AF ç¯
+
+xiao1   E8C9 èÉ
+
+xiao1   E8D5 èÕ
+
+xiao1   F2D9 òÙ*
+
+xiao1   F3EF óï
+
+xiao1   F7CC ÷Ì
+
+xiao2   CFFD Ïý
+
+xiao2   E1C5 áÅ
+
+xiao3   CFFE Ïþ
+
+xiao3   D0A1 Ð¡
+
+xiao3   F3E3 óã
+
+xiao4   CFF8 Ïø
+
+xiao4   D0A2 Ð¢
+
+xiao4   D0A3 Ð£*
+
+xiao4   D0A4 Ð¤*
+
+xiao4   D0A5 Ð¥
+
+xiao4   D0A6 Ð¦
+
+xiao4   D0A7 Ð§
+
+xie1    D0A8 Ð¨
+
+xie1    D0A9 Ð©
+
+xie1    D0AA Ðª
+
+xie1    D0AB Ð«
+
+xie2    D0AC Ð¬
+
+xie2    D0AD Ð­
+
+xie2    D0AE Ð®*
+
+xie2    D0AF Ð¯
+
+xie2    D0B0 Ð°*
+
+xie2    D0B1 Ð±
+
+xie2    D0B2 Ð²
+
+xie2    D0B3 Ð³
+
+xie2    D2B6 Ò¶*
+
+xie2    D9C9 ÙÉ
+
+xie2    DBC4 ÛÄ
+
+xie2    DFA2 ß¢
+
+xie2    E7D3 çÓ
+
+xie2    F2A1 ò¡*
+
+xie3    D0B4 Ð´
+
+xie3    D1AA Ñª*
+
+xie4    BDE2 ½â*
+
+xie4    C6FC Æü*
+
+xie4    D0B5 Ðµ
+
+xie4    D0B6 Ð¶
+
+xie4    D0B7 Ð·
+
+xie4    D0B8 Ð¸
+
+xie4    D0B9 Ð¹
+
+xie4    D0BA Ðº
+
+xie4    D0BB Ð»
+
+xie4    D0BC Ð¼
+
+xie4    D9F4 Ùô
+
+xie4    DBC6 ÛÆ
+
+xie4    DEAF Þ¯
+
+xie4    E2B3 â³
+
+xie4    E2DD âÝ
+
+xie4    E4CD äÍ
+
+xie4    E5AC å¬
+
+xie4    E5E2 åâ
+
+xie4    E7A5 ç¥
+
+xie4    E9BF é¿
+
+xie4    E9C7 éÇ
+
+xie4    F5F3 õó
+
+xin1    D0BD Ð½
+
+xin1    D0BE Ð¾*
+
+xin1    D0BF Ð¿
+
+xin1    D0C0 ÐÀ
+
+xin1    D0C1 ÐÁ
+
+xin1    D0C2 ÐÂ
+
+xin1    D0C3 ÐÃ
+
+xin1    D0C4 ÐÄ
+
+xin1    DCB0 Ü°
+
+xin1    DDB7 Ý·*
+
+xin1    EABF ê¿
+
+xin1    ECA7 ì§
+
+xin1    F6CE öÎ
+
+xin2    EFE2 ïâ*
+
+xin4    D0BE Ð¾*
+
+xin4    D0C5 ÐÅ
+
+xin4    D0C6 ÐÆ
+
+xin4    D8B6 Ø¶
+
+xing1   D0C7 ÐÇ
+
+xing1   D0C8 ÐÈ
+
+xing1   D0C9 ÐÉ
+
+xing1   D0CA ÐÊ
+
+xing1   D0CB ÐË*
+
+xing2   D0CC ÐÌ
+
+xing2   D0CD ÐÍ
+
+xing2   D0CE ÐÎ
+
+xing2   D0CF ÐÏ
+
+xing2   D0D0 ÐÐ*
+
+xing2   DAEA Úê
+
+xing2   DCFE Üþ*
+
+xing2   E2BC â¼*
+
+xing2   EDCA íÊ
+
+xing3   CAA1 Ê¡*
+
+xing3   D0D1 ÐÑ
+
+xing3   DFA9 ß©
+
+xing4   D0CB ÐË*
+
+xing4   D0D2 ÐÒ
+
+xing4   D0D3 ÐÓ
+
+xing4   D0D4 ÐÔ
+
+xing4   D0D5 ÐÕ
+
+xing4   DCF4 Üô
+
+xing4   E3AC ã¬
+
+xiong1  D0D6 ÐÖ
+
+xiong1  D0D7 Ð×
+
+xiong1  D0D8 ÐØ
+
+xiong1  D0D9 ÐÙ
+
+xiong1  D0DA ÐÚ
+
+xiong1  DCBA Üº
+
+xiong2  D0DB ÐÛ
+
+xiong2  D0DC ÐÜ
+
+xiu1    D0DD ÐÝ
+
+xiu1    D0DE ÐÞ
+
+xiu1    D0DF Ðß
+
+xiu1    DFDD ßÝ
+
+xiu1    E2CA âÊ
+
+xiu1    E2D3 âÓ
+
+xiu1    F0BC ð¼
+
+xiu1    F5F7 õ÷
+
+xiu1    F7DB ÷Û
+
+xiu3    CBDE ËÞ*
+
+xiu3    D0E0 Ðà
+
+xiu4    B3F4 ³ô*
+
+xiu4    CBDE ËÞ*
+
+xiu4    D0E1 Ðá
+
+xiu4    D0E2 Ðâ
+
+xiu4    D0E3 Ðã
+
+xiu4    D0E4 Ðä
+
+xiu4    D0E5 Ðå
+
+xiu4    E1B6 á¶
+
+xiu4    E4E5 äå
+
+xu1     D0E6 Ðæ
+
+xu1     D0E7 Ðç*
+
+xu1     D0E8 Ðè
+
+xu1     D0E9 Ðé
+
+xu1     D0EA Ðê*
+
+xu1     D0EB Ðë
+
+xu1     D3F5 Óõ*
+
+xu1     DBD7 Û×*
+
+xu1     E7EF çï
+
+xu1     EDEC íì
+
+xu1     F1E3 ñã
+
+xu2     D0EC Ðì
+
+xu3     D0ED Ðí
+
+xu3     DABC Ú¼
+
+xu3     E4B0 ä°*
+
+xu3     E8F2 èò
+
+xu3     F4DA ôÚ
+
+xu3     F5AF õ¯
+
+xu4     D0EE Ðî
+
+xu4     D0EF Ðï
+
+xu4     D0F0 Ðð
+
+xu4     D0F1 Ðñ
+
+xu4     D0F2 Ðò
+
+xu4     D0F3 Ðó*
+
+xu4     D0F4 Ðô
+
+xu4     D0F5 Ðõ
+
+xu4     D0F6 Ðö
+
+xu4     D0F7 Ð÷
+
+xu4     D0F8 Ðø
+
+xu4     DBC3 ÛÃ
+
+xu4     E4AA äª
+
+xu4     E4D3 äÓ
+
+xu4     ECE3 ìã
+
+xu5     DEA3 Þ£
+
+xuan1   D0F9 Ðù
+
+xuan1   D0FA Ðú
+
+xuan1   D0FB Ðû
+
+xuan1   D9D8 ÙØ
+
+xuan1   DACE ÚÎ
+
+xuan1   DDE6 Ýæ
+
+xuan1   DEEF Þï
+
+xuan1   EAD1 êÑ
+
+xuan1   ECD3 ìÓ
+
+xuan2   D0FC Ðü
+
+xuan2   D0FD Ðý*
+
+xuan2   D0FE Ðþ
+
+xuan2   E4F6 äö
+
+xuan2   E8AF è¯
+
+xuan2   F0E7 ðç
+
+xuan3   D1A1 Ñ¡
+
+xuan3   D1A2 Ñ¢
+
+xuan4   C8AF È¯*
+
+xuan4   D0FD Ðý*
+
+xuan4   D1A3 Ñ£
+
+xuan4   D1A4 Ñ¤
+
+xuan4   E3F9 ãù
+
+xuan4   E4D6 äÖ
+
+xuan4   E9B8 é¸
+
+xuan4   ECC5 ìÅ
+
+xuan4   EDDB íÛ
+
+xuan4   EEE7 îç
+
+xuan4   EFE0 ïà
+
+xue1    CFF7 Ï÷*
+
+xue1    D1A5 Ñ¥
+
+xue1    D1A6 Ñ¦
+
+xue2    D1A7 Ñ§
+
+xue2    D1A8 Ñ¨
+
+xue2    E0E5 àå*
+
+xue2    EDB4 í´
+
+xue2    F5BD õ½
+
+xue3    D1A9 Ñ©
+
+xue3    F7A8 ÷¨
+
+xue4    D1AA Ñª*
+
+xue4    DACA ÚÊ
+
+xun1    D1AB Ñ«
+
+xun1    D1AC Ñ¬*
+
+xun1    DBF7 Û÷
+
+xun1    DEB9 Þ¹
+
+xun1    E2B4 â´
+
+xun1    EAD6 êÖ
+
+xun1    F1BF ñ¿*
+
+xun1    F5B8 õ¸
+
+xun2    D1AD Ñ­
+
+xun2    D1AE Ñ®
+
+xun2    D1AF Ñ¯
+
+xun2    D1B0 Ñ°
+
+xun2    D1B2 Ñ²
+
+xun2    DBA8 Û¨*
+
+xun2    DCF7 Ü÷
+
+xun2    DDA1 Ý¡*
+
+xun2    E1BE á¾
+
+xun2    E2FE âþ
+
+xun2    E4AD ä­
+
+xun2    E4B1 ä±
+
+xun2    F6E0 öà
+
+xun4    BFA3 ¿£*
+
+xun4    D1AC Ñ¬*
+
+xun4    D1B1 Ñ±
+
+xun4    D1B3 Ñ³
+
+xun4    D1B4 Ñ´
+
+xun4    D1B5 Ñµ
+
+xun4    D1B6 Ñ¶
+
+xun4    D1B7 Ñ·
+
+xun4    D1B8 Ñ¸
+
+xun4    D9E3 Ùã
+
+xun4    DEA6 Þ¦
+
+xun4    E1DF áß
+
+ya1     D1B9 Ñ¹
+
+ya1     D1BA Ñº
+
+ya1     D1BB Ñ»
+
+ya1     D1BC Ñ¼
+
+ya1     D1BD Ñ½*
+
+ya1     D1BE Ñ¾
+
+ya1     D1C5 ÑÅ*
+
+ya1     D1C6 ÑÆ*
+
+ya1     DBEB Ûë*
+
+ya1     E8E2 èâ
+
+ya2     D1BF Ñ¿
+
+ya2     D1C0 ÑÀ
+
+ya2     D1C1 ÑÁ
+
+ya2     D1C2 ÑÂ
+
+ya2     D1C3 ÑÃ
+
+ya2     D1C4 ÑÄ
+
+ya2     D8F3 Øó
+
+ya2     E1AC á¬
+
+ya2     E7F0 çð
+
+ya2     EDFD íý
+
+ya3     D1C5 ÑÅ*
+
+ya3     D1C6 ÑÆ*
+
+ya3     F0E9 ðé
+
+ya3     F1E2 ñâ*
+
+ya4     D1C7 ÑÇ
+
+ya4     D1C8 ÑÈ
+
+ya4     D4FE Ôþ*
+
+ya4     DBEB Ûë*
+
+ya4     DEEB Þë
+
+ya4     E5C2 åÂ
+
+ya4     E6AB æ«
+
+ya4     EBB2 ë²
+
+ya4     EDBC í¼
+
+ya5     D1BD Ñ½*
+
+yan1    D1C9 ÑÉ
+
+yan1    D1CA ÑÊ*
+
+yan1    D1CB ÑË
+
+yan1    D1CC ÑÌ
+
+yan1    D1CD ÑÍ
+
+yan1    D1E0 Ñà*
+
+yan1    D2F3 Òó*
+
+yan1    DBB3 Û³
+
+yan1    DDCE ÝÎ
+
+yan1    E1C3 áÃ
+
+yan1    E2FB âû
+
+yan1    E3D5 ãÕ*
+
+yan1    E4CE äÎ*
+
+yan1    E6CC æÌ
+
+yan1    EBD9 ëÙ
+
+yan1    EBE7 ëç*
+
+yan2    C7A6 Ç¦*
+
+yan2    D1CE ÑÎ
+
+yan2    D1CF ÑÏ
+
+yan2    D1D0 ÑÐ
+
+yan2    D1D1 ÑÑ
+
+yan2    D1D2 ÑÒ
+
+yan2    D1D3 ÑÓ
+
+yan2    D1D4 ÑÔ
+
+yan2    D1D5 ÑÕ
+
+yan2    D1D6 ÑÖ
+
+yan2    D1D7 Ñ×
+
+yan2    D1D8 ÑØ
+
+yan2    DAE7 Úç*
+
+yan2    DCBE Ü¾*
+
+yan2    E3C6 ãÆ
+
+yan2    E5FB åû
+
+yan2    E9DC éÜ
+
+yan2    F3DB óÛ
+
+yan3    D1D9 ÑÙ
+
+yan3    D1DA ÑÚ
+
+yan3    D1DB ÑÛ
+
+yan3    D1DC ÑÜ
+
+yan3    D1DD ÑÝ
+
+yan3    D8C9 ØÉ
+
+yan3    D8DF Øß*
+
+yan3    D9B2 Ù²
+
+yan3    D9C8 ÙÈ
+
+yan3    D9F0 Ùð
+
+yan3    DBB1 Û±
+
+yan3    E7FC çü
+
+yan3    EEBB î»
+
+yan3    F7CA ÷Ê
+
+yan3    F7FA ÷ú
+
+yan4    D1CA ÑÊ*
+
+yan4    D1DE ÑÞ
+
+yan4    D1DF Ñß
+
+yan4    D1E0 Ñà*
+
+yan4    D1E1 Ñá
+
+yan4    D1E2 Ñâ
+
+yan4    D1E3 Ñã
+
+yan4    D1E4 Ñä
+
+yan4    D1E5 Ñå
+
+yan4    D1E6 Ñæ
+
+yan4    D1E7 Ñç
+
+yan4    D1E8 Ñè
+
+yan4    D1E9 Ñé
+
+yan4    D8CD ØÍ
+
+yan4    DADD ÚÝ
+
+yan4    E4D9 äÙ
+
+yan4    EACC êÌ
+
+yan4    ECCD ìÍ
+
+yan4    F5A6 õ¦
+
+yan4    F7D0 ÷Ð
+
+yang1   D1EA Ñê
+
+yang1   D1EB Ñë
+
+yang1   D1EC Ñì
+
+yang1   D1ED Ñí
+
+yang1   E3F3 ãó
+
+yang1   F7B1 ÷±*
+
+yang2   D1EE Ñî
+
+yang2   D1EF Ñï
+
+yang2   D1F0 Ñð
+
+yang2   D1F1 Ññ
+
+yang2   D1F2 Ñò
+
+yang2   D1F3 Ñó
+
+yang2   D1F4 Ñô
+
+yang2   E1E0 áà
+
+yang2   ECBE ì¾
+
+yang2   ECC8 ìÈ*
+
+yang2   F2D5 òÕ
+
+yang3   D1F5 Ñõ
+
+yang3   D1F6 Ñö
+
+yang3   D1F7 Ñ÷
+
+yang3   D1F8 Ñø
+
+yang4   D1F9 Ñù
+
+yang4   D1FA Ñú
+
+yang4   E2F3 âó
+
+yang4   ECC8 ìÈ*
+
+yang4   EDA6 í¦
+
+yang4   F7B1 ÷±*
+
+yao1    C3B4 Ã´*
+
+yao1    D1FB Ñû
+
+yao1    D1FC Ñü
+
+yao1    D1FD Ñý
+
+yao1    D2AA Òª*
+
+yao1    D4BC Ô¼*
+
+yao1    D8B2 Ø²
+
+yao1    DFBA ßº
+
+yao1    E7DB çÛ
+
+yao2    BDC4 ½Ä*
+
+yao2    CCD5 ÌÕ*
+
+yao2    D1FE Ñþ
+
+yao2    D2A1 Ò¡
+
+yao2    D2A2 Ò¢
+
+yao2    D2A3 Ò£
+
+yao2    D2A4 Ò¤
+
+yao2    D2A5 Ò¥
+
+yao2    D2A6 Ò¦
+
+yao2    D8B3 Ø³
+
+yao2    E1E6 áæ
+
+yao2    E7F2 çò
+
+yao2    E9F7 é÷
+
+yao2    EBC8 ëÈ
+
+yao2    EFA2 ï¢*
+
+yao2    F4ED ôí*
+
+yao2    F7A5 ÷¥
+
+yao3    D2A7 Ò§
+
+yao3    D2A8 Ò¨
+
+yao3    E1CA áÊ
+
+yao3    E8C3 èÃ
+
+yao3    F1BA ñº
+
+yao4    C5B1 Å±*
+
+yao4    D2A9 Ò©
+
+yao4    D2AA Òª*
+
+yao4    D2AB Ò«
+
+yao4    D4BF Ô¿*
+
+yao4    EAD7 ê×
+
+yao4    F0CE ðÎ
+
+ye1     D2AC Ò¬
+
+ye1     D2AD Ò­
+
+ye1     D2AE Ò®*
+
+ye1     D2B4 Ò´*
+
+ye2     D0B0 Ð°*
+
+ye2     D2AE Ò®*
+
+ye2     D2AF Ò¯
+
+ye2     DEDE ÞÞ
+
+ye2     EEF4 îô
+
+ye3     D2B0 Ò°
+
+ye3     D2B1 Ò±
+
+ye3     D2B2 Ò²
+
+ye4     D1CA ÑÊ*
+
+ye4     D2B3 Ò³
+
+ye4     D2B4 Ò´*
+
+ye4     D2B5 Òµ
+
+ye4     D2B6 Ò¶*
+
+ye4     D2B7 Ò·
+
+ye4     D2B8 Ò¸
+
+ye4     D2B9 Ò¹
+
+ye4     D2BA Òº
+
+ye4     D7A7 ×§*
+
+ye4     D8CC ØÌ
+
+ye4     DACB ÚË
+
+ye4     DAFE Úþ
+
+ye4     EACA êÊ
+
+ye4     ECC7 ìÇ
+
+yi1     D2BB Ò»
+
+yi1     D2BC Ò¼
+
+yi1     D2BD Ò½
+
+yi1     D2BE Ò¾
+
+yi1     D2BF Ò¿
+
+yi1     D2C0 ÒÀ
+
+yi1     D2C1 ÒÁ
+
+yi1     D2C2 ÒÂ*
+
+yi1     D2CE ÒÎ*
+
+yi1     DFDE ßÞ
+
+yi1     E0E6 àæ
+
+yi1     E2A2 â¢
+
+yi1     E4F4 äô
+
+yi1     ECA5 ì¥*
+
+yi1     F7F0 ÷ð
+
+yi2     C9DF Éß*
+
+yi2     D2C3 ÒÃ
+
+yi2     D2C4 ÒÄ
+
+yi2     D2C5 ÒÅ*
+
+yi2     D2C6 ÒÆ
+
+yi2     D2C7 ÒÇ
+
+yi2     D2C8 ÒÈ
+
+yi2     D2C9 ÒÉ
+
+yi2     D2CA ÒÊ
+
+yi2     D2CB ÒË
+
+yi2     D2CC ÒÌ
+
+yi2     D2CD ÒÍ
+
+yi2     DAB1 Ú±
+
+yi2     DBDD ÛÝ
+
+yi2     DCE8 Üè*
+
+yi2     DFD7 ß×
+
+yi2     E1DA áÚ
+
+yi2     E2C2 âÂ
+
+yi2     E2F9 âù
+
+yi2     E5C6 åÆ*
+
+yi2     EADD êÝ
+
+yi2     EDF4 íô
+
+yi2     F0EA ðê
+
+yi3     CEB2 Î²*
+
+yi3     D2CE ÒÎ*
+
+yi3     D2CF ÒÏ
+
+yi3     D2D0 ÒÐ
+
+yi3     D2D1 ÒÑ
+
+yi3     D2D2 ÒÒ
+
+yi3     D2D3 ÒÓ
+
+yi3     D2D4 ÒÔ
+
+yi3     DCD3 ÜÓ
+
+yi3     E5C6 åÆ*
+
+yi3     ECBD ì½
+
+yi3     EEC6 îÆ
+
+yi3     F4AF ô¯
+
+yi3     F4FD ôý
+
+yi4     B0AC °¬*
+
+yi4     D2C2 ÒÂ*
+
+yi4     D2D5 ÒÕ
+
+yi4     D2D6 ÒÖ
+
+yi4     D2D7 Ò×
+
+yi4     D2D8 ÒØ
+
+yi4     D2D9 ÒÙ*
+
+yi4     D2DA ÒÚ
+
+yi4     D2DB ÒÛ
+
+yi4     D2DC ÒÜ
+
+yi4     D2DD ÒÝ
+
+yi4     D2DE ÒÞ
+
+yi4     D2DF Òß
+
+yi4     D2E0 Òà
+
+yi4     D2E1 Òá
+
+yi4     D2E2 Òâ
+
+yi4     D2E3 Òã
+
+yi4     D2E4 Òä
+
+yi4     D2E5 Òå
+
+yi4     D2E6 Òæ
+
+yi4     D2E7 Òç
+
+yi4     D2E8 Òè
+
+yi4     D2E9 Òé
+
+yi4     D2EA Òê
+
+yi4     D2EB Òë
+
+yi4     D2EC Òì
+
+yi4     D2ED Òí
+
+yi4     D2EE Òî
+
+yi4     D2EF Òï
+
+yi4     D8D7 Ø×
+
+yi4     D8E6 Øæ
+
+yi4     D8FD Øý
+
+yi4     D9AB Ù«
+
+yi4     DBFC Ûü
+
+yi4     DCB2 Ü²
+
+yi4     DEB2 Þ²
+
+yi4     DEC4 ÞÄ
+
+yi4     DEC8 ÞÈ
+
+yi4     DEDA ÞÚ
+
+yi4     DFAE ß®
+
+yi4     DFBD ß½
+
+yi4     E0C9 àÉ*
+
+yi4     E1BB á»
+
+yi4     E2F8 âø
+
+yi4     E3A8 ã¨
+
+yi4     E6E4 æä
+
+yi4     E7CB çË
+
+yi4     E9EC éì
+
+yi4     E9F3 éó
+
+yi4     ECDA ìÚ
+
+yi4     EFD7 ï×
+
+yi4     EFEE ïî
+
+yi4     F0F9 ðù
+
+yi4     F1AF ñ¯
+
+yi4     F1B4 ñ´
+
+yi4     F2E6 òæ
+
+yi4     F4E0 ôà
+
+yi4     F4E8 ôè
+
+yin1    D2F0 Òð
+
+yin1    D2F1 Òñ*
+
+yin1    D2F2 Òò
+
+yin1    D2F3 Òó*
+
+yin1    D2F4 Òô
+
+yin1    D2F5 Òõ
+
+yin1    D2F6 Òö
+
+yin1    DCA7 Ü§
+
+yin1    E0B3 à³
+
+yin1    E4A6 ä¦
+
+yin1    E4CE äÎ*
+
+yin1    EBB3 ë³
+
+yin1    EEF7 î÷
+
+yin2    D2F7 Ò÷
+
+yin2    D2F8 Òø
+
+yin2    D2F9 Òù
+
+yin2    D2FA Òú
+
+yin2    DBB4 Û´
+
+yin2    DBF3 Ûó
+
+yin2    E1FE áþ
+
+yin2    E2B9 â¹
+
+yin2    F6AF ö¯
+
+yin2    F6B8 ö¸*
+
+yin3    D2FB Òû*
+
+yin3    D2FC Òü
+
+yin3    D2FD Òý
+
+yin3    D2FE Òþ
+
+yin3    DFC5 ßÅ
+
+yin3    F1AB ñ«
+
+yin3    F2BE ò¾
+
+yin4    D2F1 Òñ*
+
+yin4    D2FB Òû*
+
+yin4    D3A1 Ó¡
+
+yin4    D8B7 Ø·
+
+yin4    DCE1 Üá
+
+yin4    F1BF ñ¿*
+
+ying1   D3A2 Ó¢
+
+ying1   D3A3 Ó£
+
+ying1   D3A4 Ó¤
+
+ying1   D3A5 Ó¥
+
+ying1   D3A6 Ó¦*
+
+ying1   D3A7 Ó§
+
+ying1   DDBA Ýº
+
+ying1   DEFC Þü
+
+ying1   E0D3 àÓ
+
+ying1   E2DF âß
+
+ying1   E7F8 çø
+
+ying1   E8AC è¬
+
+ying1   F0D0 ðÐ
+
+ying1   F3BF ó¿
+
+ying2   D3A8 Ó¨
+
+ying2   D3A9 Ó©
+
+ying2   D3AA Óª
+
+ying2   D3AB Ó«
+
+ying2   D3AC Ó¬
+
+ying2   D3AD Ó­
+
+ying2   D3AE Ó®
+
+ying2   D3AF Ó¯
+
+ying2   D9F8 Ùø
+
+ying2   DCE3 Üã
+
+ying2   DCFE Üþ*
+
+ying2   DDD3 ÝÓ
+
+ying2   DDF6 Ýö
+
+ying2   E4DE äÞ
+
+ying2   E4EB äë
+
+ying2   E5AD å­
+
+ying2   E9BA éº
+
+ying3   D3B0 Ó°
+
+ying3   D3B1 Ó±
+
+ying3   DBAB Û«
+
+ying3   F1A8 ñ¨
+
+ying3   F2A3 ò£
+
+ying4   D3A6 Ó¦*
+
+ying4   D3B2 Ó²
+
+ying4   D3B3 Ó³
+
+ying4   EBF4 ëô
+
+yo1     D3B4 Ó´*
+
+yo1     D3FD Óý*
+
+yo1     E0A1 à¡
+
+yo5     D3B4 Ó´*
+
+yong1   D3B5 Óµ
+
+yong1   D3B6 Ó¶*
+
+yong1   D3B7 Ó·
+
+yong1   D3B8 Ó¸
+
+yong1   D3B9 Ó¹
+
+yong1   D3BA Óº
+
+yong1   DBD5 ÛÕ
+
+yong1   DCAD Ü­
+
+yong1   E3BC ã¼
+
+yong1   E7DF çß
+
+yong1   EFDE ïÞ
+
+yong1   F7AB ÷«
+
+yong1   F7D3 ÷Ó
+
+yong2   E0AF à¯
+
+yong3   D3BB Ó»
+
+yong3   D3BC Ó¼
+
+yong3   D3BD Ó½
+
+yong3   D3BE Ó¾
+
+yong3   D3BF Ó¿*
+
+yong3   D3C0 ÓÀ
+
+yong3   D3C1 ÓÁ
+
+yong3   D3C2 ÓÂ
+
+yong3   D9B8 Ù¸
+
+yong3   F0AE ð®
+
+yong4   D3B6 Ó¶*
+
+yong4   D3C3 ÓÃ
+
+you1    D3C4 ÓÄ
+
+you1    D3C5 ÓÅ
+
+you1    D3C6 ÓÆ
+
+you1    D3C7 ÓÇ
+
+you1    D8FC Øü
+
+you1    DFCF ßÏ
+
+you2    D3C8 ÓÈ
+
+you2    D3C9 ÓÉ
+
+you2    D3CA ÓÊ
+
+you2    D3CB ÓË
+
+you2    D3CC ÓÌ
+
+you2    D3CD ÓÍ
+
+you2    D3CE ÓÎ
+
+you2    DDAF Ý¯
+
+you2    DDB5 Ýµ
+
+you2    E8D6 èÖ*
+
+you2    E9E0 éà
+
+you2    F0E0 ðà
+
+you2    F2C4 òÄ
+
+you2    F2F6 òö
+
+you2    F2F8 òø*
+
+you2    F4ED ôí*
+
+you2    F6CF öÏ
+
+you3    D3CF ÓÏ
+
+you3    D3D0 ÓÐ*
+
+you3    D3D1 ÓÑ
+
+you3    D8D5 ØÕ
+
+you3    DDAC Ý¬
+
+you3    EBBB ë»
+
+you3    EEF0 îð
+
+you3    F7EE ÷î
+
+you4    D3D0 ÓÐ*
+
+you4    D3D2 ÓÒ
+
+you4    D3D3 ÓÓ
+
+you4    D3D4 ÓÔ
+
+you4    D3D5 ÓÕ
+
+you4    D3D6 ÓÖ
+
+you4    D3D7 Ó×
+
+you4    D9A7 Ù§
+
+you4    E0F3 àó
+
+you4    E5B6 å¶
+
+you4    E8D6 èÖ*
+
+you4    F2CA òÊ
+
+you4    F7F8 ÷ø
+
+yu1     D3D8 ÓØ
+
+yu1     D3D9 ÓÙ
+
+yu1     E6FA æú
+
+yu1     ECB6 ì¶*
+
+yu1     F0F6 ðö
+
+yu2     D3DA ÓÚ
+
+yu2     D3DB ÓÛ
+
+yu2     D3DC ÓÜ
+
+yu2     D3DD ÓÝ
+
+yu2     D3DE ÓÞ
+
+yu2     D3DF Óß
+
+yu2     D3E0 Óà
+
+yu2     D3E1 Óá*
+
+yu2     D3E2 Óâ
+
+yu2     D3E3 Óã
+
+yu2     D3E4 Óä
+
+yu2     D3E5 Óå
+
+yu2     D3E6 Óæ
+
+yu2     D3E7 Óç
+
+yu2     D3E8 Óè*
+
+yu2     D3E9 Óé
+
+yu2     D3EB Óë*
+
+yu2     D8AE Ø®
+
+yu2     DAC4 ÚÄ
+
+yu2     DDC7 ÝÇ
+
+yu2     DEED Þí
+
+yu2     E1CE áÎ
+
+yu2     E1FC áü
+
+yu2     E2C5 âÅ
+
+yu2     E6A5 æ¥
+
+yu2     E8A4 è¤
+
+yu2     EAEC êì
+
+yu2     EBE9 ëé
+
+yu2     ECA3 ì£
+
+yu2     ECB6 ì¶*
+
+yu2     F1BE ñ¾
+
+yu2     F2F5 òõ
+
+yu2     F3C4 óÄ
+
+yu2     F4A7 ô§
+
+yu2     F4A8 ô¨
+
+yu2     F6A7 ö§
+
+yu3     D3E8 Óè*
+
+yu3     D3EA Óê*
+
+yu3     D3EB Óë*
+
+yu3     D3EC Óì
+
+yu3     D3ED Óí
+
+yu3     D3EE Óî
+
+yu3     D3EF Óï*
+
+yu3     D3F0 Óð
+
+yu3     D8F1 Øñ
+
+yu3     D9B6 Ù¶
+
+yu3     E0F4 àô
+
+yu3     E0F6 àö
+
+yu3     E2D7 â×
+
+yu3     F0F5 ðõ
+
+yu3     F1C1 ñÁ
+
+yu3     F6B9 ö¹
+
+yu4     B9C8 ¹È*
+
+yu4     CEB5 Îµ*
+
+yu4     CEBE Î¾*
+
+yu4     D3EA Óê*
+
+yu4     D3EB Óë*
+
+yu4     D3EF Óï*
+
+yu4     D3F1 Óñ
+
+yu4     D3F2 Óò
+
+yu4     D3F3 Óó
+
+yu4     D3F4 Óô
+
+yu4     D3F5 Óõ*
+
+yu4     D3F6 Óö
+
+yu4     D3F7 Ó÷
+
+yu4     D3F8 Óø
+
+yu4     D3F9 Óù
+
+yu4     D3FA Óú
+
+yu4     D3FB Óû
+
+yu4     D3FC Óü
+
+yu4     D3FD Óý*
+
+yu4     D3FE Óþ
+
+yu4     D4A1 Ô¡
+
+yu4     D4A2 Ô¢
+
+yu4     D4A3 Ô£
+
+yu4     D4A4 Ô¤
+
+yu4     D4A5 Ô¥
+
+yu4     D4A6 Ô¦
+
+yu4     D6E0 Öà*
+
+yu4     D8B9 Ø¹
+
+yu4     DACD ÚÍ
+
+yu4     DDF7 Ý÷
+
+yu4     E2C0 âÀ
+
+yu4     E3D0 ãÐ
+
+yu4     E5F7 å÷
+
+yu4     E5FD åý
+
+yu4     EAC5 êÅ
+
+yu4     ECCF ìÏ
+
+yu4     ECD9 ìÙ*
+
+yu4     ECDB ìÛ
+
+yu4     EDB2 í²
+
+yu4     EEDA îÚ
+
+yu4     F0C1 ðÁ
+
+yu4     F0D6 ðÖ
+
+yu4     F2E2 òâ
+
+yuan1   D4A7 Ô§
+
+yuan1   D4A8 Ô¨
+
+yuan1   D4A9 Ô©
+
+yuan1   EDF3 íó
+
+yuan1   F0B0 ð°
+
+yuan1   F3EE óî
+
+yuan2   D4AA Ôª
+
+yuan2   D4AB Ô«
+
+yuan2   D4AC Ô¬
+
+yuan2   D4AD Ô­
+
+yuan2   D4AE Ô®
+
+yuan2   D4AF Ô¯
+
+yuan2   D4B0 Ô°
+
+yuan2   D4B1 Ô±*
+
+yuan2   D4B2 Ô²
+
+yuan2   D4B3 Ô³
+
+yuan2   D4B4 Ô´
+
+yuan2   D4B5 Ôµ
+
+yuan2   DCAB Ü«
+
+yuan2   DCBE Ü¾*
+
+yuan2   E0F7 à÷*
+
+yuan2   E3E4 ãä
+
+yuan2   E6C2 æÂ*
+
+yuan2   E9DA éÚ
+
+yuan2   EBBC ë¼
+
+yuan2   F3A2 ó¢
+
+yuan2   F6BD ö½
+
+yuan3   D4B6 Ô¶
+
+yuan4   D4B7 Ô·
+
+yuan4   D4B8 Ô¸
+
+yuan4   D4B9 Ô¹
+
+yuan4   D4BA Ôº
+
+yuan4   DBF9 Ûù
+
+yuan4   DEF2 Þò
+
+yuan4   E6C2 æÂ*
+
+yuan4   E8A5 è¥
+
+yue1    D4BB Ô»
+
+yue1    D4BC Ô¼*
+
+yue3    DFDC ßÜ*
+
+yue4    C0D6 ÀÖ*
+
+yue4    CBB5 Ëµ*
+
+yue4    D4BD Ô½
+
+yue4    D4BE Ô¾
+
+yue4    D4BF Ô¿*
+
+yue4    D4C0 ÔÀ
+
+yue4    D4C1 ÔÁ
+
+yue4    D4C2 ÔÂ
+
+yue4    D4C3 ÔÃ
+
+yue4    D4C4 ÔÄ
+
+yue4    D9DF Ùß
+
+yue4    E5AE å®
+
+yue4    E8DD èÝ*
+
+yue4    E9D0 éÐ
+
+yue4    EBBE ë¾
+
+yue4    EEE1 îá
+
+yun1    D4CE ÔÎ*
+
+yun1    EBB5 ëµ
+
+yun2    D4B1 Ô±*
+
+yun2    D4C5 ÔÅ
+
+yun2    D4C6 ÔÆ
+
+yun2    D4C7 ÔÇ
+
+yun2    D4C8 ÔÈ
+
+yun2    DCBF Ü¿
+
+yun2    E7A1 ç¡
+
+yun2    EAC0 êÀ
+
+yun2    F3DE óÞ*
+
+yun3    D4C9 ÔÉ
+
+yun3    D4CA ÔÊ
+
+yun3    E1F1 áñ
+
+yun3    E9E6 éæ
+
+yun4    D4B1 Ô±*
+
+yun4    D4CB ÔË
+
+yun4    D4CC ÔÌ
+
+yun4    D4CD ÔÍ
+
+yun4    D4CE ÔÎ*
+
+yun4    D4CF ÔÏ
+
+yun4    D4D0 ÔÐ
+
+yun4    DBA9 Û©
+
+yun4    E3A2 ã¢
+
+yun4    E3B3 ã³
+
+yun4    E8B9 è¹
+
+yun4    ECD9 ìÙ*
+
+za1     D4D1 ÔÑ
+
+za1     D4FA Ôú*
+
+za1     DED9 ÞÙ*
+
+za1     DFC6 ßÆ
+
+za2     D4D2 ÔÒ
+
+za2     D4D3 ÔÓ
+
+za2     D4DB ÔÛ*
+
+za3     D5A6 Õ¦*
+
+zai1    D4D4 ÔÔ*
+
+zai1    D4D5 ÔÕ
+
+zai1    D4D6 ÔÖ
+
+zai1    E7DE çÞ
+
+zai3    D4D7 Ô×
+
+zai3    D4D8 ÔØ*
+
+zai3    D7D0 ×Ð*
+
+zai3    E1CC áÌ
+
+zai4    D4D8 ÔØ*
+
+zai4    D4D9 ÔÙ
+
+zai4    D4DA ÔÚ
+
+zan1    F4A2 ô¢
+
+zan1    F4D8 ôØ
+
+zan2    D4DB ÔÛ*
+
+zan3    D4DC ÔÜ*
+
+zan3    DED9 ÞÙ*
+
+zan3    EAC3 êÃ
+
+zan3    F4F5 ôõ
+
+zan4    D4DD ÔÝ
+
+zan4    D4DE ÔÞ
+
+zan4    E8B6 è¶
+
+zan4    F6C9 öÉ
+
+zan5    D4DB ÔÛ*
+
+zang1   D4DF Ôß
+
+zang1   D4E0 Ôà*
+
+zang1   EAB0 ê°
+
+zang3   E6E0 æà
+
+zang4   B2D8 ²Ø*
+
+zang4   D4E0 Ôà*
+
+zang4   D4E1 Ôá
+
+zang4   DECA ÞÊ*
+
+zao1    D4E2 Ôâ
+
+zao1    D4E3 Ôã
+
+zao2    D4E4 Ôä
+
+zao3    D4E5 Ôå
+
+zao3    D4E6 Ôæ
+
+zao3    D4E7 Ôç
+
+zao3    D4E8 Ôè
+
+zao3    D4E9 Ôé
+
+zao4    D4EA Ôê
+
+zao4    D4EB Ôë
+
+zao4    D4EC Ôì
+
+zao4    D4ED Ôí
+
+zao4    D4EE Ôî
+
+zao4    D4EF Ôï
+
+zao4    DFF0 ßð
+
+ze2     D4F0 Ôð
+
+ze2     D4F1 Ôñ*
+
+ze2     D4F2 Ôò
+
+ze2     D4F3 Ôó
+
+ze2     D8D3 ØÓ
+
+ze2     DFF5 ßõ
+
+ze2     E0FD àý
+
+ze2     E5C5 åÅ
+
+ze2     F3D0 óÐ*
+
+ze2     F3E5 óå
+
+ze2     F4B7 ô·
+
+ze4     B2E0 ²à*
+
+ze4     D8C6 ØÆ
+
+ze4     EABE ê¾
+
+zei2    D4F4 Ôô
+
+zen3    D4F5 Ôõ
+
+zen4    DADA ÚÚ
+
+zeng1   D4F6 Ôö
+
+zeng1   D4F7 Ô÷
+
+zeng1   D4F8 Ôø*
+
+zeng1   E7D5 çÕ*
+
+zeng1   EEC0 îÀ
+
+zeng4   D4F9 Ôù
+
+zeng4   D7DB ×Û*
+
+zeng4   E7D5 çÕ*
+
+zeng4   EAB5 êµ
+
+zeng4   EFAD ï­
+
+zha1    B2E7 ²ç*
+
+zha1    B2E9 ²é*
+
+zha1    D4FA Ôú*
+
+zha1    D4FB Ôû*
+
+zha1    D4FC Ôü
+
+zha1    D5A6 Õ¦*
+
+zha1    DEEA Þê
+
+zha1    DFB8 ß¸*
+
+zha1    DFEE ßî
+
+zha1    F7FE ÷þ
+
+zha2    D4FA Ôú*
+
+zha2    D4FD Ôý*
+
+zha2    D4FE Ôþ*
+
+zha2    D5A1 Õ¡
+
+zha2    D5A2 Õ¢
+
+zha2    D5A8 Õ¨*
+
+zha3    D5A3 Õ£
+
+zha3    EDC4 íÄ
+
+zha4    C0AF À¯*
+
+zha4    D5A4 Õ¤*
+
+zha4    D5A5 Õ¥
+
+zha4    D5A6 Õ¦*
+
+zha4    D5A7 Õ§
+
+zha4    D5A8 Õ¨*
+
+zha4    D5A9 Õ©
+
+zha4    D7F5 ×õ*
+
+zha4    DFB8 ß¸*
+
+zha4    DFE5 ßå
+
+zha4    F0E4 ðä
+
+zha4    F2C6 òÆ
+
+zhai1   B2E0 ²à*
+
+zhai1   D5AA Õª
+
+zhai1   D5AB Õ«
+
+zhai2   B5D4 µÔ*
+
+zhai2   D4F1 Ôñ*
+
+zhai2   D5AC Õ¬
+
+zhai3   D5AD Õ­
+
+zhai4   D5AE Õ®
+
+zhai4   D5AF Õ¯
+
+zhai4   EDCE íÎ
+
+zhai4   F1A9 ñ©
+
+zhan1   D5B0 Õ°
+
+zhan1   D5B1 Õ±
+
+zhan1   D5B2 Õ²
+
+zhan1   D5B3 Õ³*
+
+zhan1   D5B4 Õ´
+
+zhan1   D5BC Õ¼*
+
+zhan1   DADE ÚÞ
+
+zhan1   ECB9 ì¹
+
+zhan3   D5B5 Õµ
+
+zhan3   D5B6 Õ¶
+
+zhan3   D5B7 Õ·
+
+zhan3   D5B8 Õ¸
+
+zhan3   D5B9 Õ¹
+
+zhan3   DEF8 Þø
+
+zhan4   B2FC ²ü*
+
+zhan4   D5BA Õº
+
+zhan4   D5BB Õ»
+
+zhan4   D5BC Õ¼*
+
+zhan4   D5BD Õ½
+
+zhan4   D5BE Õ¾
+
+zhan4   D5BF Õ¿
+
+zhan4   D5C0 ÕÀ
+
+zhang1  D5C1 ÕÁ
+
+zhang1  D5C2 ÕÂ
+
+zhang1  D5C3 ÕÃ
+
+zhang1  D5C4 ÕÄ
+
+zhang1  D5C5 ÕÅ
+
+zhang1  DBB5 Ûµ
+
+zhang1  E2AF â¯
+
+zhang1  E6D1 æÑ
+
+zhang1  E8B0 è°
+
+zhang1  F3AF ó¯
+
+zhang3  B3A4 ³¤*
+
+zhang3  D5C6 ÕÆ
+
+zhang3  D5C7 ÕÇ*
+
+zhang3  D8EB Øë
+
+zhang4  D5C7 ÕÇ*
+
+zhang4  D5C8 ÕÈ
+
+zhang4  D5C9 ÕÉ
+
+zhang4  D5CA ÕÊ
+
+zhang4  D5CB ÕË
+
+zhang4  D5CC ÕÌ
+
+zhang4  D5CD ÕÍ
+
+zhang4  D5CE ÕÎ
+
+zhang4  D5CF ÕÏ
+
+zhang4  E1A4 á¤
+
+zhang4  E1D6 áÖ
+
+zhao1   B3AF ³¯*
+
+zhao1   B3B0 ³°*
+
+zhao1   D5D0 ÕÐ
+
+zhao1   D5D1 ÕÑ
+
+zhao1   D7C5 ×Å*
+
+zhao1   DFFA ßú*
+
+zhao1   EEC8 îÈ
+
+zhao2   D7C5 ×Å*
+
+zhao3   D5D2 ÕÒ
+
+zhao3   D5D3 ÕÓ
+
+zhao3   D7A6 ×¦*
+
+zhao4   D5D4 ÕÔ
+
+zhao4   D5D5 ÕÕ
+
+zhao4   D5D6 ÕÖ
+
+zhao4   D5D7 Õ×
+
+zhao4   D5D8 ÕØ
+
+zhao4   D5D9 ÕÙ*
+
+zhao4   DAAF Ú¯
+
+zhao4   E8FE èþ*
+
+zhao4   F3C9 óÉ
+
+zhe1    D5DA ÕÚ
+
+zhe1    D5DB ÕÛ*
+
+zhe1    F2D8 òØ*
+
+zhe1    F3A7 ó§*
+
+zhe2    D5DB ÕÛ*
+
+zhe2    D5DC ÕÜ
+
+zhe2    D5DD ÕÝ
+
+zhe2    D5DE ÕÞ
+
+zhe2    DAD8 ÚØ
+
+zhe2    DFA1 ß¡
+
+zhe2    E9FC éü
+
+zhe2    EDDD íÝ
+
+zhe2    F2D8 òØ*
+
+zhe3    D5DF Õß
+
+zhe3    D5E0 Õà
+
+zhe3    F1DE ñÞ
+
+zhe3    F4F7 ô÷
+
+zhe4    D5E1 Õá
+
+zhe4    D5E2 Õâ*
+
+zhe4    D5E3 Õã
+
+zhe4    E8CF èÏ
+
+zhe4    F0D1 ðÑ
+
+zhe5    D7C5 ×Å*
+
+zhei4   D5E2 Õâ*
+
+zhen1   D5E4 Õä
+
+zhen1   D5E5 Õå
+
+zhen1   D5E6 Õæ
+
+zhen1   D5E7 Õç
+
+zhen1   D5E8 Õè
+
+zhen1   D5E9 Õé
+
+zhen1   D5EA Õê
+
+zhen1   D5EB Õë
+
+zhen1   D5EC Õì
+
+zhen1   D6A1 Ö¡
+
+zhen1   DDE8 Ýè
+
+zhen1   E4A5 ä¥
+
+zhen1   E4DA äÚ*
+
+zhen1   E8E5 èå
+
+zhen1   E9BB é»
+
+zhen1   EBD3 ëÓ
+
+zhen1   ECF5 ìõ
+
+zhen1   F3F0 óð
+
+zhen3   D5ED Õí
+
+zhen3   D5EE Õî
+
+zhen3   D5EF Õï
+
+zhen3   E7C7 çÇ
+
+zhen3   E9F4 éô
+
+zhen3   EEB3 î³
+
+zhen3   F0A1 ð¡
+
+zhen4   D5F0 Õð
+
+zhen4   D5F1 Õñ
+
+zhen4   D5F2 Õò
+
+zhen4   D5F3 Õó
+
+zhen4   DBDA ÛÚ
+
+zhen4   E9A9 é©*
+
+zhen4   EAE2 êâ
+
+zhen4   EBDE ëÞ
+
+zhen4   F0B2 ð²
+
+zheng1  B6A1 ¶¡*
+
+zheng1  D5F4 Õô
+
+zheng1  D5F5 Õõ*
+
+zheng1  D5F6 Õö
+
+zheng1  D5F7 Õ÷
+
+zheng1  D5F8 Õø
+
+zheng1  D5F9 Õù
+
+zheng1  D5FA Õú
+
+zheng1  D5FD Õý*
+
+zheng1  D6A2 Ö¢*
+
+zheng1  E1BF á¿
+
+zheng1  E1E7 áç*
+
+zheng1  EEDB îÛ*
+
+zheng1  EFA3 ï£
+
+zheng1  F3DD óÝ
+
+zheng3  D5FB Õû
+
+zheng3  D5FC Õü
+
+zheng4  D5F5 Õõ*
+
+zheng4  D5FD Õý*
+
+zheng4  D5FE Õþ
+
+zheng4  D6A2 Ö¢*
+
+zheng4  D6A3 Ö£
+
+zheng4  D6A4 Ö¤
+
+zheng4  DABA Úº
+
+zheng4  EEDB îÛ*
+
+zhi1    CACF ÊÏ*
+
+zhi1    D6A5 Ö¥
+
+zhi1    D6A6 Ö¦
+
+zhi1    D6A7 Ö§
+
+zhi1    D6A8 Ö¨*
+
+zhi1    D6A9 Ö©
+
+zhi1    D6AA Öª
+
+zhi1    D6AB Ö«
+
+zhi1    D6AC Ö¬
+
+zhi1    D6AD Ö­
+
+zhi1    D6AE Ö®
+
+zhi1    D6AF Ö¯
+
+zhi1    D6BB Ö»*
+
+zhi1    D8B4 Ø´
+
+zhi1    E8D9 èÙ
+
+zhi1    EBD5 ëÕ
+
+zhi1    ECF3 ìó
+
+zhi2    D6B0 Ö°
+
+zhi2    D6B1 Ö±
+
+zhi2    D6B2 Ö²
+
+zhi2    D6B3 Ö³*
+
+zhi2    D6B4 Ö´
+
+zhi2    D6B5 Öµ
+
+zhi2    D6B6 Ö¶
+
+zhi2    DBFA Ûú
+
+zhi2    DEFD Þý
+
+zhi2    F4EA ôê
+
+zhi2    F5C5 õÅ
+
+zhi2    F5DC õÜ
+
+zhi3    D6B7 Ö·
+
+zhi3    D6B8 Ö¸
+
+zhi3    D6B9 Ö¹
+
+zhi3    D6BA Öº
+
+zhi3    D6BB Ö»*
+
+zhi3    D6BC Ö¼
+
+zhi3    D6BD Ö½
+
+zhi3    DCC6 ÜÆ
+
+zhi3    E1E7 áç*
+
+zhi3    E5EB åë
+
+zhi3    E8D7 è×
+
+zhi3    E9F2 éò
+
+zhi3    ECED ìí
+
+zhi3    EDE9 íé
+
+zhi3    F5A5 õ¥
+
+zhi4    CAB6 Ê¶*
+
+zhi4    D6BE Ö¾
+
+zhi4    D6BF Ö¿
+
+zhi4    D6C0 ÖÀ
+
+zhi4    D6C1 ÖÁ
+
+zhi4    D6C2 ÖÂ
+
+zhi4    D6C3 ÖÃ
+
+zhi4    D6C4 ÖÄ
+
+zhi4    D6C5 ÖÅ*
+
+zhi4    D6C6 ÖÆ
+
+zhi4    D6C7 ÖÇ
+
+zhi4    D6C8 ÖÈ
+
+zhi4    D6C9 ÖÉ
+
+zhi4    D6CA ÖÊ
+
+zhi4    D6CB ÖË
+
+zhi4    D6CC ÖÌ
+
+zhi4    D6CD ÖÍ
+
+zhi4    D6CE ÖÎ
+
+zhi4    D6CF ÖÏ
+
+zhi4    DAEC Úì
+
+zhi4    DBA4 Û¤
+
+zhi4    E0F9 àù
+
+zhi4    E2E5 âå
+
+zhi4    E5E9 åé
+
+zhi4    E6EF æï
+
+zhi4    E8CE èÎ
+
+zhi4    E8E4 èä
+
+zhi4    E9F9 éù
+
+zhi4    EADE êÞ
+
+zhi4    EBF9 ëù
+
+zhi4    EFF4 ïô
+
+zhi4    F0BA ðº
+
+zhi4    F0EB ðë
+
+zhi4    F2CE òÎ
+
+zhi4    F5D9 õÙ
+
+zhi4    F5F4 õô
+
+zhi4    F6A3 ö£
+
+zhong1  D6D0 ÖÐ*
+
+zhong1  D6D1 ÖÑ
+
+zhong1  D6D2 ÖÒ
+
+zhong1  D6D3 ÖÓ
+
+zhong1  D6D4 ÖÔ
+
+zhong1  D6D5 ÖÕ
+
+zhong1  E2EC âì*
+
+zhong1  EFF1 ïñ
+
+zhong1  F3AE ó®
+
+zhong1  F4B1 ô±
+
+zhong3  D6D6 ÖÖ*
+
+zhong3  D6D7 Ö×
+
+zhong3  DAA3 Ú£
+
+zhong3  F5E0 õà
+
+zhong4  D6D0 ÖÐ*
+
+zhong4  D6D6 ÖÖ*
+
+zhong4  D6D8 ÖØ*
+
+zhong4  D6D9 ÖÙ
+
+zhong4  D6DA ÖÚ
+
+zhou1   D6DB ÖÛ
+
+zhou1   D6DC ÖÜ
+
+zhou1   D6DD ÖÝ
+
+zhou1   D6DE ÖÞ
+
+zhou1   D6DF Öß
+
+zhou1   D6E0 Öà*
+
+zhou1   DFFA ßú*
+
+zhou2   D6E1 Öá*
+
+zhou2   E6A8 æ¨
+
+zhou2   EDD8 íØ
+
+zhou3   D6E2 Öâ
+
+zhou3   D6E3 Öã
+
+zhou4   D6E1 Öá*
+
+zhou4   D6E4 Öä
+
+zhou4   D6E5 Öå
+
+zhou4   D6E6 Öæ
+
+zhou4   D6E7 Öç
+
+zhou4   D6E8 Öè
+
+zhou4   DDA7 Ý§
+
+zhou4   E6FB æû
+
+zhou4   E7A7 ç§
+
+zhou4   EBD0 ëÐ
+
+zhou4   F4A6 ô¦
+
+zhou4   F4FC ôü
+
+zhu1    D6E9 Öé
+
+zhu1    D6EA Öê
+
+zhu1    D6EB Öë
+
+zhu1    D6EC Öì
+
+zhu1    D6ED Öí
+
+zhu1    D6EE Öî
+
+zhu1    D6EF Öï
+
+zhu1    D9AA Ùª
+
+zhu1    DBA5 Û¥
+
+zhu1    DCEF Üï
+
+zhu1    E4A8 ä¨
+
+zhu1    E4F3 äó
+
+zhu1    E9C6 éÆ
+
+zhu1    E9CD éÍ
+
+zhu1    EEF9 îù
+
+zhu2    CAF5 Êõ*
+
+zhu2    D6F0 Öð
+
+zhu2    D6F1 Öñ
+
+zhu2    D6F2 Öò
+
+zhu2    D6FE Öþ
+
+zhu2    F0F1 ðñ
+
+zhu2    F3C3 óÃ
+
+zhu2    F4B6 ô¶
+
+zhu2    F5EE õî
+
+zhu3    CAF4 Êô*
+
+zhu3    D6F3 Öó
+
+zhu3    D6F4 Öô
+
+zhu3    D6F5 Öõ
+
+zhu3    D6F6 Öö
+
+zhu3    D6F7 Ö÷
+
+zhu3    E4BE ä¾
+
+zhu3    F7E6 ÷æ
+
+zhu4    D6F8 Öø*
+
+zhu4    D6F9 Öù
+
+zhu4    D6FA Öú
+
+zhu4    D6FB Öû
+
+zhu4    D6FC Öü
+
+zhu4    D6FD Öý
+
+zhu4    D7A1 ×¡
+
+zhu4    D7A2 ×¢
+
+zhu4    D7A3 ×£
+
+zhu4    D7A4 ×¤
+
+zhu4    D8F9 Øù
+
+zhu4    DCD1 ÜÑ
+
+zhu4    E8CC èÌ
+
+zhu4    ECC4 ìÄ
+
+zhu4    F0E6 ðæ
+
+zhu4    F3E7 óç
+
+zhu4    F4E3 ôã
+
+zhua1   D7A5 ×¥
+
+zhua1   DDAB Ý«*
+
+zhua3   D7A6 ×¦*
+
+zhuai1  D7A7 ×§*
+
+zhuai3  D7AA ×ª*
+
+zhuai4  D7A7 ×§*
+
+zhuan1  D7A8 ×¨
+
+zhuan1  D7A9 ×©
+
+zhuan1  F2A7 ò§
+
+zhuan3  D7AA ×ª*
+
+zhuan4  B4AB ´«*
+
+zhuan4  D7AA ×ª*
+
+zhuan4  D7AB ×«
+
+zhuan4  D7AC ×¬*
+
+zhuan4  D7AD ×­
+
+zhuan4  DFF9 ßù
+
+zhuan4  E2CD âÍ
+
+zhuang1 D7AE ×®
+
+zhuang1 D7AF ×¯
+
+zhuang1 D7B0 ×°
+
+zhuang1 D7B1 ×±
+
+zhuang3 DECA ÞÊ*
+
+zhuang4 B4B1 ´±*
+
+zhuang4 D7B2 ×²
+
+zhuang4 D7B3 ×³
+
+zhuang4 D7B4 ×´
+
+zhuang4 D9D7 Ù×*
+
+zhuang4 EDB0 í°*
+
+zhui1   D7B5 ×µ*
+
+zhui1   D7B6 ×¶
+
+zhui1   D7B7 ×·
+
+zhui1   E6ED æí
+
+zhui1   F6BF ö¿
+
+zhui4   D7B8 ×¸
+
+zhui4   D7B9 ×¹
+
+zhui4   D7BA ×º
+
+zhui4   E3B7 ã·
+
+zhui4   E7C4 çÄ
+
+zhun1   CDCD ÍÍ*
+
+zhun1   D7BB ×»
+
+zhun1   EBC6 ëÆ
+
+zhun1   F1B8 ñ¸
+
+zhun3   D7BC ×¼
+
+zhuo1   D7BD ×½
+
+zhuo1   D7BE ×¾
+
+zhuo1   D7C0 ×À
+
+zhuo1   D9BE Ù¾
+
+zhuo1   E4C3 äÃ
+
+zhuo1   E8FE èþ*
+
+zhuo1   ECCC ìÌ*
+
+zhuo2   BDC9 ½É*
+
+zhuo2   D6F8 Öø*
+
+zhuo2   D7BF ×¿
+
+zhuo2   D7C1 ×Á
+
+zhuo2   D7C2 ×Â
+
+zhuo2   D7C3 ×Ã
+
+zhuo2   D7C4 ×Ä
+
+zhuo2   D7C5 ×Å*
+
+zhuo2   D7C6 ×Æ
+
+zhuo2   D7C7 ×Ç
+
+zhuo2   DAC2 ÚÂ
+
+zhuo2   DFAA ßª
+
+zhuo2   E4B7 ä·
+
+zhuo2   E5AA åª
+
+zhuo2   ECFA ìú
+
+zhuo2   EDBD í½
+
+zhuo2   EFED ïí
+
+zi1     D6A8 Ö¨*
+
+zi1     D7C8 ×È*
+
+zi1     D7C9 ×É
+
+zi1     D7CA ×Ê
+
+zi1     D7CB ×Ë
+
+zi1     D7CC ×Ì
+
+zi1     D7CD ×Í
+
+zi1     D7CE ×Î
+
+zi1     D7D0 ×Ð*
+
+zi1     DAD1 ÚÑ
+
+zi1     E1D1 áÑ
+
+zi1     E6DC æÜ
+
+zi1     E7BB ç»
+
+zi1     EAA2 ê¢
+
+zi1     EADF êß
+
+zi1     EFC5 ïÅ
+
+zi1     F4D2 ôÒ
+
+zi1     F4F4 ôô
+
+zi1     F5FE õþ*
+
+zi1     F6A4 ö¤*
+
+zi1     F6B7 ö·
+
+zi1     F6F6 öö
+
+zi1     F7DA ÷Ú
+
+zi3     D7CF ×Ï
+
+zi3     D7D0 ×Ð*
+
+zi3     D7D1 ×Ñ
+
+zi3     D7D2 ×Ò
+
+zi3     D7D3 ×Ó
+
+zi3     DCEB Üë*
+
+zi3     E6A2 æ¢
+
+zi3     E8F7 è÷
+
+zi3     EFF6 ïö
+
+zi3     F1E8 ñè
+
+zi3     F3CA óÊ
+
+zi3     F6A4 ö¤*
+
+zi4     D7D4 ×Ô
+
+zi4     D7D5 ×Õ
+
+zi4     D7D6 ×Ö
+
+zi4     EDA7 í§
+
+zi4     EDF6 íö
+
+zong1   D7D7 ××
+
+zong1   D7D8 ×Ø
+
+zong1   D7D9 ×Ù
+
+zong1   D7DA ×Ú
+
+zong1   D7DB ×Û*
+
+zong1   E8C8 èÈ*
+
+zong1   EBEA ëê
+
+zong3   D7DC ×Ü
+
+zong3   D9CC ÙÌ
+
+zong4   D7DD ×Ý
+
+zong4   F4D5 ôÕ
+
+zou1    D7DE ×Þ
+
+zou1    DAC1 ÚÁ
+
+zou1    DAEE Úî
+
+zou1    DBB8 Û¸
+
+zou1    E6E3 æã
+
+zou1    F6ED öí
+
+zou3    D7DF ×ß
+
+zou4    D7E0 ×à
+
+zou4    D7E1 ×á
+
+zu1     D7E2 ×â
+
+zu1     DDCF ÝÏ
+
+zu2     D7E3 ×ã
+
+zu2     D7E4 ×ä*
+
+zu2     D7E5 ×å
+
+zu2     EFDF ïß
+
+zu3     D7E6 ×æ
+
+zu3     D7E7 ×ç
+
+zu3     D7E8 ×è
+
+zu3     D7E9 ×é
+
+zu3     D9DE ÙÞ
+
+zuan1   D7EA ×ê*
+
+zuan1   F5F2 õò
+
+zuan3   D7EB ×ë
+
+zuan3   E7DA çÚ
+
+zuan4   D7AC ×¬*
+
+zuan4   D7EA ×ê*
+
+zuan4   DFAC ß¬
+
+zui3    BED7 ¾×*
+
+zui3    D7EC ×ì
+
+zui3    F5FE õþ*
+
+zui4    D7ED ×í
+
+zui4    D7EE ×î
+
+zui4    D7EF ×ï
+
+zui4    DEA9 Þ©
+
+zun1    D7F0 ×ð
+
+zun1    D7F1 ×ñ
+
+zun1    E9D7 é×
+
+zun1    F7AE ÷®
+
+zun3    DFA4 ß¤
+
+zuo1    D7F7 ×÷*
+
+zuo1    E0DC àÜ*
+
+zuo2    D7F2 ×ò
+
+zuo2    F3D0 óÐ*
+
+zuo3    B4E9 ´é*
+
+zuo3    D7F3 ×ó
+
+zuo3    D7F4 ×ô
+
+zuo4    D7F5 ×õ*
+
+zuo4    D7F6 ×ö
+
+zuo4    D7F7 ×÷*
+
+zuo4    D7F8 ×ø
+
+zuo4    D7F9 ×ù
+
+zuo4    DAE8 Úè
+
+zuo4    DFF2 ßò
+
+zuo4    E2F4 âô
+
+zuo4    EBD1 ëÑ
+
+zuo4    ECF1 ìñ
+
+zuo4    F5A1 õ¡

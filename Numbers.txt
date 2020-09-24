@@ -1,0 +1,58 @@
+1 *--一* yi1
+2 (number) *-- 二*  er4
+2 (things)*-- 两*  liang3
+3 *-- 三*  san1
+4 *-- 四*  si4
+5 *-- 五*  wu3
+6 *-- 六*  liu4
+7 *-- 七*  qi1
+8 *-- 八*  ba1
+9 *-- 九*  jiu3
+10 *-- 十*  shi2
+11 *-- 十一*  shi2 yi1
+12 *-- 十二*  shi2 er4
+13 *-- 十三*  shi2 san1
+27 *-- 二十七*  er4 shi2 qi1
+100 *-- 一百*  yi1 bai3
+101 *-- 一百零一*  yi1 bai3 ling2 yi1
+110 *-- 一百一十*  yi1 bai3 yi1 shi2
+114 *-- 一百一十四*  yi1 bai3 yi1 shi2 si4
+1000 *-- 一千*  yi1 qian1
+2222 *-- 两千两百二十二*  liang3 qian1 liang3 bai3 er4 shi2 er4
+a hundred thousand*-- 十万* shi2 wan4  
+a kilogram*-- 一公斤* yi4 gong1 jin1  
+a meter*-- 米* yi4 gong1 chi3  
+eight*-- 八* ba1 
+eleven*-- 十一* shi2 yi1  
+five*-- 五* wu3  
+five hundred grams*-- 五百克*wu3 bai3 ke4  
+four*-- 四* si4 
+nine*-- 九* jiu3  
+one*-- 一个* yi1  
+one hundred*-- 一百* yi4 bai3   
+one hundred and twenty-three*-- 一百和二十三*yi4 bai3 er4 shi2 san1  
+one million*-- 一百万* yi4 bai3 wan2  
+one thousand*-- 一千* yi4 qian1   
+seven*-- 七* qi1  
+six*-- 六* liu4  
+sixty-nine*-- 六十九*yuan and forty-eight cents  liu4 shi2 jiu3 yuan2 si4 jiao3 ba1 fen1  
+ten*-- 十* shi2  
+ten thousand*-- 一万* yi2 wan4  
+thirty*-- 三十* san1 shi2  
+twelve*-- 十二* shi2 er4  
+twenty*-- 二十* er4 shi2  
+two*-- 二*er4  
+Now *-- 现在*  xian4 zai4
+Today *-- 今天*  jin1 tian1
+2:34 pm *--下午两点三十四* xia4 wu3 liang3 dian3 san1 shi2 si4
+11:00 am *-- 上午十一点钟*  shang4 wu3 shi2 yi1 dian3 zhong1
+Tomorrow *-- 明天*  ming2 tian1
+Yesterday *-- 昨天*  zuo2 tian1
+Day after tomorrow *-- 后天*  hou4 tian1
+Day before yesterday *-- 前天*  qian2 tian1
+3 days later (3 days from now) *-- 三天以后*  san1 tian1 yi3 hou4
+2 months before (2 months ago)  *-- 两个月以前*  liang3 ge4 yue4 yi3 qian2
+December *-- 十二月份*  shi2 er4 yue4 fen4
+November 28 *-- 十一月二十八*  shi2 yi1 yue4 er4 shi2 ba1
+November 28 (generally when written) *-- 11月28日* 11 yue428 ri4
+November 28 (optionally when spoken) *-- 十一月二十八号*  shi2 yi1 yue4 er4 shi2 ba1 hao4
