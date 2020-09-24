@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://www.csulb.edu/~txie/online.htm
+[DOC#6#7]
+BASEURL=http://www.csulb.edu/~txie/content.htm
+ORIGURL=content.htm
+[InternetShortcut]
+URL=http://www.csulb.edu/~txie/online.htm
+Modified=90055374F14EC50161

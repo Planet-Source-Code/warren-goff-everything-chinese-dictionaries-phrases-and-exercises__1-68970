@@ -1,0 +1,7 @@
+[DEFAULT]
+BASEURL=http://en.wikipedia.org/wiki/Pinyin
+[InternetShortcut]
+URL=http://en.wikipedia.org/wiki/Pinyin
+Modified=F09DAF434054C501D9
+IconFile=http://en.wikipedia.org/favicon.ico
+IconIndex=1

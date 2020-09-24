@@ -1,0 +1,25 @@
+I have a cough (present for over 6 weeks)*--我咳嗽(已经6周了)*wo3ke2sou4（yi3jing1liu4zhou1le5）
+I cough sputum (color, blood)*--我咳痰(带血丝)*wo3ke2tan2(dai4xie3si1)
+I have pneumonia*--我患了肺炎*wo3huan4le5fei4yan2
+ I am having trouble breathing*--我呼吸困难*wo3hu1xi1kun4nan2
+I am wheezing*--我喘息*wo3chuan3xi2
+I have asthma*--我有哮喘*wo3you3xiao1chuan3
+I am having an asthma attack*--我的哮喘发作了*wo3de5xiao1chuan3fa1zuo4le5
+I take cortisone*--我注射肾上腺皮质激素*wo3zhu4she4shen4shang4xian4pi2zhi3ji1su4
+Please give me a breathing treatment*--请治疗我的呼吸病症*qing3zhi4liao2wo3de5hu1xi1bing4zheng4
+My chest hurts*--我胸口痛*wo3xiong1kou3tong4
+I have pleurisy*--我患了胸膜炎*wo3huan4le5xiong1mo2yan2
+I have lung cancer*--我患了肺癌*wo3 huan4le5fei4ai2
+I have blood clots*--我有血块*wo3you3xie3kuai4
+I have chronic obstructive pulmonary disease*--我有慢性支气管疾病*wo3you3man4 xing4 zhi1 qi4 guan3 ji2 bing4
+My respiratory symptoms have worsened over the past few weeks*--我的呼吸症状经过几周后恶化了*wo3de5hu1xi1zheng4zhuang4jing1guo4ji3zhou1hou4 e4hua4le5
+I am having an exacerbation of COPD*--我的慢性支气管疾病恶化了*wo3de5man4 xing4 zhi1 qi4 guan3 ji2 bing4e4hua4le5
+I use oxygen (all times, at night, with exertion)*--我使用氧气(全天,在晚上,竭尽全力)*wo3shi3yong4yang3qi4（quan2tian1,zai4wan3shang4,jie2jin4quan2li4）
+I have sleep apnea*--我患有睡眠窒息症*wo3huan4you3shui4mian2zhi4xi1zheng4
+I use an apnea breathing device while sleeping*--我睡觉时使用防止窒息的呼吸设备*wo3 shui4jiao4shi2shi3yong4fang2zhi3zhi4xi1de5hu1xi1she4bei4
+I have had a pulmonary embolism*--我患有肺栓塞*wo3huan4you3fei4shuan1se4
+I went scuba diving*--我用潜水器潜水*wo3yong4qian2shui3qi4qian2shui3
+My immune system is weak*--我的免疫力很弱*wo3de5mian3yi4li4hen3ruo4
+I am allergic to Aspirin*--我对阿斯匹林过敏*wo3dui4a1si1pi1lin2guo4min3
+I smoke cigarettes*--我抽香烟*wo3chou1xiang1yan1
+
